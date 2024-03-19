@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ColorsCineplexHD.in">
+    <display-name lang="en">Colors Cineplex HD</display-name>
+  </channel>
+  <programme start="20240319012700 +0530" stop="20240319040100 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Action Blaster</title>
+    <desc lang="en">When gang leader Darvin's brother causes Amala to have a miscarriage, Amala's husband Anil fights him. Anil begins to face Darvin's wrath and he must figure out a way to defeat the gangster.</desc>
+    <credits>
+      <actor>Prithviraj Sukumaran</actor>
+      <actor>Chandini Sreedharan</actor>
+      <actor>Chemban Vinod Jose</actor>
+      <actor>Hannah Reji Koshy</actor>
+      <actor>Shammi Thilakan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78EAAE905B3B2B57C2EBC9C2865658A54D55BB01L.jpg"/>
+  </programme>
+  <programme start="20240319040100 +0530" stop="20240319060500 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Jigarbaaz Khiladi</title>
+    <desc lang="en">Shiva, a young man, comes to Chennai from Canada and starts a real estate business. As his business picks up, he learns that he is being cheated by the people he trusts the most.</desc>
+    <credits>
+      <actor>Jeevan</actor>
+      <actor>Vidya Pradeep</actor>
+      <actor>Nandha</actor>
+      <actor>Samuthirakani</actor>
+      <actor>Richard Rishi</actor>
+      <actor>Ranjith</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA7679DD8202D9E896A828D24A72D3D97991A951Z.jpg"/>
+  </programme>
+  <programme start="20240319060500 +0530" stop="20240319075500 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Bhoot</title>
+    <desc lang="en">Swati and Vishal move into a new flat that is haunted by the spirit of its previous tenant. After a while, Vishal notices that Swati has started behaving in a strange manner.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Urmila Matondkar</actor>
+      <actor>Fardeen Khan</actor>
+      <actor>Rekha</actor>
+      <actor>Nana Patekar</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE39837F8B3456270D45086DE1FB2A12F6972E0F8.jpg"/>
+  </programme>
+  <programme start="20240319075500 +0530" stop="20240319100100 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Mumbaikar</title>
+    <desc lang="en">Four individuals become unintentionally embroiled in the mistaken kidnapping of a child, who happens to be the son of a local Mumbai gangster.</desc>
+    <credits>
+      <actor>Vikrant Massey</actor>
+      <actor>Vijay Sethupathi</actor>
+      <actor>Tanya Maniktala</actor>
+      <actor>Hridhu Haroon</actor>
+      <actor>Sanjay Mishra</actor>
+      <actor>Ranvir Shorey</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A60DE6331D3DCC05074168006CBA6C56144D8C4FU.jpg"/>
+  </programme>
+  <programme start="20240319100100 +0530" stop="20240319131300 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Kuch Kuch Hota Hai</title>
+    <desc lang="en">After reading the letter her mother had written for her before she died, Anjali decides to bring together her widowed father, Rahul, with his true love who is also named Anjali.</desc>
+    <credits>
+      <actor>Shah Rukh Khan</actor>
+      <actor>Kajol</actor>
+      <actor>Salman Khan</actor>
+      <actor>Rani Mukerji</actor>
+      <actor>Sana Saeed</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F8D37D28D9F3B7324D0CDA48CCB39FC19EDB3C8J.jpg"/>
+  </programme>
+  <programme start="20240319131300 +0530" stop="20240319154000 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Dostana</title>
+    <desc lang="en">Sam and Kunal pretend to be a gay couple in order to share an apartment in Miami with Neha. However, their plan gets complicated when both of them fall in love with their new roommate.</desc>
+    <credits>
+      <actor>Abhishek Bachchan</actor>
+      <actor>John Abraham</actor>
+      <actor>Priyanka Chopra</actor>
+      <actor>Bobby Deol</actor>
+      <actor>Kiron Kher</actor>
+      <actor>Sushmita Mukherjee</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A69FC366BE12FBCD3E81A41C341A9094555A3CB3W.jpg"/>
+  </programme>
+  <programme start="20240319154000 +0530" stop="20240319174600 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Inspector Vijay</title>
+    <desc lang="en">Vijay, an honest police officer, meets Samyukta at a cafe and falls in love with her. However, his life changes when he witnesses a kidnapping and ends up helping a lonely woman, Lavanya.</desc>
+    <credits>
+      <actor>Bellamkonda Sreenivas</actor>
+      <actor>Neil Nitin Mukesh</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Harshvardhan Rane</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/369EE7A65DA8719A1450802407DDE0932628A9A9L.jpg"/>
+  </programme>
+  <programme start="20240319174600 +0530" stop="20240319195700 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Love Aaj Kal</title>
+    <desc lang="en">In a technology-driven world where love is on speed-dial, two lovers find themselves overcoming distances, failures and heartbreaks to find each other again and preserve the love they had abandoned.</desc>
+    <credits>
+      <actor>Saif Ali Khan</actor>
+      <actor>Deepika Padukone</actor>
+      <actor>Giselli Monteiro</actor>
+      <actor>Rishi Kapoor</actor>
+      <actor>Neetu Singh</actor>
+      <actor>Rahul Khanna</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B0F2FF8BC755C5DB197AA545EAD9F3ED5045E18E0.jpg"/>
+  </programme>
+  <programme start="20240319195700 +0530" stop="20240319220700 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Power Unlimited 2</title>
+    <desc lang="en">A businessman devoted to his family decides to take matters into his own hands after his sister witnesses a murder. Soon, secrets involving his past life come to light.</desc>
+    <credits>
+      <actor>Ravi Teja</actor>
+      <actor>Raashi Khanna</actor>
+      <actor>Seerat Kapoor</actor>
+      <actor>Freddy Daruwala</actor>
+      <actor>Murali Sharma</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D60A701622DECD0447381DDF454A8ABEAD51DCE76.jpg"/>
+  </programme>
+  <programme start="20240319220700 +0530" stop="20240320003100 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Roberrt</title>
+    <desc lang="en">Raghava, the head cook in a catering unit, leads a peaceful life with his son Arjun. However, their bliss is short-lived as Raghava's past comes back to haunt him.</desc>
+    <credits>
+      <actor>Darshan</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Vinod Prabhakar</actor>
+      <actor>P. Ravi Shankar</actor>
+      <actor>Asha Bhat</actor>
+      <actor>Sonal Monteiro</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D574A906E8D6496BCADCFB32F8B87DAA4A20EEFFP.jpg"/>
+  </programme>
+  <programme start="20240320003100 +0530" stop="20240320030200 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Vikram Vedha</title>
+    <desc lang="en">Vikram, an encounter specialist, goes on the lookout for Vedha, a ruthless gangster. However, uncertainty ensues when the latter inadvertently surrenders and gets bailed by Vikram's advocate wife.</desc>
+    <credits>
+      <actor>Hrithik Roshan</actor>
+      <actor>Saif Ali Khan</actor>
+      <actor>Radhika Apte</actor>
+      <actor>Rohit Saraf</actor>
+      <actor>Yogita Bihani</actor>
+      <actor>Sharib Hashmi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06A2509937B97334FDBEEDD4C56A25C0F27D4192S.jpg"/>
+  </programme>
+  <programme start="20240320030200 +0530" stop="20240320044600 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">The Attacks Of 26/11</title>
+    <desc lang="en">Ten terrorists travel to India and launch several attacks at various places in South Mumbai. Subsequently, the Mumbai Police arrests Ajmal Kasab, one of the terrorists.</desc>
+    <credits>
+      <actor>Nana Patekar</actor>
+      <actor>Saad Orhan</actor>
+      <actor>Sanjeev Jaiswal</actor>
+      <actor>Atul Gavandi</actor>
+      <actor>Atul Kulkarni</actor>
+      <actor>Ganesh Yadav</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/032706C4AABCE066A0508CB3039794F5EDE95CDFE.jpg"/>
+  </programme>
+  <programme start="20240320044600 +0530" stop="20240320061000 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Hari Puttar: A Comedy Of Terrors</title>
+    <desc lang="en">Cousins Hari and Tuk Tuk are accidentally left behind when their family go on a vacation. They then set out to foil the plan of two burglars who want to steal a top-secret chip from their house.</desc>
+    <credits>
+      <actor>Zain Khan</actor>
+      <actor>Swini Khara</actor>
+      <actor>Jackie Shroff</actor>
+      <actor>Sarika</actor>
+      <actor>Saurabh Shukla</actor>
+      <actor>Vijay Raaz</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AD1C769BAB4FA185FBA3EFE268EAE2742D034F74Z.jpg"/>
+  </programme>
+  <programme start="20240320061000 +0530" stop="20240320082900 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Jung Ka Elaan</title>
+    <desc lang="en">Eshwar, an urban dweller, returns to his village only to face the wrath of a group of ruthless goons. He is determined to fight against those criminals and reinstate the peace in his village.</desc>
+    <credits>
+      <actor>Darshan</actor>
+      <actor>Rakshitha</actor>
+      <actor>Radhika</actor>
+      <actor>Diganth Manchale</actor>
+      <actor>Sadhu Kokila</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/71E70338A80C9B4800923D0470D6D7E52B43F296T.jpg"/>
+  </programme>
+  <programme start="20240320082900 +0530" stop="20240320103000 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Betting Raja</title>
+    <desc lang="en">Raj leads a carefree life and gambles his life away. When his father is in need of expensive medical treatment, he bets on winning Chaitra's love in exchange for a large amount of money.</desc>
+    <credits>
+      <actor>Ram Charan Teja</actor>
+      <actor>Tamannaah Bhatia</actor>
+      <actor>Ajmal Ameer</actor>
+      <actor>Mukesh Rishi</actor>
+      <actor>Kota Srinivasa Rao</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17FE1316A6E23CACCB198C393901BFBBD1EBF1C1T.jpg"/>
+  </programme>
+  <programme start="20240320103000 +0530" stop="20240320124900 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Veeram</title>
+    <desc lang="en">Between two brothers who are brought up by their sister, one embraces a life of crime and the other is an honest man. But things take a turn when the latter loses his brother and wants revenge.</desc>
+    <credits>
+      <actor>Prajwal Devaraj</actor>
+      <actor>Rachita Ram</actor>
+      <actor>Srinagara Kitty</actor>
+      <actor>Shruti</actor>
+      <actor>Achyuth</actor>
+      <actor>Shishya Deepak</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3563D94D708109EDBC55D1150044BEF17678654E.jpg"/>
+  </programme>
+  <programme start="20240320124900 +0530" stop="20240320153900 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">777 Charlie</title>
+    <desc lang="en">Dharma, a hopeless man, leads his life in ruins until an abused pup named Charlie walks in and changes it completely for good.</desc>
+    <credits>
+      <actor>Rakshit Shetty</actor>
+      <actor>Sangeetha Sringeri</actor>
+      <actor>Raj B Shetty</actor>
+      <actor>Danish Sait</actor>
+      <actor>Sharvari</actor>
+      <actor>Bobby Simha</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D303F2D83CB7F19482D613A68F2650DF3D9CC51C.jpg"/>
+  </programme>
+  <programme start="20240320153900 +0530" stop="20240320174900 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Dasvi</title>
+    <desc lang="en">Ganga Ram Chaudhary, a corrupt and uneducated politician, goes to jail due to the efforts of the police. However, he soon discovers the value of education and decides to earn his 10th-grade diploma.</desc>
+    <credits>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Yami Gautam</actor>
+      <actor>Nimrat Kaur</actor>
+      <actor>Manu Rishi</actor>
+      <actor>Abhimanyu Yadav</actor>
+      <actor>Arun Kushwaha</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB1A20206FC9F7EB6F0AA476682B797D54013735X.jpg"/>
+  </programme>
+  <programme start="20240320174900 +0530" stop="20240320195800 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Kaal</title>
+    <desc lang="en">Krish, a wildlife expert, along with a few tourists, teams up with Kaali, a village chief, to battle a supernatural entity responsible for killing several people in a forest.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>John Abraham</actor>
+      <actor>Vivek Oberoi</actor>
+      <actor>Esha Deol</actor>
+      <actor>Lara Dutta</actor>
+      <actor>Vishal Malhotra</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F41A3EA01C3125A6C31EDDCB8E1B73D2ED9BA27CW.jpg"/>
+  </programme>
+  <programme start="20240320195800 +0530" stop="20240320223600 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Phir Hera Pheri</title>
+    <desc lang="en">The lives of Raju, Shyam and Baburao change completely when they get cheated by a fraudster. Now, they must find another way to repay the loan they took from a dreaded gangster.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Suniel Shetty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Bipasha Basu</actor>
+      <actor>Rimi Sen</actor>
+      <actor>Johnny Lever</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F381E0A792340E45F69F961168665968AAA1E32U.jpg"/>
+  </programme>
+  <programme start="20240320223600 +0530" stop="20240321003800 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Mary Kom</title>
+    <desc lang="en">When Mary Kom encounters a renowned coach in a boxing gym, she shares her boxing aspirations with him and convinces him to teach her. Despite her father's disapproval, she follows her passion.</desc>
+    <credits>
+      <actor>Priyanka Chopra</actor>
+      <actor>Sunil Thapa</actor>
+      <actor>Darshan Kumaar</actor>
+      <actor>Robin Das</actor>
+      <actor>Rajni Basumatary</actor>
+      <actor>Lin Laishram</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE6E570589A125FEC2454694E877610ED17D2C0DP.jpg"/>
+  </programme>
+</tv>

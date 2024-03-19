@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="&amp;tvHD.in">
+    <display-name lang="en">&amp;tv HD</display-name>
+  </channel>
+  <programme start="20240319000000 +0530" stop="20240319003000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti and Manmohan are shocked to see Anita and Angoori gamble before they can start. The wives, unable to sleep, continue gambling and ask Manmohan to prepare snacks for them.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62F6D0A7110BDB113B1F43B2B7D407BB851467FB9.jpg"/>
+    <episode-num system="xmltv_ns">.369.</episode-num>
+  </programme>
+  <programme start="20240319003000 +0530" stop="20240319010000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Happu Singh arrests Anita and Angoori for gambling openly. Manmohan and Vibhuti plead with him to let their wives go.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EE02F91239F22FE9074D7872C3F1A6EA1B6F938N.jpg"/>
+    <episode-num system="xmltv_ns">.370.</episode-num>
+  </programme>
+  <programme start="20240319010000 +0530" stop="20240319013000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">When Vibhuti accidentally gets hold of Birju, everyone gets impressed with him. Happu Singh, however, worries about his position as a police.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/615A10B612411489BA5CE1B9BC4D430F922D2190D.jpg"/>
+    <episode-num system="xmltv_ns">.371.</episode-num>
+  </programme>
+  <programme start="20240319013000 +0530" stop="20240319020000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti is appointed as an inspector but Happu Singh gets demoted because of this; Vibhuti handcuffs Manmohan after he teases him.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD334A202712416E0078682601320D7FE1AAA8AE6.jpg"/>
+    <episode-num system="xmltv_ns">.372.</episode-num>
+  </programme>
+  <programme start="20240319020000 +0530" stop="20240319023000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti accuses Manmohan of being a drug peddler and searches his entire house for proof; Happu Singh gets angry after the people do not show him any respect.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26F5B65158591CDB603BA34AB7A460D4C10B52E7Q.jpg"/>
+    <episode-num system="xmltv_ns">.373.</episode-num>
+  </programme>
+  <programme start="20240319023000 +0530" stop="20240319030000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti asks Manmohan to give Tillu the money he owes him, which makes him sad; Angoori pleads with Vibhuti to not arrest Manmohan.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F81B54683F15D0155456F76BDDC02EEF74B22A6N.jpg"/>
+    <episode-num system="xmltv_ns">.374.</episode-num>
+  </programme>
+  <programme start="20240319030000 +0530" stop="20240319033000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan pretends to be Briju Bhai and asks Vibhuti to resign as a police officer; Anita motivates Vibhuti to get rid of corruption.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0A36C82D226F025FC5F487D660292E328183DB3G.jpg"/>
+    <episode-num system="xmltv_ns">.375.</episode-num>
+  </programme>
+  <programme start="20240319033000 +0530" stop="20240319040000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan dreams about Anita dancing in pyjamas in the mohalla. When it actually happens, Manmohan feels that his dreams are turning into reality.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE210E1C11E9BF5252C12734FE9E7B0AEDCBA5D8Q.jpg"/>
+    <episode-num system="xmltv_ns">.376.</episode-num>
+  </programme>
+  <programme start="20240319040000 +0530" stop="20240319050000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">100 Days</title>
+    <desc lang="en">Rani Sardesai's husband, Dhananjay, suddenly goes missing and the investigation is handed over to an honest inspector, Ajay Thakur. However, Rani tries to foil his investigation and seduce him.</desc>
+    <credits>
+      <actor>Adinath Kothare</actor>
+      <actor>Tejaswini Pandit</actor>
+      <actor>Ramesh Bhatkar</actor>
+      <actor>Anant Jog</actor>
+      <actor>Archana Nipankar</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99A07384BE1E6FA187D3DFBACCAACA4703D318E6O.jpg"/>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+  </programme>
+  <programme start="20240319050000 +0530" stop="20240319060000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Raazz Mahal</title>
+    <desc lang="en">A king and a queen's happy life is disturbed when the wicked Dakini casts an evil shadow on the kingdom in her quest to become immortal. Soon, they must fight her to restore peace.</desc>
+    <credits>
+      <actor>Neha Harsora</actor>
+      <actor>Himanshu Soni</actor>
+      <actor>Ridheema Tiwari</actor>
+      <actor>Preeti Puri</actor>
+      <actor>Aarav Chowdhury</actor>
+      <actor>Vaidehi Nair</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C4B6EAEA4AC71723C70EC6DF5591E8A35BB7A6906.jpg"/>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20240319063000 +0530" stop="20240319070000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">When there is a mosquito on Anita's cheek, Vibhuti slaps her to kill the mosquito. Manmohan had dreamed about this too. He also dreams about Happu Singh getting suspended from the police force.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AC2589F36A2210D8F7D66CA310693464C8B44B74A.jpg"/>
+    <episode-num system="xmltv_ns">.378.</episode-num>
+  </programme>
+  <programme start="20240319070000 +0530" stop="20240319073000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan dreams about Angoori kissing Vibhuti. Vibhuti is secretly happy and wants this dream to turn into a reality. Anita then locks him inside their house to stop the dream from coming true.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD945328DA3B83A936857758C14733C9DC759B1DS.jpg"/>
+    <episode-num system="xmltv_ns">.379.</episode-num>
+  </programme>
+  <programme start="20240319073000 +0530" stop="20240319080000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">While Anita and Angoori play cricket, Vibhuti brags that he can still bat excellently. The women and the men of the mohalla are surprised by the arrival of Brett Lee, a retired Australian cricketer.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF41466C9099E4D0CCFDD7459E3B9403A634B0CCK.jpg"/>
+    <episode-num system="xmltv_ns">.380.</episode-num>
+  </programme>
+  <programme start="20240319080000 +0530" stop="20240319083000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Bantu, the minister's brother-in-law, harbours resentment towards Malaika. Seeking vengeance against Malaika, Bantu retaliates by splashing colours on Rajjo and Amma.</desc>
+    <credits>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Kamna Pathak</actor>
+      <actor>Himani Shivpuri</actor>
+      <actor>Sharad Vyas</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/41D44F1FD8E399145F296048050D0FAED294456EN.jpg"/>
+    <episode-num system="xmltv_ns">.1240.</episode-num>
+  </programme>
+  <programme start="20240319083000 +0530" stop="20240319090000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Barkha asks the Modern Colony residents about their preferred style of celebrating Holi. Later, Ammaji directs Angoori to engage in a disorderly Holi celebration.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/855E5029F79B88A60B7DAA241B1A661FFC88BAE4E.jpg"/>
+    <episode-num system="xmltv_ns">.2288.</episode-num>
+  </programme>
+  <programme start="20240319090000 +0530" stop="20240319093000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Angoori tells Manmohan that she desires to enact the role of Radha in a play in her locality on the occasion of Krishna Janmashtami.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/828B245DB084016992AAD2A5AD9A4DED6CDB7ED66.jpg"/>
+    <episode-num system="xmltv_ns">.135.</episode-num>
+  </programme>
+  <programme start="20240319093000 +0530" stop="20240319100000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Anita decides that the person with the most similar characteristics as that of Lord Krishna will take up the main role; Manmohan sees Anita dressed up as Rukmini and finds her avatar breathtaking.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA912E46B2FF4FABD17F02EB581D46FD6111EA15G.jpg"/>
+    <episode-num system="xmltv_ns">.136.</episode-num>
+  </programme>
+  <programme start="20240319100000 +0530" stop="20240319103000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti pours oil on the road, hoping that Manmohan will slip and get hurt. But Angoori is on the verge of slipping when Vibhuti tries to save her.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/002EB8598BA210C06C8389108DEE3944B72C5D48X.jpg"/>
+    <episode-num system="xmltv_ns">.137.</episode-num>
+  </programme>
+  <programme start="20240319103000 +0530" stop="20240319110000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan learns that Vibhuti suffers from a rare disease when he asks Angoori why she is crying; Vibhuti is surprised but pleased at Manmohan's reaction to his illness.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9C1FAE284C258D16C571766171F61A958028200K.jpg"/>
+    <episode-num system="xmltv_ns">.138.</episode-num>
+  </programme>
+  <programme start="20240319110000 +0530" stop="20240319123000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Anita gets angry with Vibhuti after she sees him spending most of his time with jobless people. Vibhuti promises Anita that he will try to be a better person.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6F4E767EE1862FBA3E59CA4BB382709172E3D851T.jpg"/>
+    <episode-num system="xmltv_ns">.275.</episode-num>
+  </programme>
+  <programme start="20240319123000 +0530" stop="20240319140000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Anita tries to catch Vibhuti red-handed when she believes he is having an affair with a woman named Sheila; Angoori confides her fears of Manmohan cheating on her in Anita and Vibhuti.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9F71114BF878E2348CC0A6F677F567CEF3E0300P.jpg"/>
+    <episode-num system="xmltv_ns">.198.</episode-num>
+  </programme>
+  <programme start="20240319140000 +0530" stop="20240319155200 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan and Vibhuti request a lady to give them her black dress as they need it. The lady, however, gives them coins. They then ask her whether they look like beggars.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1432F4395A101464D29F142AE51775C1CD39F2B92.jpg"/>
+    <episode-num system="xmltv_ns">.161.</episode-num>
+  </programme>
+  <programme start="20240319155200 +0530" stop="20240319170000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">In a residential society, a demon goes on a killing spree by murdering elderly people. Renu and Vinod visit Atul's house and realise that Atul's father is no more and try to establish a connection.</desc>
+    <credits>
+      <actor>Zain Imam</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Preetika Rao</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Donal Bisht</actor>
+      <actor>Akansha Sareen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A9778586D566DCCB855AA69F6A57243FBCCA76B.jpg"/>
+    <episode-num system="xmltv_ns">.153.</episode-num>
+  </programme>
+  <programme start="20240319170000 +0530" stop="20240319181000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">After Sakina refuses to let her husband, Saif, touch her, he is left dejected. When she tells him that a jackfruit disapproves of their proximity, he cuts it in disbelief and is shocked to find blood.</desc>
+    <credits>
+      <actor>Zain Imam</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Preetika Rao</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Donal Bisht</actor>
+      <actor>Akansha Sareen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D97337EB6837F20A5956F02EB4B6491787DC91AK.jpg"/>
+    <episode-num system="xmltv_ns">.53.</episode-num>
+  </programme>
+  <programme start="20240319181000 +0530" stop="20240319190600 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Drishyam Ek Chakravyuh</title>
+    <desc lang="en">Jagadhatri wants to tell the family about the incident but they try to silence her.</desc>
+    <credits>
+      <actor>Ankita Mallick</actor>
+      <actor>Somyadeep Muhkerjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA74E2292796F1FD0164B119FB35B21CAC21F5077.jpg"/>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20240319190600 +0530" stop="20240319195900 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Paramavatar Shri Krishna</title>
+    <desc lang="en">Balram requests a Brahman to not speak to Krishna about his ashram; Radha asks Krishna to do her 'shringaar' when she is informed about others doing it for him.</desc>
+    <credits>
+      <actor>Nirnay Samadhiya</actor>
+      <actor>Vishal Karwal</actor>
+      <actor>Gulki Joshi</actor>
+      <actor>Himmanshoo A Malhotra</actor>
+      <actor>Tarun Khanna</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADDA85D159CAFC29370E396B7EE6C4451AA06A26V.jpg"/>
+    <episode-num system="xmltv_ns">.50.</episode-num>
+  </programme>
+  <programme start="20240319195900 +0530" stop="20240319202500 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Atal</title>
+    <desc lang="en">A sage imparts wisdom to Atal, guiding him in the art of mastering his mind.</desc>
+    <credits>
+      <actor>Vyom Thakkar</actor>
+      <actor>Neha Joshi</actor>
+      <actor>Ashutosh Kulkarni</actor>
+      <actor>Milind Dastane</actor>
+      <actor>Rahul Jethva</actor>
+      <actor>Arya Joshi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15E33005A4AA90E880CCE5EC1A93C19D7DFA893FE.jpg"/>
+    <episode-num system="xmltv_ns">.75.</episode-num>
+  </programme>
+  <programme start="20240319202500 +0530" stop="20240319205200 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Ek Mahanayak - Dr B R Ambedkar</title>
+    <desc lang="en">A furious Ramji confronts Karuna for pushing Meera but Bala takes her side.</desc>
+    <credits>
+      <actor>Prasad Jawade</actor>
+      <actor>Aayudh Bhanushali</actor>
+      <actor>Neha Joshi</actor>
+      <actor>Jagannath Nivangune</actor>
+      <actor>Saud Mansuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1F33AFD386C11FD127217009C9E3323CD991A1AS.jpg"/>
+    <episode-num system="xmltv_ns">.1032.</episode-num>
+  </programme>
+  <programme start="20240319205200 +0530" stop="20240319211800 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Santoshi Maa</title>
+    <desc lang="en">Daksha asks Santoshi to take the money she had lent to Madhuri but she refuses; Dhairya wakes up due to a commotion and learns that Santoshi is not in the house.</desc>
+    <credits>
+      <actor>Gracy Singh</actor>
+      <actor>Ratan Rajput</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Debina Bonnerjee</actor>
+      <actor>Sachin Shroff</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E71D22832F0F036FFACDBB3AA3987A72B5854E9V.jpg"/>
+    <episode-num system="xmltv_ns">.50.</episode-num>
+  </programme>
+  <programme start="20240319211800 +0530" stop="20240319220400 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Yeh Kaali Kaali Ratein</title>
+    <desc lang="en">An evil entity compels Rohit to end the lives of his own parents. Later, Dr Keshav assists Supriya in breaking free from the control of Rohit's spirit.</desc>
+    <credits>
+      <actor>Punit Raghuvanshi</actor>
+      <actor>Shristi Sharma</actor>
+      <actor>Sarita Srivastava</actor>
+      <actor>Daisy Irani</actor>
+    </credits>
+    <category lang="en">Horror</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D2D55462854FF316C31B09A9D3C22BE2A93496FP.jpg"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20240319220400 +0530" stop="20240319223100 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Happu lives happily with his family and works day and night as a policeman. However, his life is filled with humorous events and misadventures at home and at work. Repeat - Mon,Tue,Wed,Thu,Fri,Sun 8:00 am.</desc>
+    <credits>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Kamna Pathak</actor>
+      <actor>Himani Shivpuri</actor>
+      <actor>Sharad Vyas</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9338DFA8D54F2491CDF328E86082AD2500652BC3Z.jpg"/>
+    <episode-num system="xmltv_ns">.1241.</episode-num>
+  </programme>
+  <programme start="20240319223100 +0530" stop="20240319230000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations. Repeat - Mon - Sat 8:30 am.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14023558E0BA2F9DEB79BAE7427B671317AF24D99.jpg"/>
+    <episode-num system="xmltv_ns">.2289.</episode-num>
+  </programme>
+  <programme start="20240319230000 +0530" stop="20240320000000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti tries to help Angoori win the challenge by stealing supplies from his own house and keeping it in Angoori's refrigerator; Manmohan learns that Anita has decided to challenge Vibhuti.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D3262E7B22B5B5C740D2395970020830403443D8I.jpg"/>
+    <episode-num system="xmltv_ns">.49.</episode-num>
+  </programme>
+  <programme start="20240320000000 +0530" stop="20240320003000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">A sage informs Angoori and Manmohan that Manmohan's days are numbered. He advises them to stay apart of his well-being and Angoori asks Anita to help them.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E50FA6C58F8597272B4D098682ECEB5F6A4B74BDM.jpg"/>
+    <episode-num system="xmltv_ns">.391.</episode-num>
+  </programme>
+  <programme start="20240320003000 +0530" stop="20240320010000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan feels disgusted on seeing Vibhuti sporting female attire. Vibhuti tells him that he is doing this only for Angoori's sake.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/462B6C621B9C62F604315901A627B9B62115C5AFQ.jpg"/>
+    <episode-num system="xmltv_ns">.392.</episode-num>
+  </programme>
+  <programme start="20240320010000 +0530" stop="20240320013000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti tells Anita and Angoori that he cannot stand Manmohan as the latter inconveniences him while sleeping. But Angoori somehow pacifies Vibhuti.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/413D585336DBE3724D7B143865BA7147DE8D8ED93.jpg"/>
+    <episode-num system="xmltv_ns">.393.</episode-num>
+  </programme>
+  <programme start="20240320013000 +0530" stop="20240320020000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti, in a female avatar, collides with Chachaji who instantly is smitten with whom he sees. Vibhuti runs away from Chachaji.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D2DDFC065F86015597B9E0DF3039C7F4E5367094.jpg"/>
+    <episode-num system="xmltv_ns">.394.</episode-num>
+  </programme>
+  <programme start="20240320020000 +0530" stop="20240320023000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Everyone gets scared of the robber who is relentlessly stealing all valuables; Anita screams for help after the robber steals her necklace.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F394A719F10F9FE859A5B3A7CFC51F33AF6036DAJ.jpg"/>
+    <episode-num system="xmltv_ns">.395.</episode-num>
+  </programme>
+  <programme start="20240320023000 +0530" stop="20240320030000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti refuses to celebrate Anita's birthday. However, after he learns that Angoori was looking forward to it, he decides to organise a party.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A95D649AF8129E797F7E66B091C1B5000B9FBF23.jpg"/>
+    <episode-num system="xmltv_ns">.396.</episode-num>
+  </programme>
+  <programme start="20240320030000 +0530" stop="20240320040000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">100 Days</title>
+    <desc lang="en">Rani Sardesai's husband, Dhananjay, suddenly goes missing and the investigation is handed over to an honest inspector, Ajay Thakur. However, Rani tries to foil his investigation and seduce him.</desc>
+    <credits>
+      <actor>Adinath Kothare</actor>
+      <actor>Tejaswini Pandit</actor>
+      <actor>Ramesh Bhatkar</actor>
+      <actor>Anant Jog</actor>
+      <actor>Archana Nipankar</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99A07384BE1E6FA187D3DFBACCAACA4703D318E6O.jpg"/>
+    <episode-num system="xmltv_ns">.26.</episode-num>
+  </programme>
+  <programme start="20240320040000 +0530" stop="20240320050000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">100 Days</title>
+    <desc lang="en">Rani Sardesai's husband, Dhananjay, suddenly goes missing and the investigation is handed over to an honest inspector, Ajay Thakur. However, Rani tries to foil his investigation and seduce him.</desc>
+    <credits>
+      <actor>Adinath Kothare</actor>
+      <actor>Tejaswini Pandit</actor>
+      <actor>Ramesh Bhatkar</actor>
+      <actor>Anant Jog</actor>
+      <actor>Archana Nipankar</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99A07384BE1E6FA187D3DFBACCAACA4703D318E6O.jpg"/>
+    <episode-num system="xmltv_ns">.27.</episode-num>
+  </programme>
+  <programme start="20240320050000 +0530" stop="20240320060000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Raazz Mahal</title>
+    <desc lang="en">A king and a queen's happy life is disturbed when the wicked Dakini casts an evil shadow on the kingdom in her quest to become immortal. Soon, they must fight her to restore peace.</desc>
+    <credits>
+      <actor>Neha Harsora</actor>
+      <actor>Himanshu Soni</actor>
+      <actor>Ridheema Tiwari</actor>
+      <actor>Preeti Puri</actor>
+      <actor>Aarav Chowdhury</actor>
+      <actor>Vaidehi Nair</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C4B6EAEA4AC71723C70EC6DF5591E8A35BB7A6906.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320063000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan, with a gift in his hand, walks to Anita's house, hoping to delight her by giving it to her. Meanwhile, Vibhuti goes to Angoori's house to give her a message.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF59B1B406E0B0A68132F09878F535E9EFDE162BL.jpg"/>
+    <episode-num system="xmltv_ns">.397.</episode-num>
+  </programme>
+  <programme start="20240320063000 +0530" stop="20240320070000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Anita refuses to cut the cake without Vibhuti; when both the couples meet on the road, the gang appears and starts beating them.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19D26305F864930A4D8DDCAD5263F3778D2617F49.jpg"/>
+    <episode-num system="xmltv_ns">.398.</episode-num>
+  </programme>
+  <programme start="20240320070000 +0530" stop="20240320073000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Angoori is surprised to see Manmohan and Vibhuti drinking alcohol; Anita gets annoyed when she has to spend time with Prem because of the curfew.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC9D1DA8F8D8F2A6E17AA0B3B3D54BF5CA2ACDDE9.jpg"/>
+    <episode-num system="xmltv_ns">.399.</episode-num>
+  </programme>
+  <programme start="20240320073000 +0530" stop="20240320080000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Happu Singh tries to reunite Anita with the others. However, the goons arrive and beat him too; Manmohan and Vibhuti are shocked to see the commissioner running from the goons.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A72149FA92AF41F8321671627C923A0DD3FEB8DBH.jpg"/>
+    <episode-num system="xmltv_ns">.400.</episode-num>
+  </programme>
+  <programme start="20240320080000 +0530" stop="20240320083000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Happu lives happily with his family and works day and night as a policeman. However, his life is filled with humorous events and misadventures at home and at work.</desc>
+    <credits>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Kamna Pathak</actor>
+      <actor>Himani Shivpuri</actor>
+      <actor>Sharad Vyas</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9338DFA8D54F2491CDF328E86082AD2500652BC3Z.jpg"/>
+    <episode-num system="xmltv_ns">.1241.</episode-num>
+  </programme>
+  <programme start="20240320083000 +0530" stop="20240320090000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14023558E0BA2F9DEB79BAE7427B671317AF24D99.jpg"/>
+    <episode-num system="xmltv_ns">.2289.</episode-num>
+  </programme>
+  <programme start="20240320090000 +0530" stop="20240320093000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan comes to Anita's house to give her jalebis. Vibhuti then insults him by throwing the jalebis at him, infuriating Manmohan.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/148BA348C860C84F162F984BC48B30B661AF42F5T.jpg"/>
+    <episode-num system="xmltv_ns">.139.</episode-num>
+  </programme>
+  <programme start="20240320093000 +0530" stop="20240320100000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti tells Angoori that Manmohan forced him to slap himself several times before looting him. Manmohan feigns surprise and tells Vibhuti that it must be his twin brother Jagmohan.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/72149D22D69BEEDC3F6E6F6B0F69C2AEE90C5FEA2.jpg"/>
+    <episode-num system="xmltv_ns">.140.</episode-num>
+  </programme>
+  <programme start="20240320100000 +0530" stop="20240320103000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Angoori hits Manmohan, thinking that he is Jagmohan and asks him to leave. Vibhuti calls up Manmohan's mother to complain about Jagmohan. But she says that she does not know Jagmohan.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/41111FED55F5E1E1A6BA9C748F3201F466B504F4J.jpg"/>
+    <episode-num system="xmltv_ns">.141.</episode-num>
+  </programme>
+  <programme start="20240320103000 +0530" stop="20240320110000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti feels like Anita only thinks of him as a servant and plots his own kidnapping with Tika and Malkhan; Inspector Happu investigates Vibhuti's kidnapping with aid from Manmohan and Angoori.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C055625F565050D4F383ABB1671D17DB5BB28D862.jpg"/>
+    <episode-num system="xmltv_ns">.142.</episode-num>
+  </programme>
+  <programme start="20240320110000 +0530" stop="20240320120000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti pours oil on the road, hoping that Manmohan will slip and get hurt. But Angoori is on the verge of slipping when Vibhuti tries to save her.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/002EB8598BA210C06C8389108DEE3944B72C5D48X.jpg"/>
+    <episode-num system="xmltv_ns">.137.</episode-num>
+  </programme>
+  <programme start="20240320120000 +0530" stop="20240320130000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti subjects himself to a lie-detector test. Anita asks him a question. The result is that the red light flashes. Anita then tells Vibhuti to leave the house.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/186CC826106CBC58A1E5108FD6DDD475A74A4CEA1.jpg"/>
+    <episode-num system="xmltv_ns">.128.</episode-num>
+  </programme>
+  <programme start="20240320130000 +0530" stop="20240320140000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti, Anita and Chedi reach Angoori's house. When Chedi subjects himself to a lie-detector test, he emerges as a liar. Subsequently, Anita says that Manmohan and Vibhuti undergo this test.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54DA300567B360692581C595AEF2209FEA939BC1C.jpg"/>
+    <episode-num system="xmltv_ns">.127.</episode-num>
+  </programme>
+  <programme start="20240320140000 +0530" stop="20240320150000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Manmohan pretends to be a goon in order to get Vibhuti to move his hands; Vibhuti waits for Angoori to feed him grapes but Saxena interrupts them.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76C3AACB70A4D61E7918C5FA020A55A38C2C58D2U.jpg"/>
+    <episode-num system="xmltv_ns">.244.</episode-num>
+  </programme>
+  <programme start="20240320150000 +0530" stop="20240320160000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">Though Siddharth gives his son, Nilu, a book about demons, things take an unexpected turn as the demons soon come to live and vow to make one of them.</desc>
+    <credits>
+      <actor>Zain Imam</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Preetika Rao</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Donal Bisht</actor>
+      <actor>Akansha Sareen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48A9213B361E80D1B087B868C7144CEA32BAD5B1D.jpg"/>
+    <episode-num system="xmltv_ns">.154.</episode-num>
+  </programme>
+  <programme start="20240320160000 +0530" stop="20240320170000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">While Vivaan awaits his lover Mahi at a restaurant, a mysterious girl asks him to save her from goons; Mahi's strange behaviour in the presence of her cousin Chitra shocks her family.</desc>
+    <credits>
+      <actor>Zain Imam</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Preetika Rao</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Donal Bisht</actor>
+      <actor>Akansha Sareen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CB4A175A01FD8DD8FCA2DC0DBDA324481223E3C2.jpg"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20240320170000 +0530" stop="20240320180000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">Following an eye surgery, Rishabh, a young man, sees frightening creatures who warn him against sleeping. When he realises that someone is harmed each time he falls asleep, he tries to stay awake.</desc>
+    <credits>
+      <actor>Zain Imam</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Preetika Rao</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Donal Bisht</actor>
+      <actor>Akansha Sareen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48A9213B361E80D1B087B868C7144CEA32BAD5B1D.jpg"/>
+    <episode-num system="xmltv_ns">.109.</episode-num>
+  </programme>
+  <programme start="20240320180000 +0530" stop="20240320190000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Drishyam Ek Chakravyuh</title>
+    <desc lang="en">Jagadhatri wants to tell the family about the incident but they try to silence her.</desc>
+    <credits>
+      <actor>Ankita Mallick</actor>
+      <actor>Somyadeep Muhkerjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA74E2292796F1FD0164B119FB35B21CAC21F5077.jpg"/>
+    <episode-num system="xmltv_ns">.48.</episode-num>
+  </programme>
+  <programme start="20240320190000 +0530" stop="20240320200000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Paramavatar Shri Krishna</title>
+    <desc lang="en">Radha tells everyone about Krishna doing her 'shringaar'; everyone is shocked that Shridhar didn't accept the food at the Brahman's 'bhog'.</desc>
+    <credits>
+      <actor>Nirnay Samadhiya</actor>
+      <actor>Vishal Karwal</actor>
+      <actor>Gulki Joshi</actor>
+      <actor>Himmanshoo A Malhotra</actor>
+      <actor>Tarun Khanna</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55FB4F437EAF7EA182C731306532603CAE57FBB9X.jpg"/>
+    <episode-num system="xmltv_ns">.51.</episode-num>
+  </programme>
+  <programme start="20240320200000 +0530" stop="20240320203000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Atal</title>
+    <desc lang="en">A sage imparts wisdom to Atal, guiding him in the art of mastering his mind.</desc>
+    <credits>
+      <actor>Vyom Thakkar</actor>
+      <actor>Neha Joshi</actor>
+      <actor>Ashutosh Kulkarni</actor>
+      <actor>Milind Dastane</actor>
+      <actor>Rahul Jethva</actor>
+      <actor>Arya Joshi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15E33005A4AA90E880CCE5EC1A93C19D7DFA893FE.jpg"/>
+    <episode-num system="xmltv_ns">.76.</episode-num>
+  </programme>
+  <programme start="20240320203000 +0530" stop="20240320210000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Ek Mahanayak - Dr B R Ambedkar</title>
+    <desc lang="en">A furious Ramji confronts Karuna for pushing Meera but Bala takes her side.</desc>
+    <credits>
+      <actor>Prasad Jawade</actor>
+      <actor>Aayudh Bhanushali</actor>
+      <actor>Neha Joshi</actor>
+      <actor>Jagannath Nivangune</actor>
+      <actor>Saud Mansuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1F33AFD386C11FD127217009C9E3323CD991A1AS.jpg"/>
+    <episode-num system="xmltv_ns">.1033.</episode-num>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240320213000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Santoshi Maa</title>
+    <desc lang="en">Riya asks Santoshi to carefully place the photo frame she bought for Dhariya in his room. However, Poulomi Maa uses this opportunity to cause trouble for Santoshi.</desc>
+    <credits>
+      <actor>Gracy Singh</actor>
+      <actor>Ratan Rajput</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Debina Bonnerjee</actor>
+      <actor>Sachin Shroff</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E71D22832F0F036FFACDBB3AA3987A72B5854E9V.jpg"/>
+    <episode-num system="xmltv_ns">.51.</episode-num>
+  </programme>
+  <programme start="20240320213000 +0530" stop="20240320220000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Yeh Kaali Kaali Ratein</title>
+    <desc lang="en">An evil entity compels Rohit to end the lives of his own parents.</desc>
+    <credits>
+      <actor>Punit Raghuvanshi</actor>
+      <actor>Shristi Sharma</actor>
+      <actor>Sarita Srivastava</actor>
+      <actor>Daisy Irani</actor>
+    </credits>
+    <category lang="en">Horror</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7506FB7D2C0B19BA08F20F736FECA9D97C6D207AU.jpg"/>
+    <episode-num system="xmltv_ns">.17.</episode-num>
+  </programme>
+  <programme start="20240320220000 +0530" stop="20240320223000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Happu lives happily with his family and works day and night as a policeman. However, his life is filled with humorous events and misadventures at home and at work. Repeat - Mon,Tue,Wed,Thu,Fri,Sun 8:00 am.</desc>
+    <credits>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Kamna Pathak</actor>
+      <actor>Himani Shivpuri</actor>
+      <actor>Sharad Vyas</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9338DFA8D54F2491CDF328E86082AD2500652BC3Z.jpg"/>
+    <episode-num system="xmltv_ns">.1242.</episode-num>
+  </programme>
+  <programme start="20240320223000 +0530" stop="20240320230000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations. Repeat - Mon - Sat 8:30 am.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14023558E0BA2F9DEB79BAE7427B671317AF24D99.jpg"/>
+    <episode-num system="xmltv_ns">.2290.</episode-num>
+  </programme>
+  <programme start="20240320230000 +0530" stop="20240321000000 +0530" channel="&amp;tvHD.in">
+    <title lang="en">Bhabi Ji Ghar Par Hain!</title>
+    <desc lang="en">Vibhuti is ecstatic at hearing that Angoori is not pregnant and ponders over his decision of relocating; Angoori dreams of eating mangoes and requests Manmohan to get some for her.</desc>
+    <credits>
+      <actor>Aashif Sheikh</actor>
+      <actor>Rohitash Gaud</actor>
+      <actor>Shubhangi Atre Poorey</actor>
+      <actor>Saumya Tandon</actor>
+      <actor>Yogesh Tripathi</actor>
+      <actor>Saanand Verma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3032E46359F42B3141538B5D1786F12AE1435E34U.jpg"/>
+    <episode-num system="xmltv_ns">.55.</episode-num>
+  </programme>
+</tv>

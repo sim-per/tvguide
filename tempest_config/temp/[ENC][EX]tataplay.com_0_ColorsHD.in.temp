@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ColorsHD.in">
+    <display-name lang="en">Colors HD</display-name>
+  </channel>
+  <programme start="20240319050000 +0530" stop="20240319053000 +0530" channel="ColorsHD.in">
+    <title lang="en">Udaariyan</title>
+    <desc lang="en">Aasmaa is startled to notice the presence of a toxic chemical in Meher's food. Eventually, Aasmaa plans to confront Alia about her involvement in the horrific crime.</desc>
+    <credits>
+      <actor>Priyanka Chaudhary</actor>
+      <actor>Ankit Gupta</actor>
+      <actor>Isha Malviya</actor>
+      <actor>Abhishek Kumar</actor>
+      <actor>Rashmeet Kaur Sethi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/825C775A8D09291EED15BAF3E7A6627426027A8BP.jpg"/>
+    <episode-num system="xmltv_ns">.993.</episode-num>
+  </programme>
+  <programme start="20240319053000 +0530" stop="20240319060000 +0530" channel="ColorsHD.in">
+    <title lang="en">Parineetii</title>
+    <desc lang="en">Neeti's insinuations about Pari's bond with Rajeev create a furore. Unfazed by Neeti's terse comments, Parminder retorts with a befitting reply.</desc>
+    <credits>
+      <actor>Ankur Verma</actor>
+      <actor>Tanvi Dogra</actor>
+      <actor>Anchal Shau</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C350E1A9A31596632AF6C7B76A58E856C9B92465Z.jpg"/>
+    <episode-num system="xmltv_ns">.693.</episode-num>
+  </programme>
+  <programme start="20240319060000 +0530" stop="20240319063000 +0530" channel="ColorsHD.in">
+    <title lang="en">Udaariyan</title>
+    <desc lang="en">Aasmaa is startled to notice the presence of a toxic chemical in Meher's food. Eventually, Aasmaa plans to confront Alia about her involvement in the horrific crime.</desc>
+    <credits>
+      <actor>Priyanka Chaudhary</actor>
+      <actor>Ankit Gupta</actor>
+      <actor>Isha Malviya</actor>
+      <actor>Abhishek Kumar</actor>
+      <actor>Rashmeet Kaur Sethi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/825C775A8D09291EED15BAF3E7A6627426027A8BP.jpg"/>
+    <episode-num system="xmltv_ns">.993.</episode-num>
+  </programme>
+  <programme start="20240319063000 +0530" stop="20240319070000 +0530" channel="ColorsHD.in">
+    <title lang="en">Parineetii</title>
+    <desc lang="en">Neeti's insinuations about Pari's bond with Rajeev create a furore. Unfazed by Neeti's terse comments, Parminder retorts with a befitting reply.</desc>
+    <credits>
+      <actor>Ankur Verma</actor>
+      <actor>Tanvi Dogra</actor>
+      <actor>Anchal Shau</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C350E1A9A31596632AF6C7B76A58E856C9B92465Z.jpg"/>
+    <episode-num system="xmltv_ns">.693.</episode-num>
+  </programme>
+  <programme start="20240319070000 +0530" stop="20240319105400 +0530" channel="ColorsHD.in">
+    <title lang="en">Dance Deewane</title>
+    <desc lang="en">Talented contestants, belonging to different generations, showcase their dancing skills and use different styles to impress the judges and win the coveted title.</desc>
+    <credits>
+      <actor>Madhuri Dixit Nene</actor>
+      <actor>Suniel Shetty</actor>
+    </credits>
+    <category lang="en">Dance Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/758C8101867D384A59E6A8572AD23277EF655619E.jpg"/>
+  </programme>
+  <programme start="20240319105400 +0530" stop="20240319112400 +0530" channel="ColorsHD.in">
+    <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
+    <desc lang="en">Karthikeya tries to reason with Devsena and secure her approval for marriage. However, things take a drastic turn after Devsena threatens to expel Karthikeya.</desc>
+    <credits>
+      <actor>Ram Yashvardhan</actor>
+      <actor>Subha Rajput</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1071103E91FDB3FA15EF210EC0696985838D421X.jpg"/>
+    <episode-num system="xmltv_ns">.266.</episode-num>
+  </programme>
+  <programme start="20240319112400 +0530" stop="20240319115400 +0530" channel="ColorsHD.in">
+    <title lang="en">Doree</title>
+    <desc lang="en">While Doree prepares to donate her blood, Agni notices a mysterious figure near Rukmani's hospital bed. Later, Agni chases Anand after he catches the latter red-handed trying to kill Rukmani.</desc>
+    <credits>
+      <actor>Mahi Bhanushali</actor>
+      <actor>Amar Upadhyay</actor>
+      <actor>Sudha Chandran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EED1D3AA25D422358ADEE8187790EEC299DA88FF0.jpg"/>
+    <episode-num system="xmltv_ns">.126.</episode-num>
+  </programme>
+  <programme start="20240319115400 +0530" stop="20240319122400 +0530" channel="ColorsHD.in">
+    <title lang="en">Mera Balam Thanedaar</title>
+    <desc lang="en">Bulbul finds herself in a strange dilemma after the priest requests Sulakshana to match her horoscope with Veer's. However, things take a turn after Vardhan's sudden arrival.</desc>
+    <credits>
+      <actor>Shagun Pandey</actor>
+      <actor>Shruti Choudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15C2F2AA524914BB0D7304C7C78D0B4BCBBFC257D.jpg"/>
+    <episode-num system="xmltv_ns">.53.</episode-num>
+  </programme>
+  <programme start="20240319122400 +0530" stop="20240319125400 +0530" channel="ColorsHD.in">
+    <title lang="en">Mangal Laxmi</title>
+    <desc lang="en">Adit is surprised to receive a video call from Karthik. Eventually, he experiences the shock of his life after learning about Mangal's presence in the same restaurant.</desc>
+    <credits>
+      <actor>Deepika Singh</actor>
+      <actor>Naman Shaw</actor>
+      <actor>RJ Sanika</actor>
+      <actor>Urvashi Upadhya</actor>
+      <actor>Gayatri Soham</actor>
+      <actor>Shubham Dipta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C8F463428B427209C20AF56ECCDBB467AE322965.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240319125400 +0530" stop="20240319155600 +0530" channel="ColorsHD.in">
+    <title lang="en">Thapki Pyar Ki</title>
+    <desc lang="en">Thapki, a lively and intelligent girl, faces certain problems that affect her life. She decides to move to a city in order to find a job and meets all challenges in a positive way.</desc>
+    <credits>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Monica Khanna</actor>
+      <actor>Gaurav Wadhwa</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADACB45EDB8F24EF36A0A58666339FA1389DED924.jpg"/>
+  </programme>
+  <programme start="20240319155600 +0530" stop="20240319183000 +0530" channel="ColorsHD.in">
+    <title lang="en">Balika Vadhu</title>
+    <desc lang="en">Married into an affluent family at a tender age, a child bride, Anandi, struggles to cope with the traditions. She overcomes multiple personal struggles to emerge as an example for rural women.</desc>
+    <credits>
+      <actor>Pratyusha Banerjee</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Shashank Vyas</actor>
+      <actor>Siddharth Shukla</actor>
+      <actor>Surekha Sikri</actor>
+      <actor>Aasiya Kazi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42F8BB0737361492FA7A21B9F17D8BB92741B6BAY.jpg"/>
+  </programme>
+  <programme start="20240319183000 +0530" stop="20240319190000 +0530" channel="ColorsHD.in">
+    <title lang="en">Suhaagan</title>
+    <desc lang="en">Drama ensues after Bindiya publicly slaps Payal for hurting Krish. Repeat - Mon,Sun 2:30 am.</desc>
+    <credits>
+      <actor>Aakriti Sharma</actor>
+      <actor>Kurangi Nagraj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04CC1D780D2E7463C1B79CCE7FB091378B653A44X.jpg"/>
+    <episode-num system="xmltv_ns">.321.</episode-num>
+  </programme>
+  <programme start="20240319190000 +0530" stop="20240319193000 +0530" channel="ColorsHD.in">
+    <title lang="en">Udaariyan</title>
+    <desc lang="en">A confrontation ensues after Aasmaa notices the presence of a chemical in Meher's food. Repeat - Mon,Sun 3:00 am.</desc>
+    <credits>
+      <actor>Priyanka Chaudhary</actor>
+      <actor>Ankit Gupta</actor>
+      <actor>Isha Malviya</actor>
+      <actor>Abhishek Kumar</actor>
+      <actor>Rashmeet Kaur Sethi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/065C1D2EEA538435939A7312D878C3CE139635DEH.jpg"/>
+    <episode-num system="xmltv_ns">.994.</episode-num>
+  </programme>
+  <programme start="20240319193000 +0530" stop="20240319200000 +0530" channel="ColorsHD.in">
+    <title lang="en">Parineetii</title>
+    <desc lang="en">Parminder gives a befitting reply after Neeti's insinuations create a furore. Repeat - Mon,Sun 1:00 am.</desc>
+    <credits>
+      <actor>Ankur Verma</actor>
+      <actor>Tanvi Dogra</actor>
+      <actor>Anchal Shau</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/966C8F2B6C9406066825CF65D22B6657C0DE49A6N.jpg"/>
+    <episode-num system="xmltv_ns">.694.</episode-num>
+  </programme>
+  <programme start="20240319200000 +0530" stop="20240319203000 +0530" channel="ColorsHD.in">
+    <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
+    <desc lang="en">Karthikeya tries to reason with Devsena and secure her approval for marriage.</desc>
+    <credits>
+      <actor>Ram Yashvardhan</actor>
+      <actor>Subha Rajput</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B69EA27FD24C386716E8021B91A64988EC7A671A.jpg"/>
+    <episode-num system="xmltv_ns">.267.</episode-num>
+  </programme>
+  <programme start="20240319203000 +0530" stop="20240319205900 +0530" channel="ColorsHD.in">
+    <title lang="en">Doree</title>
+    <desc lang="en">Agni chases Anand after he catches the latter red-handed trying to kill Rukmani.</desc>
+    <credits>
+      <actor>Mahi Bhanushali</actor>
+      <actor>Amar Upadhyay</actor>
+      <actor>Sudha Chandran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385A3988A97A93A3494E5BBA9CA92B800A10FDEAG.jpg"/>
+    <episode-num system="xmltv_ns">.127.</episode-num>
+  </programme>
+  <programme start="20240319205900 +0530" stop="20240319213000 +0530" channel="ColorsHD.in">
+    <title lang="en">Mangal Laxmi</title>
+    <desc lang="en">Adit stares in disbelief after learning about Mangal's presence in the same restaurant.</desc>
+    <credits>
+      <actor>Deepika Singh</actor>
+      <actor>Naman Shaw</actor>
+      <actor>RJ Sanika</actor>
+      <actor>Urvashi Upadhya</actor>
+      <actor>Gayatri Soham</actor>
+      <actor>Shubham Dipta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3737A5B0310ED0035B87D2DFA5F11C412EF3B7952.jpg"/>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20240319213000 +0530" stop="20240319220000 +0530" channel="ColorsHD.in">
+    <title lang="en">Mera Balam Thanedaar</title>
+    <desc lang="en">Bulbul grows anxious after the priest asks Sulakshana to match her horoscope with Veer's.</desc>
+    <credits>
+      <actor>Shagun Pandey</actor>
+      <actor>Shruti Choudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80ADC3F8093F2ED47A74E82139B536B54BE58528X.jpg"/>
+    <episode-num system="xmltv_ns">.54.</episode-num>
+  </programme>
+  <programme start="20240319220000 +0530" stop="20240319223000 +0530" channel="ColorsHD.in">
+    <title lang="en">Prachand Ashok</title>
+    <desc lang="en">Karuwaki lashes out at Ashok and reiterates her indifference about Magadha's future.</desc>
+    <credits>
+      <actor>Adnan Khan</actor>
+      <actor>Mallika Singh</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Rakshanda Khan</actor>
+      <actor>Surendra Pal</actor>
+      <actor>Manoj Kolhatkar</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E47B675364CD5F3522848E9D981FFEDA692D71CDL.jpg"/>
+    <episode-num system="xmltv_ns">.30.</episode-num>
+  </programme>
+  <programme start="20240319223000 +0530" stop="20240319230000 +0530" channel="ColorsHD.in">
+    <title lang="en">Qayamat Se Qayamat Tak</title>
+    <desc lang="en">Raj is surprised to overhear Poonam humming a tune that Poornima used to sing in the past.</desc>
+    <credits>
+      <actor>Karam Rajpal</actor>
+      <actor>Trupti Mishra</actor>
+      <actor>Jyoti Gauba</actor>
+      <actor>Aarti Khandpal</actor>
+      <actor>Kamalika Guha Thakurta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC486EABEC996DC00DEAD4AA6976C7C910F82C71V.jpg"/>
+    <episode-num system="xmltv_ns">.36.</episode-num>
+  </programme>
+  <programme start="20240319230000 +0530" stop="20240319232900 +0530" channel="ColorsHD.in">
+    <title lang="en">Doree</title>
+    <desc lang="en">Agni chases Anand after he catches the latter red-handed trying to kill Rukmani.</desc>
+    <credits>
+      <actor>Mahi Bhanushali</actor>
+      <actor>Amar Upadhyay</actor>
+      <actor>Sudha Chandran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385A3988A97A93A3494E5BBA9CA92B800A10FDEAG.jpg"/>
+    <episode-num system="xmltv_ns">.127.</episode-num>
+  </programme>
+  <programme start="20240319232900 +0530" stop="20240320050000 +0530" channel="ColorsHD.in">
+    <title lang="en">Bigg Boss</title>
+    <desc lang="en">Couples and singles bank on their wit, grit and emotions as they engage in a tussle to prove their superiority over each other and gain public support to avoid eviction from the Bigg Boss House.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/575271F7B226D210508582A7BC94EFBAA7B3B9848.jpg"/>
+  </programme>
+  <programme start="20240320050000 +0530" stop="20240320053100 +0530" channel="ColorsHD.in">
+    <title lang="en">Udaariyan</title>
+    <desc lang="en">A confrontation ensues after Aasmaa notices the presence of a chemical in Meher's food.</desc>
+    <credits>
+      <actor>Priyanka Chaudhary</actor>
+      <actor>Ankit Gupta</actor>
+      <actor>Isha Malviya</actor>
+      <actor>Abhishek Kumar</actor>
+      <actor>Rashmeet Kaur Sethi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/065C1D2EEA538435939A7312D878C3CE139635DEH.jpg"/>
+    <episode-num system="xmltv_ns">.994.</episode-num>
+  </programme>
+  <programme start="20240320053100 +0530" stop="20240320060000 +0530" channel="ColorsHD.in">
+    <title lang="en">Parineetii</title>
+    <desc lang="en">Parminder gives a befitting reply after Neeti's insinuations create a furore.</desc>
+    <credits>
+      <actor>Ankur Verma</actor>
+      <actor>Tanvi Dogra</actor>
+      <actor>Anchal Shau</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/966C8F2B6C9406066825CF65D22B6657C0DE49A6N.jpg"/>
+    <episode-num system="xmltv_ns">.694.</episode-num>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320063000 +0530" channel="ColorsHD.in">
+    <title lang="en">Udaariyan</title>
+    <desc lang="en">A confrontation ensues after Aasmaa notices the presence of a chemical in Meher's food.</desc>
+    <credits>
+      <actor>Priyanka Chaudhary</actor>
+      <actor>Ankit Gupta</actor>
+      <actor>Isha Malviya</actor>
+      <actor>Abhishek Kumar</actor>
+      <actor>Rashmeet Kaur Sethi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/065C1D2EEA538435939A7312D878C3CE139635DEH.jpg"/>
+    <episode-num system="xmltv_ns">.994.</episode-num>
+  </programme>
+  <programme start="20240320063000 +0530" stop="20240320070000 +0530" channel="ColorsHD.in">
+    <title lang="en">Parineetii</title>
+    <desc lang="en">Parminder gives a befitting reply after Neeti's insinuations create a furore.</desc>
+    <credits>
+      <actor>Ankur Verma</actor>
+      <actor>Tanvi Dogra</actor>
+      <actor>Anchal Shau</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/966C8F2B6C9406066825CF65D22B6657C0DE49A6N.jpg"/>
+    <episode-num system="xmltv_ns">.694.</episode-num>
+  </programme>
+  <programme start="20240320070000 +0530" stop="20240320110000 +0530" channel="ColorsHD.in">
+    <title lang="en">Dance Deewane</title>
+    <desc lang="en">Talented contestants, belonging to different generations, showcase their dancing skills and use different styles to impress the judges and win the coveted title.</desc>
+    <credits>
+      <actor>Madhuri Dixit Nene</actor>
+      <actor>Suniel Shetty</actor>
+    </credits>
+    <category lang="en">Dance Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/758C8101867D384A59E6A8572AD23277EF655619E.jpg"/>
+  </programme>
+  <programme start="20240320110000 +0530" stop="20240320113000 +0530" channel="ColorsHD.in">
+    <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
+    <desc lang="en">Karthikeya tries to reason with Devsena and secure her approval for marriage.</desc>
+    <credits>
+      <actor>Ram Yashvardhan</actor>
+      <actor>Subha Rajput</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B69EA27FD24C386716E8021B91A64988EC7A671A.jpg"/>
+    <episode-num system="xmltv_ns">.267.</episode-num>
+  </programme>
+  <programme start="20240320113000 +0530" stop="20240320120000 +0530" channel="ColorsHD.in">
+    <title lang="en">Doree</title>
+    <desc lang="en">Agni chases Anand after he catches the latter red-handed trying to kill Rukmani.</desc>
+    <credits>
+      <actor>Mahi Bhanushali</actor>
+      <actor>Amar Upadhyay</actor>
+      <actor>Sudha Chandran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385A3988A97A93A3494E5BBA9CA92B800A10FDEAG.jpg"/>
+    <episode-num system="xmltv_ns">.127.</episode-num>
+  </programme>
+  <programme start="20240320120000 +0530" stop="20240320123000 +0530" channel="ColorsHD.in">
+    <title lang="en">Mera Balam Thanedaar</title>
+    <desc lang="en">Bulbul grows anxious after the priest asks Sulakshana to match her horoscope with Veer's.</desc>
+    <credits>
+      <actor>Shagun Pandey</actor>
+      <actor>Shruti Choudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80ADC3F8093F2ED47A74E82139B536B54BE58528X.jpg"/>
+    <episode-num system="xmltv_ns">.54.</episode-num>
+  </programme>
+  <programme start="20240320123000 +0530" stop="20240320130000 +0530" channel="ColorsHD.in">
+    <title lang="en">Mangal Laxmi</title>
+    <desc lang="en">Adit stares in disbelief after learning about Mangal's presence in the same restaurant.</desc>
+    <credits>
+      <actor>Deepika Singh</actor>
+      <actor>Naman Shaw</actor>
+      <actor>RJ Sanika</actor>
+      <actor>Urvashi Upadhya</actor>
+      <actor>Gayatri Soham</actor>
+      <actor>Shubham Dipta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3737A5B0310ED0035B87D2DFA5F11C412EF3B7952.jpg"/>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20240320130000 +0530" stop="20240320160000 +0530" channel="ColorsHD.in">
+    <title lang="en">Thapki Pyar Ki</title>
+    <desc lang="en">Thapki, a lively and intelligent girl, faces certain problems that affect her life. She decides to move to a city in order to find a job and meets all challenges in a positive way.</desc>
+    <credits>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Monica Khanna</actor>
+      <actor>Gaurav Wadhwa</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADACB45EDB8F24EF36A0A58666339FA1389DED924.jpg"/>
+  </programme>
+  <programme start="20240320160000 +0530" stop="20240320183000 +0530" channel="ColorsHD.in">
+    <title lang="en">Balika Vadhu</title>
+    <desc lang="en">Married into an affluent family at a tender age, a child bride, Anandi, struggles to cope with the traditions. She overcomes multiple personal struggles to emerge as an example for rural women.</desc>
+    <credits>
+      <actor>Pratyusha Banerjee</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Shashank Vyas</actor>
+      <actor>Siddharth Shukla</actor>
+      <actor>Surekha Sikri</actor>
+      <actor>Aasiya Kazi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42F8BB0737361492FA7A21B9F17D8BB92741B6BAY.jpg"/>
+  </programme>
+  <programme start="20240320183000 +0530" stop="20240320190000 +0530" channel="ColorsHD.in">
+    <title lang="en">Suhaagan</title>
+    <desc lang="en">Drama ensues after Bindiya publicly slaps Payal for hurting Krish. Repeat - Mon,Sun 2:30 am.</desc>
+    <credits>
+      <actor>Aakriti Sharma</actor>
+      <actor>Kurangi Nagraj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1E1C240CAD755C43BB28837A19B8D8D8DA3CB57H.jpg"/>
+    <episode-num system="xmltv_ns">.322.</episode-num>
+  </programme>
+  <programme start="20240320190000 +0530" stop="20240320193000 +0530" channel="ColorsHD.in">
+    <title lang="en">Udaariyan</title>
+    <desc lang="en">A confrontation ensues after Aasmaa notices the presence of a chemical in Meher's food. Repeat - Mon,Sun 3:00 am.</desc>
+    <credits>
+      <actor>Priyanka Chaudhary</actor>
+      <actor>Ankit Gupta</actor>
+      <actor>Isha Malviya</actor>
+      <actor>Abhishek Kumar</actor>
+      <actor>Rashmeet Kaur Sethi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00943E782AA95D0267FAEA32FB6098C76333E148T.jpg"/>
+    <episode-num system="xmltv_ns">.995.</episode-num>
+  </programme>
+  <programme start="20240320193000 +0530" stop="20240320200000 +0530" channel="ColorsHD.in">
+    <title lang="en">Parineetii</title>
+    <desc lang="en">Parminder gives a befitting reply after Neeti's insinuations create a furore. Repeat - Mon,Sun 1:00 am.</desc>
+    <credits>
+      <actor>Ankur Verma</actor>
+      <actor>Tanvi Dogra</actor>
+      <actor>Anchal Shau</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91041F389EEEE5AC1995E3637AE0EA16F1B4AFC5A.jpg"/>
+    <episode-num system="xmltv_ns">.695.</episode-num>
+  </programme>
+  <programme start="20240320200000 +0530" stop="20240320203000 +0530" channel="ColorsHD.in">
+    <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
+    <desc lang="en">Karthikeya tries to reason with Devsena and secure her approval for marriage.</desc>
+    <credits>
+      <actor>Ram Yashvardhan</actor>
+      <actor>Subha Rajput</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85DB92968E0B24FBAEAB82134AEE61AE46F6EE88S.jpg"/>
+    <episode-num system="xmltv_ns">.268.</episode-num>
+  </programme>
+  <programme start="20240320203000 +0530" stop="20240320210000 +0530" channel="ColorsHD.in">
+    <title lang="en">Doree</title>
+    <desc lang="en">Agni chases Anand after he catches the latter red-handed trying to kill Rukmani.</desc>
+    <credits>
+      <actor>Mahi Bhanushali</actor>
+      <actor>Amar Upadhyay</actor>
+      <actor>Sudha Chandran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5EBAFB0E6F5D22D1B05635CEFD6A5075D32F73A4K.jpg"/>
+    <episode-num system="xmltv_ns">.128.</episode-num>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240320213000 +0530" channel="ColorsHD.in">
+    <title lang="en">Mangal Laxmi</title>
+    <desc lang="en">Adit stares in disbelief after learning about Mangal's presence in the same restaurant.</desc>
+    <credits>
+      <actor>Deepika Singh</actor>
+      <actor>Naman Shaw</actor>
+      <actor>RJ Sanika</actor>
+      <actor>Urvashi Upadhya</actor>
+      <actor>Gayatri Soham</actor>
+      <actor>Shubham Dipta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/273B185FAD6B0B65732C51F1C8AE4C884783F796K.jpg"/>
+    <episode-num system="xmltv_ns">.22.</episode-num>
+  </programme>
+  <programme start="20240320213000 +0530" stop="20240320220000 +0530" channel="ColorsHD.in">
+    <title lang="en">Mera Balam Thanedaar</title>
+    <desc lang="en">Bulbul grows anxious after the priest asks Sulakshana to match her horoscope with Veer's.</desc>
+    <credits>
+      <actor>Shagun Pandey</actor>
+      <actor>Shruti Choudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99650050CCA9254FD0CE7E20C8CFB880833FB6DE3.jpg"/>
+    <episode-num system="xmltv_ns">.55.</episode-num>
+  </programme>
+  <programme start="20240320220000 +0530" stop="20240320223000 +0530" channel="ColorsHD.in">
+    <title lang="en">Prachand Ashok</title>
+    <desc lang="en">Karuwaki lashes out at Ashok and reiterates her indifference about Magadha's future.</desc>
+    <credits>
+      <actor>Adnan Khan</actor>
+      <actor>Mallika Singh</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Rakshanda Khan</actor>
+      <actor>Surendra Pal</actor>
+      <actor>Manoj Kolhatkar</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5AA9503281BF9A77C6C47DAC29EBCB3E360C43CDN.jpg"/>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  </programme>
+  <programme start="20240320223000 +0530" stop="20240320230000 +0530" channel="ColorsHD.in">
+    <title lang="en">Qayamat Se Qayamat Tak</title>
+    <desc lang="en">Raj is surprised to overhear Poonam humming a tune that Poornima used to sing in the past.</desc>
+    <credits>
+      <actor>Karam Rajpal</actor>
+      <actor>Trupti Mishra</actor>
+      <actor>Jyoti Gauba</actor>
+      <actor>Aarti Khandpal</actor>
+      <actor>Kamalika Guha Thakurta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64FB4CE2DF69BE770B818336D354251A54E6AF88C.jpg"/>
+    <episode-num system="xmltv_ns">.37.</episode-num>
+  </programme>
+  <programme start="20240320230000 +0530" stop="20240320233000 +0530" channel="ColorsHD.in">
+    <title lang="en">Doree</title>
+    <desc lang="en">Agni chases Anand after he catches the latter red-handed trying to kill Rukmani.</desc>
+    <credits>
+      <actor>Mahi Bhanushali</actor>
+      <actor>Amar Upadhyay</actor>
+      <actor>Sudha Chandran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5EBAFB0E6F5D22D1B05635CEFD6A5075D32F73A4K.jpg"/>
+    <episode-num system="xmltv_ns">.128.</episode-num>
+  </programme>
+  <programme start="20240320233000 +0530" stop="20240321050000 +0530" channel="ColorsHD.in">
+    <title lang="en">Bigg Boss</title>
+    <desc lang="en">Couples and singles bank on their wit, grit and emotions as they engage in a tussle to prove their superiority over each other and gain public support to avoid eviction from the Bigg Boss House.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/575271F7B226D210508582A7BC94EFBAA7B3B9848.jpg"/>
+  </programme>
+</tv>
