@@ -3,7 +3,7 @@
   <channel id="SonyPal.in">
     <display-name lang="en">Sony Pal</display-name>
   </channel>
-  <programme start="20240324000000 +0530" stop="20240324002300 +0530" channel="SonyPal.in">
+  <programme start="20240325000000 +0530" stop="20240325002300 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The entire Gokuldham society is excited for the festival of Holi.</desc>
     <credits>
@@ -16,11 +16,11 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.2154.</episode-num>
+    <episode-num system="xmltv_ns">.2156.</episode-num>
   </programme>
-  <programme start="20240324002300 +0530" stop="20240324004600 +0530" channel="SonyPal.in">
+  <programme start="20240325002300 +0530" stop="20240325004600 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">The entire Gokuldham society is excited for the festival of Holi.</desc>
+    <desc lang="en">The entire Gokuldham society is excited for the festival of Holi but Popatlal is scared of colours.</desc>
     <credits>
       <actor>Dilip Joshi</actor>
       <actor>Disha Vakani</actor>
@@ -31,11 +31,11 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.2155.</episode-num>
+    <episode-num system="xmltv_ns">.2157.</episode-num>
   </programme>
-  <programme start="20240324004600 +0530" stop="20240324010900 +0530" channel="SonyPal.in">
+  <programme start="20240325004600 +0530" stop="20240325010900 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Popat is meeting a pundit regarding his marriage. Will he suggest a solution? E1404.</desc>
+    <desc lang="en">Popatlal is desperately trying to complete his article on the concept of first love. Meanwhile, his boss is eagerly waiting for Popatlal's reply.</desc>
     <credits>
       <actor>Dilip Joshi</actor>
       <actor>Disha Vakani</actor>
@@ -46,10 +46,11 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1405.</episode-num>
   </programme>
-  <programme start="20240324010900 +0530" stop="20240324013200 +0530" channel="SonyPal.in">
+  <programme start="20240325010900 +0530" stop="20240325013200 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Popatlal manages to get a unique solution from Pandit Lajawab and decides to walk on his path. He is asked to write an interesting article for which he takes help from Tapu Sena.</desc>
+    <desc lang="en">Popatlal wants to interview Bagha and Bawri and seeks Nattu Kaka's help. Jethalal arrives at his shop and is angry on finding Popatlal interviewing Bagha and Baawri.</desc>
     <credits>
       <actor>Dilip Joshi</actor>
       <actor>Disha Vakani</actor>
@@ -60,11 +61,11 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1404.</episode-num>
+    <episode-num system="xmltv_ns">.1406.</episode-num>
   </programme>
-  <programme start="20240324013200 +0530" stop="20240324015500 +0530" channel="SonyPal.in">
+  <programme start="20240325013200 +0530" stop="20240325015500 +0530" channel="SonyPal.in">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-    <desc lang="en">Dilawar beats the boy accompanying him with a stick. However, Sai come and stops him by holding the stick.</desc>
+    <desc lang="en">Chand bhai reaches Shirdi in search of his baba and hears some villagers talking about a stranger living in Dwarka Mai; the villager falls at Dilawar's feet and asks for help in finding his bull.</desc>
     <credits>
       <actor>Abeer Soofi</actor>
       <actor>Toral Rasputra</actor>
@@ -75,11 +76,11 @@
     </credits>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
-    <episode-num system="xmltv_ns">.152.</episode-num>
+    <episode-num system="xmltv_ns">.153.</episode-num>
   </programme>
-  <programme start="20240324015500 +0530" stop="20240324021800 +0530" channel="SonyPal.in">
+  <programme start="20240325015500 +0530" stop="20240325021800 +0530" channel="SonyPal.in">
     <title lang="en">Punyashlok Ahilya Bai</title>
-    <desc lang="en">As the prospect of marriage dawns on Ahilya, she fears being separated from her parents, However, her parents highlight the importance of getting married.</desc>
+    <desc lang="en">Ahead of her wedding to Khande Rao, the locals begin to treat Ahilya differently and it annoys her to no end. A furious Ahilya then decides to call off her wedding at all cost.</desc>
     <credits>
       <actor>Aditi Jaltare</actor>
       <actor>Rajesh Shringarpure</actor>
@@ -89,11 +90,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
-    <episode-num system="xmltv_ns">.12.</episode-num>
+    <episode-num system="xmltv_ns">.13.</episode-num>
   </programme>
-  <programme start="20240324021800 +0530" stop="20240324024100 +0530" channel="SonyPal.in">
+  <programme start="20240325021800 +0530" stop="20240325024100 +0530" channel="SonyPal.in">
     <title lang="en">Baalveer Returns</title>
-    <desc lang="en">Baalveer manages to stop Timnasa from killing Vivaan with the help of the 'drishyam'. Meanwhile, Vivaan's ceremony gets underway in Veerlok.</desc>
+    <desc lang="en">As Shaurya strips Baalveer of all his supernatural powers, he returns to being Dev. Later, Jabdali and Tauba Tauba inform Timnasa that Baalveer has lost all his powers.</desc>
     <credits>
       <actor>Dev Joshi</actor>
       <actor>Sharmili Raj</actor>
@@ -103,11 +104,11 @@
     </credits>
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
-    <episode-num system="xmltv_ns">.108.</episode-num>
+    <episode-num system="xmltv_ns">.110.</episode-num>
   </programme>
-  <programme start="20240324024100 +0530" stop="20240324030400 +0530" channel="SonyPal.in">
+  <programme start="20240325024100 +0530" stop="20240325030400 +0530" channel="SonyPal.in">
     <title lang="en">Baalveer Returns</title>
-    <desc lang="en">Though Baalveer, Vivaan and the fairies set out to destroy Sarvkaal, they fail to do so. In the aftermath of their failure, Shaurya takes away Baalveer's powers.</desc>
+    <desc lang="en">As Timnasa gets her hands on the uranium from the laboratory, Vivaan and the fairies set out to try and stop her from misusing it.</desc>
     <credits>
       <actor>Dev Joshi</actor>
       <actor>Sharmili Raj</actor>
@@ -117,11 +118,11 @@
     </credits>
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
-    <episode-num system="xmltv_ns">.109.</episode-num>
+    <episode-num system="xmltv_ns">.111.</episode-num>
   </programme>
-  <programme start="20240324030400 +0530" stop="20240324034800 +0530" channel="SonyPal.in">
+  <programme start="20240325030400 +0530" stop="20240325034800 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
-    <desc lang="en">Late at night, Mohini wakes up to see a woman in a dancer's attire dragging away a blood-stained sack. Later, Team CID is baffled when Mohini claims that it was her uncle dressed as a woman.</desc>
+    <desc lang="en">Five people adversely affected by a bank robbery that took place six years ago, wait for retribution. They get their chance when the mastermind returns to the city, but their plans misfire badly.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -132,11 +133,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1355.</episode-num>
+    <episode-num system="xmltv_ns">.1356.</episode-num>
   </programme>
-  <programme start="20240324034800 +0530" stop="20240324043200 +0530" channel="SonyPal.in">
+  <programme start="20240325034800 +0530" stop="20240325043200 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
-    <desc lang="en">When a film star gets kidnapped, the police are informed that it is merely a publicity stunt. However, things get serious when the producers receive a threat note from the kidnapper.</desc>
+    <desc lang="en">Some children find a man lying dead when they try to get their cricket ball from his house. Soon, the CID team begins to investigate to find out if the children have anything to do with the murder.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -147,11 +148,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.623.</episode-num>
+    <episode-num system="xmltv_ns">.612.</episode-num>
   </programme>
-  <programme start="20240324043200 +0530" stop="20240324051600 +0530" channel="SonyPal.in">
+  <programme start="20240325043200 +0530" stop="20240325051600 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
-    <desc lang="en">A prisoner is shocked to find bees in a box he received as a gift. When Team CID reach the spot, they find that the prisoner is dead with a swollen face.</desc>
+    <desc lang="en">When a couple informs the death of a hitchhiker in their car, Team CID sends his body to the forensic laboratory. Soon, the reports reveal that the deceased man had ingested glass particles.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -162,11 +163,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.614.</episode-num>
+    <episode-num system="xmltv_ns">.615.</episode-num>
   </programme>
-  <programme start="20240324051600 +0530" stop="20240324060000 +0530" channel="SonyPal.in">
+  <programme start="20240325051600 +0530" stop="20240325060000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
-    <desc lang="en">Magician AK begins his act by appearing in three different places at the same time. The CID team is baffled when his body is found at the third location and he is also seen at other places.</desc>
+    <desc lang="en">Abhijit goes undercover and becomes a theatre artist for a play that is under threat. However, a murder takes place on stage in front of everyone and the killer manages to escape.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -177,9 +178,190 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1197.</episode-num>
+    <episode-num system="xmltv_ns">.1198.</episode-num>
   </programme>
-  <programme start="20240324060000 +0530" stop="20240324070000 +0530" channel="SonyPal.in">
+  <programme start="20240325060000 +0530" stop="20240325070000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">A girl, who cannot speak, saves Daya's life by signalling him through her drawings. However, the girl gets kidnapped and they want Daya in exchange for the girl.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.938.</episode-num>
+  </programme>
+  <programme start="20240325070000 +0530" stop="20240325071500 +0530" channel="SonyPal.in">
+    <title lang="en">Honey Bunny Ka Jholmaal</title>
+    <desc lang="en">As Honey, Bunny and their friends play in the park, Sunny arrives there. Further, he expresses his desire to take Kitty out to dinner.</desc>
+    <credits>
+      <actor>Mubeen Saudagar</actor>
+      <actor>Meena Nahata</actor>
+      <actor>Dolly Lopes</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
+  </programme>
+  <programme start="20240325071500 +0530" stop="20240325073000 +0530" channel="SonyPal.in">
+    <title lang="en">Honey Bunny Ka Jholmaal</title>
+    <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
+    <credits>
+      <actor>Mubeen Saudagar</actor>
+      <actor>Meena Nahata</actor>
+      <actor>Dolly Lopes</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
+  </programme>
+  <programme start="20240325073000 +0530" stop="20240325080000 +0530" channel="SonyPal.in">
+    <title lang="en">Chintu Bun Gaya Gentleman</title>
+    <desc lang="en">In Vicenza, Italy, Chintu goes to buy jewellery for his wife at a discount sale.</desc>
+    <credits>
+      <actor>Al Amin</actor>
+      <actor>Anjum Tadvi</actor>
+      <actor>Ashwini Kirnar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C487C188BED61DEE305BE576E74A5BD7860E5085U.jpg"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20240325080000 +0530" stop="20240325083000 +0530" channel="SonyPal.in">
+    <title lang="en">Baal Veer</title>
+    <desc lang="en">In Pari Lok, Baalveer spots the mischievous spirit who quickly escapes. Meanwhile, Montu constantly tries to trouble Manav.</desc>
+    <credits>
+      <actor>Dev Joshi</actor>
+      <actor>Karishma Tanna</actor>
+      <actor>Shweta Kwatra</actor>
+      <actor>Aditi Sajwan</actor>
+      <actor>Shama Sikander</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
+    <episode-num system="xmltv_ns">.348.</episode-num>
+  </programme>
+  <programme start="20240325083000 +0530" stop="20240325090000 +0530" channel="SonyPal.in">
+    <title lang="en">Baal Veer</title>
+    <desc lang="en">The fairies inform Vichitra Gupt about the mischievous spirit that escaped from Jeevan Lok. Further, Bhayankar Pari and Chhal Pari kidnap Vichitra Gupt.</desc>
+    <credits>
+      <actor>Dev Joshi</actor>
+      <actor>Karishma Tanna</actor>
+      <actor>Shweta Kwatra</actor>
+      <actor>Aditi Sajwan</actor>
+      <actor>Shama Sikander</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
+    <episode-num system="xmltv_ns">.349.</episode-num>
+  </programme>
+  <programme start="20240325090000 +0530" stop="20240325093000 +0530" channel="SonyPal.in">
+    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
+    <desc lang="en">Chand bhai reaches Shirdi in search of his baba and hears some villagers talking about a stranger living in Dwarka Mai; the villager falls at Dilawar's feet and asks for help in finding his bull.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Tarun Khanna</actor>
+      <actor>Hemant Thatte</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
+    <episode-num system="xmltv_ns">.153.</episode-num>
+  </programme>
+  <programme start="20240325093000 +0530" stop="20240325100000 +0530" channel="SonyPal.in">
+    <title lang="en">Punyashlok Ahilya Bai</title>
+    <desc lang="en">Ahead of her wedding to Khande Rao, the locals begin to treat Ahilya differently and it annoys her to no end. A furious Ahilya then decides to call off her wedding at all cost.</desc>
+    <credits>
+      <actor>Aditi Jaltare</actor>
+      <actor>Rajesh Shringarpure</actor>
+      <actor>Krish Chauhan</actor>
+      <actor>Snehlata Vasaikar</actor>
+      <actor>Srijana Srj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240325100000 +0530" stop="20240325103000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">All hell breaks loose as Tapu misplaces Madhavi's money and Bhide loses his temper at them. Later, Champaklal asks the police to look into the matter. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.496.</episode-num>
+  </programme>
+  <programme start="20240325103000 +0530" stop="20240325110000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">On being faced with the consequences of theft, Tapu begs his parents to save his blushes. Meanwhile, Dr Hathi returns from the neuro clinic. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.497.</episode-num>
+  </programme>
+  <programme start="20240325110000 +0530" stop="20240325113000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">All the kids are worried over their exam results. All the parents pray for their kids. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1407.</episode-num>
+  </programme>
+  <programme start="20240325113000 +0530" stop="20240325120000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The results are finally out and everyone is relieved. Gokuldham receives a special guest. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1408.</episode-num>
+  </programme>
+  <programme start="20240325120000 +0530" stop="20240325130000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Three dancers, invited for a dance competition, face trouble when one of the dancers and an assistant go missing. Investigations reveal a shocking truth from the past involving the three dancers. Repeat - Mon - Sun 3:54 am.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1199.</episode-num>
+  </programme>
+  <programme start="20240325130000 +0530" stop="20240325140000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">When officer Purvi goes missing, the CID team leaves no stone unturned to find her. Soon, they meet a commando who helps the team look for Purvi.</desc>
     <credits>
@@ -194,160 +376,9 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
     <episode-num system="xmltv_ns">.937.</episode-num>
   </programme>
-  <programme start="20240324070000 +0530" stop="20240324071500 +0530" channel="SonyPal.in">
-    <title lang="en">Honey Bunny Ka Jholmaal</title>
-    <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <credits>
-      <actor>Mubeen Saudagar</actor>
-      <actor>Meena Nahata</actor>
-      <actor>Dolly Lopes</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
-  </programme>
-  <programme start="20240324071500 +0530" stop="20240324073000 +0530" channel="SonyPal.in">
-    <title lang="en">Honey Bunny Ka Jholmaal</title>
-    <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <credits>
-      <actor>Mubeen Saudagar</actor>
-      <actor>Meena Nahata</actor>
-      <actor>Dolly Lopes</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
-  </programme>
-  <programme start="20240324073000 +0530" stop="20240324080000 +0530" channel="SonyPal.in">
-    <title lang="en">Chintu Bun Gaya Gentleman</title>
-    <desc lang="en">Chintu and his wife get into hilarious situations while touring Mt. Titlis, Switzerland.</desc>
-    <credits>
-      <actor>Al Amin</actor>
-      <actor>Anjum Tadvi</actor>
-      <actor>Ashwini Kirnar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C487C188BED61DEE305BE576E74A5BD7860E5085U.jpg"/>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20240324080000 +0530" stop="20240324083000 +0530" channel="SonyPal.in">
-    <title lang="en">Baal Veer</title>
-    <desc lang="en">Dooba Dooba arrives in Jeevan Lok and meets a mischievous spirit. Meanwhile, Chhal Pari tells Goba Goba and Tauba Tauba about her plan of becoming immortal.</desc>
-    <credits>
-      <actor>Dev Joshi</actor>
-      <actor>Karishma Tanna</actor>
-      <actor>Shweta Kwatra</actor>
-      <actor>Aditi Sajwan</actor>
-      <actor>Shama Sikander</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
-    <episode-num system="xmltv_ns">.346.</episode-num>
-  </programme>
-  <programme start="20240324083000 +0530" stop="20240324090000 +0530" channel="SonyPal.in">
-    <title lang="en">Baal Veer</title>
-    <desc lang="en">When Jeevan Lok's protective shield begins to fade, Chhal Pari prepares to enter. Further, a mischievous spirit hides in Dooba Dooba's bag and escapes from Jeevan Lok.</desc>
-    <credits>
-      <actor>Dev Joshi</actor>
-      <actor>Karishma Tanna</actor>
-      <actor>Shweta Kwatra</actor>
-      <actor>Aditi Sajwan</actor>
-      <actor>Shama Sikander</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
-    <episode-num system="xmltv_ns">.347.</episode-num>
-  </programme>
-  <programme start="20240324090000 +0530" stop="20240324093000 +0530" channel="SonyPal.in">
-    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-    <desc lang="en">Dilawar beats the boy accompanying him with a stick. However, Sai come and stops him by holding the stick.</desc>
-    <credits>
-      <actor>Abeer Soofi</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Vaibhav Mangle</actor>
-      <actor>Abhishek Nigam</actor>
-      <actor>Tarun Khanna</actor>
-      <actor>Hemant Thatte</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
-    <episode-num system="xmltv_ns">.152.</episode-num>
-  </programme>
-  <programme start="20240324093000 +0530" stop="20240324100000 +0530" channel="SonyPal.in">
-    <title lang="en">Punyashlok Ahilya Bai</title>
-    <desc lang="en">As the prospect of marriage dawns on Ahilya, she fears being separated from her parents, However, her parents highlight the importance of getting married.</desc>
-    <credits>
-      <actor>Aditi Jaltare</actor>
-      <actor>Rajesh Shringarpure</actor>
-      <actor>Krish Chauhan</actor>
-      <actor>Snehlata Vasaikar</actor>
-      <actor>Srijana Srj</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20240324100000 +0530" stop="20240324103000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Everyone is shocked when Jethalal wants to call the cops after Tapu loses Bhide's money. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.494.</episode-num>
-  </programme>
-  <programme start="20240324103000 +0530" stop="20240324110000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Sodhi drops the kids at the magician's house where they learn the secrets of magic tricks. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.495.</episode-num>
-  </programme>
-  <programme start="20240324110000 +0530" stop="20240324113000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Popatlal is desperately trying to complete his article on the concept of first love. Meanwhile, his boss is eagerly waiting for Popatlal's reply. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1405.</episode-num>
-  </programme>
-  <programme start="20240324113000 +0530" stop="20240324120000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Popatlal wants to interview Bagha and Bawri and seeks Nattu Kaka's help. Jethalal arrives at his shop and is angry on finding Popatlal interviewing Bagha and Baawri. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1406.</episode-num>
-  </programme>
-  <programme start="20240324120000 +0530" stop="20240324130000 +0530" channel="SonyPal.in">
+  <programme start="20240325140000 +0530" stop="20240325150000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
-    <desc lang="en">Abhijit goes undercover and becomes a theatre artist for a play that is under threat. However, a murder takes place on stage in front of everyone and the killer manages to escape. Repeat - Mon - Fri 3:54 am.</desc>
+    <desc lang="en">Gang leader Taashia gives Ketki a contract to kill her husband, Ankit. Meanwhile, Ankit hires a killer to murder Ketki and Team CID begin investigating when Taashia is the only one who gets killed. Repeat - Mon - Sun 3:54 am.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -358,41 +389,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1198.</episode-num>
+    <episode-num system="xmltv_ns">.1357.</episode-num>
   </programme>
-  <programme start="20240324130000 +0530" stop="20240324140000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">An anonymous man hosts a party and invites only the rich people of the city. Later, when a dead body is found in the water tank, the CID team is called to investigate the matter.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.936.</episode-num>
-  </programme>
-  <programme start="20240324140000 +0530" stop="20240324150000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Five people adversely affected by a bank robbery that took place six years ago, wait for retribution. They get their chance when the mastermind returns to the city, but their plans misfire badly. Repeat - Mon - Fri 3:54 am.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1356.</episode-num>
-  </programme>
-  <programme start="20240324150000 +0530" stop="20240324160000 +0530" channel="SonyPal.in">
+  <programme start="20240325150000 +0530" stop="20240325160000 +0530" channel="SonyPal.in">
     <title lang="en">Adaalat</title>
-    <desc lang="en">Dishant Dutta is accused of murdering his wife by strangling her when she is asleep. When all the lawyers refuse to defend him, KD decides to represent Dishant in the court.</desc>
+    <desc lang="en">Vivek is accused of murdering his own father by pushing him off the stairs. KD Pathak takes up the case and tries to prove Vivek's innocence.</desc>
     <credits>
       <actor>Ronit Roy</actor>
       <actor>Romit Raaj</actor>
@@ -403,11 +404,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57C12A8CE95B0612B5569299F9ADC2D89C5E200BU.jpg"/>
-    <episode-num system="xmltv_ns">.365.</episode-num>
+    <episode-num system="xmltv_ns">.368.</episode-num>
   </programme>
-  <programme start="20240324160000 +0530" stop="20240324170000 +0530" channel="SonyPal.in">
+  <programme start="20240325160000 +0530" stop="20240325170000 +0530" channel="SonyPal.in">
     <title lang="en">Adaalat</title>
-    <desc lang="en">The case takes an interesting turn when some shocking details are found related to Dishant's wife. Later, KD presents a shocking piece of evidence in front of the judge.</desc>
+    <desc lang="en">When Ashok is accused of murdering his own mother by poisoning her, KD takes his case. However, KD has to face the public prosecutor Jaideep Thakral.</desc>
     <credits>
       <actor>Ronit Roy</actor>
       <actor>Romit Raaj</actor>
@@ -418,11 +419,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57C12A8CE95B0612B5569299F9ADC2D89C5E200BU.jpg"/>
-    <episode-num system="xmltv_ns">.366.</episode-num>
+    <episode-num system="xmltv_ns">.369.</episode-num>
   </programme>
-  <programme start="20240324170000 +0530" stop="20240324173000 +0530" channel="SonyPal.in">
+  <programme start="20240325170000 +0530" stop="20240325173000 +0530" channel="SonyPal.in">
     <title lang="en">Baalveer Returns</title>
-    <desc lang="en">As Shaurya strips Baalveer of all his supernatural powers, he returns to being Dev. Later, Jabdali and Tauba Tauba inform Timnasa that Baalveer has lost all his powers. Repeat - Mon - Fri 2:18 am.</desc>
+    <desc lang="en">Dev finds himself in the midst of a battle between Timnasa and Vivaan and picks up an injury in the process. Later, Timnasa asks Jabdali and Tauba Tauba to keep an eye on Baalveer and Vivaan. Repeat - Mon - Sun 2:18 am.</desc>
     <credits>
       <actor>Dev Joshi</actor>
       <actor>Sharmili Raj</actor>
@@ -432,11 +433,11 @@
     </credits>
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
-    <episode-num system="xmltv_ns">.110.</episode-num>
+    <episode-num system="xmltv_ns">.112.</episode-num>
   </programme>
-  <programme start="20240324173000 +0530" stop="20240324180000 +0530" channel="SonyPal.in">
+  <programme start="20240325173000 +0530" stop="20240325180000 +0530" channel="SonyPal.in">
     <title lang="en">Baalveer Returns</title>
-    <desc lang="en">As Timnasa gets her hands on the uranium from the laboratory, Vivaan and the fairies set out to try and stop her from misusing it. Repeat - Mon - Fri 2:18 am.</desc>
+    <desc lang="en">Vivaan manages to convince Dev not to inform anyone that he is Baalveer. Meanwhile, TImnasa forces a scientist to make a nuclear bomb with which she can destroy the planet. Repeat - Mon - Sun 2:18 am.</desc>
     <credits>
       <actor>Dev Joshi</actor>
       <actor>Sharmili Raj</actor>
@@ -446,11 +447,11 @@
     </credits>
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
-    <episode-num system="xmltv_ns">.111.</episode-num>
+    <episode-num system="xmltv_ns">.113.</episode-num>
   </programme>
-  <programme start="20240324180000 +0530" stop="20240324183000 +0530" channel="SonyPal.in">
+  <programme start="20240325180000 +0530" stop="20240325183000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Sunder pays a surprise visit to Gokuldham Society and brings a special gift for Jethalal. But Sunder's grand announcement becomes Jethalal's biggest issue. Repeat - Wed - Fri 10:00 am.</desc>
+    <desc lang="en">The Gokuldham Premier League takes an interesting turn when Jethalal has to bowl against Daya and Tapu. Later, as the first inning concludes, Jethalal and his team prepare for their batting. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
       <actor>Dilip Joshi</actor>
       <actor>Disha Vakani</actor>
@@ -461,11 +462,11 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.179.</episode-num>
+    <episode-num system="xmltv_ns">.181.</episode-num>
   </programme>
-  <programme start="20240324183000 +0530" stop="20240324190000 +0530" channel="SonyPal.in">
+  <programme start="20240325183000 +0530" stop="20240325190000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Gokuldham Premier League commences with gusto and the residents assembled in their teams for the coin tossing. But as soon as the match begins, Jethalal gets stressed out about his strategy. Repeat - Wed - Fri 10:00 am.</desc>
+    <desc lang="en">In the last over of the match, Jethalal must face Iyer and try to hit the winning shot. But on the last ball, the arrival of the police causes a major confusion in the tournament. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
       <actor>Dilip Joshi</actor>
       <actor>Disha Vakani</actor>
@@ -476,24 +477,9 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.180.</episode-num>
+    <episode-num system="xmltv_ns">.182.</episode-num>
   </programme>
-  <programme start="20240324190000 +0530" stop="20240324193000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">The entire Gokuldham society is excited for the festival of Holi. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.2156.</episode-num>
-  </programme>
-  <programme start="20240324193000 +0530" stop="20240324200000 +0530" channel="SonyPal.in">
+  <programme start="20240325190000 +0530" stop="20240325193000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The entire Gokuldham society is excited for the festival of Holi but Popatlal is scared of colours. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -506,11 +492,26 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.2157.</episode-num>
+    <episode-num system="xmltv_ns">.2158.</episode-num>
   </programme>
-  <programme start="20240324200000 +0530" stop="20240324203000 +0530" channel="SonyPal.in">
+  <programme start="20240325193000 +0530" stop="20240325200000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The entire Gokuldham society is excited for the festival of Holi but Popatlal is scared of colours. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.2159.</episode-num>
+  </programme>
+  <programme start="20240325200000 +0530" stop="20240325203000 +0530" channel="SonyPal.in">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-    <desc lang="en">Chand bhai reaches Shirdi in search of his baba and hears some villagers talking about a stranger living in Dwarka Mai; the villager falls at Dilawar's feet and asks for help in finding his bull. Repeat - Mon - Fri 9:00 am.</desc>
+    <desc lang="en">Chand bhai reaches Shirdi in search of his baba and hears some villagers talking about a stranger living in Dwarka Mai; the villager falls at Dilawar's feet and asks for help in finding his bull. Repeat - Mon - Sun 9:00 am.</desc>
     <credits>
       <actor>Abeer Soofi</actor>
       <actor>Toral Rasputra</actor>
@@ -523,9 +524,9 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
     <episode-num system="xmltv_ns">.153.</episode-num>
   </programme>
-  <programme start="20240324203000 +0530" stop="20240324210000 +0530" channel="SonyPal.in">
+  <programme start="20240325203000 +0530" stop="20240325210000 +0530" channel="SonyPal.in">
     <title lang="en">Punyashlok Ahilya Bai</title>
-    <desc lang="en">Ahead of her wedding to Khande Rao, the locals begin to treat Ahilya differently and it annoys her to no end. A furious Ahilya then decides to call off her wedding at all cost.</desc>
+    <desc lang="en">Ahilya prays for the wedding to be called off while her friends play a prank on her. Later, she intercepts Gautama's cavalry and demands to speak to Khande Rao.</desc>
     <credits>
       <actor>Aditi Jaltare</actor>
       <actor>Rajesh Shringarpure</actor>
@@ -535,11 +536,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
-    <episode-num system="xmltv_ns">.13.</episode-num>
+    <episode-num system="xmltv_ns">.14.</episode-num>
   </programme>
-  <programme start="20240324210000 +0530" stop="20240324220000 +0530" channel="SonyPal.in">
+  <programme start="20240325210000 +0530" stop="20240325220000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
-    <desc lang="en">When a couple informs the death of a hitchhiker in their car, Team CID sends his body to the forensic laboratory. Soon, the reports reveal that the deceased man had ingested glass particles. Repeat - Mon - Fri 3:54 am.</desc>
+    <desc lang="en">The CID team discovers a part of a dead body in a sewer. Later, Dr Salunkhe informs them about a diamond that is found in the skin of the girl's dead body. Repeat - Mon - Sun 3:54 am.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -550,11 +551,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.615.</episode-num>
+    <episode-num system="xmltv_ns">.604.</episode-num>
   </programme>
-  <programme start="20240324220000 +0530" stop="20240324230000 +0530" channel="SonyPal.in">
+  <programme start="20240325220000 +0530" stop="20240325230000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
-    <desc lang="en">Abhijit goes undercover and becomes a theatre artist for a play that is under threat. However, a murder takes place on stage in front of everyone and the killer manages to escape. Repeat - Mon - Fri 3:54 am.</desc>
+    <desc lang="en">Three dancers, invited for a dance competition, face trouble when one of the dancers and an assistant go missing. Investigations reveal a shocking truth from the past involving the three dancers. Repeat - Mon - Sun 3:54 am.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -565,11 +566,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1198.</episode-num>
+    <episode-num system="xmltv_ns">.1199.</episode-num>
   </programme>
-  <programme start="20240324230000 +0530" stop="20240325000000 +0530" channel="SonyPal.in">
+  <programme start="20240325230000 +0530" stop="20240326000000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
-    <desc lang="en">A girl, who cannot speak, saves Daya's life by signalling him through her drawings. However, the girl gets kidnapped and they want Daya in exchange for the girl. Repeat - Mon - Fri 3:54 am.</desc>
+    <desc lang="en">When producer Sohan gets killed, famous actor Shanaaya's fingerprints are found at the crime scene. Later, when the CID team investigates, they learn that Shanaaya was not present at the crime scene. Repeat - Mon - Sun 3:54 am.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -580,9 +581,9 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.938.</episode-num>
+    <episode-num system="xmltv_ns">.939.</episode-num>
   </programme>
-  <programme start="20240325000000 +0530" stop="20240325002300 +0530" channel="SonyPal.in">
+  <programme start="20240326000000 +0530" stop="20240326002300 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
     <credits>
@@ -596,7 +597,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325002300 +0530" stop="20240325004600 +0530" channel="SonyPal.in">
+  <programme start="20240326002300 +0530" stop="20240326004600 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
     <credits>
@@ -610,7 +611,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325004600 +0530" stop="20240325010900 +0530" channel="SonyPal.in">
+  <programme start="20240326004600 +0530" stop="20240326010900 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
     <credits>
@@ -624,7 +625,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325010900 +0530" stop="20240325013200 +0530" channel="SonyPal.in">
+  <programme start="20240326010900 +0530" stop="20240326013200 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
     <credits>
@@ -638,7 +639,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325013200 +0530" stop="20240325015500 +0530" channel="SonyPal.in">
+  <programme start="20240326013200 +0530" stop="20240326015500 +0530" channel="SonyPal.in">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to the society.</desc>
     <credits>
@@ -652,7 +653,7 @@
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
   </programme>
-  <programme start="20240325015500 +0530" stop="20240325021800 +0530" channel="SonyPal.in">
+  <programme start="20240326015500 +0530" stop="20240326021800 +0530" channel="SonyPal.in">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">Ahilya Bai blossoms under the guidance of her father-in-law, Malhar Rao Holkar. She takes on the reign of the Malwa territory after the death of her husband and son and leads her kingdom efficiently.</desc>
     <credits>
@@ -665,7 +666,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
   </programme>
-  <programme start="20240325021800 +0530" stop="20240325024100 +0530" channel="SonyPal.in">
+  <programme start="20240326021800 +0530" stop="20240326024100 +0530" channel="SonyPal.in">
     <title lang="en">Baalveer Returns</title>
     <desc lang="en">Baalveer returns once again to fight the forces of evil who seek to destroy the planet and harm the innocent. He seeks help from another hero on his noble mission.</desc>
     <credits>
@@ -678,7 +679,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
   </programme>
-  <programme start="20240325024100 +0530" stop="20240325030400 +0530" channel="SonyPal.in">
+  <programme start="20240326024100 +0530" stop="20240326030400 +0530" channel="SonyPal.in">
     <title lang="en">Baalveer Returns</title>
     <desc lang="en">Baalveer returns once again to fight the forces of evil who seek to destroy the planet and harm the innocent. He seeks help from another hero on his noble mission.</desc>
     <credits>
@@ -691,7 +692,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
   </programme>
-  <programme start="20240325030400 +0530" stop="20240325034800 +0530" channel="SonyPal.in">
+  <programme start="20240326030400 +0530" stop="20240326034800 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.</desc>
     <credits>
@@ -705,7 +706,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325034800 +0530" stop="20240325043200 +0530" channel="SonyPal.in">
+  <programme start="20240326034800 +0530" stop="20240326043200 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.</desc>
     <credits>
@@ -719,7 +720,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325043200 +0530" stop="20240325051600 +0530" channel="SonyPal.in">
+  <programme start="20240326043200 +0530" stop="20240326051600 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.</desc>
     <credits>
@@ -733,7 +734,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325051600 +0530" stop="20240325060000 +0530" channel="SonyPal.in">
+  <programme start="20240326051600 +0530" stop="20240326060000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.</desc>
     <credits>
@@ -747,7 +748,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325060000 +0530" stop="20240325070000 +0530" channel="SonyPal.in">
+  <programme start="20240326060000 +0530" stop="20240326070000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.</desc>
     <credits>
@@ -761,7 +762,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325070000 +0530" stop="20240325071500 +0530" channel="SonyPal.in">
+  <programme start="20240326070000 +0530" stop="20240326071500 +0530" channel="SonyPal.in">
     <title lang="en">Honey Bunny Ka Jholmaal</title>
     <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn. India.</desc>
     <credits>
@@ -772,7 +773,7 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
   </programme>
-  <programme start="20240325071500 +0530" stop="20240325073000 +0530" channel="SonyPal.in">
+  <programme start="20240326071500 +0530" stop="20240326073000 +0530" channel="SonyPal.in">
     <title lang="en">Honey Bunny Ka Jholmaal</title>
     <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn. India.</desc>
     <credits>
@@ -783,7 +784,7 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
   </programme>
-  <programme start="20240325073000 +0530" stop="20240325080000 +0530" channel="SonyPal.in">
+  <programme start="20240326073000 +0530" stop="20240326080000 +0530" channel="SonyPal.in">
     <title lang="en">Malegaon Ka Chintu</title>
     <desc lang="en">Chintu, from Malegaon, is a lively yet emotional young man with a heart of gold. He loves only three things in life: his coat, bicycle and Pinky.</desc>
     <credits>
@@ -793,7 +794,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DD302F496EF552A1E0D717F9C70ACA6D5E6BD9AG.jpg"/>
   </programme>
-  <programme start="20240325080000 +0530" stop="20240325083000 +0530" channel="SonyPal.in">
+  <programme start="20240326080000 +0530" stop="20240326083000 +0530" channel="SonyPal.in">
     <title lang="en">Baal Veer</title>
     <desc lang="en">Ballu is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses his powers to help good and honest children, including his friends.</desc>
     <credits>
@@ -806,7 +807,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
   </programme>
-  <programme start="20240325083000 +0530" stop="20240325090000 +0530" channel="SonyPal.in">
+  <programme start="20240326083000 +0530" stop="20240326090000 +0530" channel="SonyPal.in">
     <title lang="en">Baal Veer</title>
     <desc lang="en">Ballu is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses his powers to help good and honest children, including his friends.</desc>
     <credits>
@@ -819,7 +820,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
   </programme>
-  <programme start="20240325090000 +0530" stop="20240325093000 +0530" channel="SonyPal.in">
+  <programme start="20240326090000 +0530" stop="20240326093000 +0530" channel="SonyPal.in">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to the society.</desc>
     <credits>
@@ -833,7 +834,7 @@
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
   </programme>
-  <programme start="20240325093000 +0530" stop="20240325100000 +0530" channel="SonyPal.in">
+  <programme start="20240326093000 +0530" stop="20240326100000 +0530" channel="SonyPal.in">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">Ahilya Bai blossoms under the guidance of her father-in-law, Malhar Rao Holkar. She takes on the reign of the Malwa territory after the death of her husband and son and leads her kingdom efficiently.</desc>
     <credits>
@@ -846,7 +847,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
   </programme>
-  <programme start="20240325100000 +0530" stop="20240325103000 +0530" channel="SonyPal.in">
+  <programme start="20240326100000 +0530" stop="20240326103000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -860,7 +861,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325103000 +0530" stop="20240325110000 +0530" channel="SonyPal.in">
+  <programme start="20240326103000 +0530" stop="20240326110000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -874,7 +875,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325110000 +0530" stop="20240325113000 +0530" channel="SonyPal.in">
+  <programme start="20240326110000 +0530" stop="20240326113000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -888,7 +889,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325113000 +0530" stop="20240325120000 +0530" channel="SonyPal.in">
+  <programme start="20240326113000 +0530" stop="20240326120000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -902,7 +903,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325120000 +0530" stop="20240325130000 +0530" channel="SonyPal.in">
+  <programme start="20240326120000 +0530" stop="20240326130000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases. Repeat - Mon - Fri 3:54 am.</desc>
     <credits>
@@ -916,7 +917,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325130000 +0530" stop="20240325140000 +0530" channel="SonyPal.in">
+  <programme start="20240326130000 +0530" stop="20240326140000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.</desc>
     <credits>
@@ -930,7 +931,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325140000 +0530" stop="20240325150000 +0530" channel="SonyPal.in">
+  <programme start="20240326140000 +0530" stop="20240326150000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases. Repeat - Mon - Fri 3:54 am.</desc>
     <credits>
@@ -944,7 +945,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325150000 +0530" stop="20240325160000 +0530" channel="SonyPal.in">
+  <programme start="20240326150000 +0530" stop="20240326160000 +0530" channel="SonyPal.in">
     <title lang="en">Adaalat</title>
     <desc lang="en">KD Pathak is a brilliant defence lawyer who has a knack for winning every case he is assigned. He ensures justice prevails and sets innocent victims free in his own inimitable style.</desc>
     <credits>
@@ -958,7 +959,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57C12A8CE95B0612B5569299F9ADC2D89C5E200BU.jpg"/>
   </programme>
-  <programme start="20240325160000 +0530" stop="20240325170000 +0530" channel="SonyPal.in">
+  <programme start="20240326160000 +0530" stop="20240326170000 +0530" channel="SonyPal.in">
     <title lang="en">Adaalat</title>
     <desc lang="en">KD Pathak is a brilliant defence lawyer who has a knack for winning every case he is assigned. He ensures justice prevails and sets innocent victims free in his own inimitable style.</desc>
     <credits>
@@ -972,7 +973,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57C12A8CE95B0612B5569299F9ADC2D89C5E200BU.jpg"/>
   </programme>
-  <programme start="20240325170000 +0530" stop="20240325173000 +0530" channel="SonyPal.in">
+  <programme start="20240326170000 +0530" stop="20240326173000 +0530" channel="SonyPal.in">
     <title lang="en">Baalveer Returns</title>
     <desc lang="en">Baalveer returns once again to fight the forces of evil who seek to destroy the planet and harm the innocent. He seeks help from another hero on his noble mission. Repeat - Mon - Fri 2:18 am.</desc>
     <credits>
@@ -985,7 +986,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
   </programme>
-  <programme start="20240325173000 +0530" stop="20240325180000 +0530" channel="SonyPal.in">
+  <programme start="20240326173000 +0530" stop="20240326180000 +0530" channel="SonyPal.in">
     <title lang="en">Baalveer Returns</title>
     <desc lang="en">Baalveer returns once again to fight the forces of evil who seek to destroy the planet and harm the innocent. He seeks help from another hero on his noble mission. Repeat - Mon - Fri 2:18 am.</desc>
     <credits>
@@ -998,7 +999,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
   </programme>
-  <programme start="20240325180000 +0530" stop="20240325183000 +0530" channel="SonyPal.in">
+  <programme start="20240326180000 +0530" stop="20240326183000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -1012,7 +1013,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325183000 +0530" stop="20240325190000 +0530" channel="SonyPal.in">
+  <programme start="20240326183000 +0530" stop="20240326190000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -1026,7 +1027,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325190000 +0530" stop="20240325193000 +0530" channel="SonyPal.in">
+  <programme start="20240326190000 +0530" stop="20240326193000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -1040,7 +1041,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325193000 +0530" stop="20240325200000 +0530" channel="SonyPal.in">
+  <programme start="20240326193000 +0530" stop="20240326200000 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Wed - Fri 10:00 am.</desc>
     <credits>
@@ -1054,7 +1055,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
   </programme>
-  <programme start="20240325200000 +0530" stop="20240325203000 +0530" channel="SonyPal.in">
+  <programme start="20240326200000 +0530" stop="20240326203000 +0530" channel="SonyPal.in">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to the society. Repeat - Mon - Fri 9:00 am.</desc>
     <credits>
@@ -1068,7 +1069,7 @@
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
   </programme>
-  <programme start="20240325203000 +0530" stop="20240325210000 +0530" channel="SonyPal.in">
+  <programme start="20240326203000 +0530" stop="20240326210000 +0530" channel="SonyPal.in">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">Ahilya Bai blossoms under the guidance of her father-in-law, Malhar Rao Holkar. She takes on the reign of the Malwa territory after the death of her husband and son and leads her kingdom efficiently.</desc>
     <credits>
@@ -1081,7 +1082,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
   </programme>
-  <programme start="20240325210000 +0530" stop="20240325220000 +0530" channel="SonyPal.in">
+  <programme start="20240326210000 +0530" stop="20240326220000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases. Repeat - Mon - Fri 3:54 am.</desc>
     <credits>
@@ -1095,7 +1096,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325220000 +0530" stop="20240325230000 +0530" channel="SonyPal.in">
+  <programme start="20240326220000 +0530" stop="20240326230000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases. Repeat - Mon - Fri 3:54 am.</desc>
     <credits>
@@ -1109,7 +1110,7 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
   </programme>
-  <programme start="20240325230000 +0530" stop="20240326000000 +0530" channel="SonyPal.in">
+  <programme start="20240326230000 +0530" stop="20240327000000 +0530" channel="SonyPal.in">
     <title lang="en">CID</title>
     <desc lang="en">ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases. Repeat - Mon - Fri 3:54 am.</desc>
     <credits>

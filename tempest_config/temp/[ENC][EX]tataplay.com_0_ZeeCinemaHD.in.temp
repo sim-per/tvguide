@@ -3,186 +3,179 @@
   <channel id="ZeeCinemaHD.in">
     <display-name lang="en">Zee Cinema HD</display-name>
   </channel>
-  <programme start="20240324004900 +0530" stop="20240324024800 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Bhoot Pret Kanchana</title>
-    <desc lang="en">Three young men encounter paranormal activities while visiting a friend in another town who has mysteriously disappeared.</desc>
+  <programme start="20240325005200 +0530" stop="20240325030600 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Rough</title>
+    <desc lang="en">Unaware of her identity, Chandhu, an orphan, falls for a wealthy businessman's sister. When he professes his love to her brother, Siddharth, he challenges him to woo her.</desc>
     <credits>
-      <actor>Sanath</actor>
-      <actor>Swathi Konde</actor>
-      <actor>Jadi Akash</actor>
-      <actor>Uthpal Gowda</actor>
-      <actor>Ahalya Suresh</actor>
+      <actor>Aadi</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>Srihari</actor>
+      <actor>MS Narayana</actor>
+      <actor>Raghu Babu</actor>
+      <actor>Jaya Prakash Reddy</actor>
     </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12B3F4FD98EECB3BBB34BC789DC5CFB19E1F9B054.jpg"/>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0D0484183BFE6FDC5A1A54670BBABEDCCFCC64BZ.jpg"/>
   </programme>
-  <programme start="20240324024800 +0530" stop="20240324031400 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240324031400 +0530" stop="20240324052800 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Hum Chaar</title>
-    <desc lang="en">Abeer, Namir, Manjari and Surjo meet in college and develop a close bond with each other. Although they come across several obstacles in life, they always support each other.</desc>
+  <programme start="20240325030600 +0530" stop="20240325055000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Ka Pae Ranasingam</title>
+    <desc lang="en">Ariyanachi, a poor woman, strives to bring her deceased husband's body back to India from Dubai, battling the odds of political agenda, corruption and a treacherous bureaucracy that stand in her way.</desc>
     <credits>
-      <actor>Prit Haren Kamani</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Anshuman Malhotra</actor>
-      <actor>Tushar Pandey</actor>
-      <actor>Himanshu Ashok Malhotra</actor>
+      <actor>Vijay Sethupathi</actor>
+      <actor>Aishwarya Rajesh</actor>
+      <actor>Rangaraj Pandey</actor>
+      <actor>Munishkanth</actor>
+      <actor>Vela Ramamoorthy</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDF6FF23CEBEA2554C7FDBA1C03702446A3DFDE02.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E30255F35F6AE226B7E6960C46480230D035E82DX.jpg"/>
   </programme>
-  <programme start="20240324052800 +0530" stop="20240324074100 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Munna Michael</title>
-    <desc lang="en">Mahinder, a gangster, hires Munna, a street dancer, to train him so that he can impress his lady-love, Dolly. However, when Dolly goes missing, Munna promises to bring her back.</desc>
+  <programme start="20240325055000 +0530" stop="20240325082400 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">The Kashmir Files</title>
+    <desc lang="en">Krishna endeavours to uncover the reason behind his parents' brutal killings in Kashmir. He is shocked to uncover a web of lies and conspiracies in connection with the massive genocide.</desc>
     <credits>
-      <actor>Tiger Shroff</actor>
-      <actor>Nawazuddin Siddiqui</actor>
-      <actor>Nidhhi Agerwal</actor>
-      <actor>Siddharth Nigam</actor>
-      <actor>Ronit Roy</actor>
+      <actor>Mithun Chakraborty</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Darshan Kumar</actor>
+      <actor>Pallavi Joshi</actor>
+      <actor>Chinmay Mandlekar</actor>
+      <actor>Prakash Belawadi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DE2EF3C2AE52415D962F954B47A050182676D9FY.jpg"/>
+  </programme>
+  <programme start="20240325082400 +0530" stop="20240325102600 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Gunjan Saxena: The Kargil Girl</title>
+    <desc lang="en">An ambitious Gunjan Saxena eyes becoming a pilot after being drawn by the idea of a life in a cockpit. Despite facing reservations, she fulfils her dream and serves the country in the Kargil War.</desc>
+    <credits>
+      <actor>Janhvi Kapoor</actor>
+      <actor>Riva Arora</actor>
       <actor>Pankaj Tripathi</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5DDBF75B0A4F75AB86A4045148E3689C5914B86R.jpg"/>
-  </programme>
-  <programme start="20240324074100 +0530" stop="20240324090800 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Daring Rakhwala</title>
-    <desc lang="en">A poisoned dog bites a security guard, unleashing a zombie outbreak in Ooty. Later, Karthik, a traffic police officer, takes up the responsibility of helping doctors find the antidote.</desc>
-    <credits>
-      <actor>Jayam Ravi</actor>
-      <actor>Lakshmi Menon</actor>
-      <actor>Sriman</actor>
-      <actor>R N R Manohar</actor>
-      <actor>Kaali Venkat</actor>
-      <actor>Anikha Surendran</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7995E563AAE9A0B401777EDB70D18CE334FA968AW.jpg"/>
-  </programme>
-  <programme start="20240324090800 +0530" stop="20240324120100 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Dangal</title>
-    <desc lang="en">Mahavir is forced to leave his wrestling career for conventional work. However, when he sees his daughters' potential, he trains them to become the best wrestlers and bring home a gold medal.</desc>
-    <credits>
-      <actor>Aamir Khan</actor>
-      <actor>Sakshi Tanwar</actor>
-      <actor>Fatima Sana Shaikh</actor>
-      <actor>Sanya Malhotra</actor>
-      <actor>Aparshakti Khurana</actor>
-      <actor>Ananya Sharma</actor>
+      <actor>Angad Bedi</actor>
+      <actor>Aaryan Arora</actor>
     </credits>
     <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57F82CC42566E81D8221BB92FC77DDBE468C5A1ET.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AFB94E62CAF9D4A6612BBC05DBEED0DA078ADCCDU.jpg"/>
   </programme>
-  <programme start="20240324120100 +0530" stop="20240324142400 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Mrs. Chatterjee vs Norway (Premiere)</title>
-    <desc lang="en">Debika Chatterjee, an Indian woman living in Norway with her family, fights to regain custody of her children after Norwegian authorities take them away from her.</desc>
+  <programme start="20240325102600 +0530" stop="20240325122500 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Chatrapathi</title>
+    <desc lang="en">Separated from his family during a conflict, a refugee embarks on a mission to reunite with his adopted family. However, he faces several challenges after his foster brother conspires against him.</desc>
     <credits>
-      <actor>Rani Mukerji</actor>
-      <actor>Anirban Bhattacharya</actor>
-      <actor>Jim Sarbh</actor>
-      <actor>Neena Gupta</actor>
-      <actor>Kart Tammjarv</actor>
-      <actor>Britta Soll</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DD826F1FAC658834ECB2655102A0699A3EC3E4AQ.jpg"/>
-  </programme>
-  <programme start="20240324142400 +0530" stop="20240324163200 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Raksha Bandhan</title>
-    <desc lang="en">The eldest brother to four sisters, a chaat shop seller relentlessly strives to keep his promise to his ailing mother while also upholding their family values.</desc>
-    <credits>
-      <actor>Akshay Kumar</actor>
-      <actor>Bhumi Pednekar</actor>
-      <actor>Sadia Khateeb</actor>
-      <actor>Deepika Khanna</actor>
-      <actor>Smrithi Srikanth</actor>
-      <actor>Sahejmeen Kaur</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8332D836F765D20BA169FA5276F0B8B8BC32B6DA4.jpg"/>
-  </programme>
-  <programme start="20240324163200 +0530" stop="20240324200000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Ghajini</title>
-    <desc lang="en">A tycoon suffering from acute short-term memory loss uses a collection of polaroids and tattoos to find his lover's killer and avenge her death.</desc>
-    <credits>
-      <actor>Aamir Khan</actor>
-      <actor>Asin Thottumkal</actor>
-      <actor>Pradeep Rawat</actor>
-      <actor>Jiah Khan</actor>
-      <actor>Tinnu Anand</actor>
-      <actor>Riyaz Khan</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0E6BB9DEC29CC19F83576AAA861308C51BA2AA8Q.jpg"/>
-  </programme>
-  <programme start="20240324200000 +0530" stop="20240324224000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Suriya S3</title>
-    <desc lang="en">Durai Singham, an honest and uncompromising DCP, takes on a businessman and his goons who are involved in illegal dumping of toxic waste and causing serious health concerns.</desc>
-    <credits>
-      <actor>Suriya</actor>
-      <actor>Anushka Shetty</actor>
-      <actor>Shruti Haasan</actor>
-      <actor>Raadhika</actor>
-      <actor>Krish</actor>
+      <actor>Sai Srinivas Bellamkonda</actor>
+      <actor>Nushrratt Bharuccha</actor>
+      <actor>Karan Singh Chhabra</actor>
+      <actor>Sharad Kelkar</actor>
+      <actor>Bhagyashree</actor>
+      <actor>Freddy Daruwala</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BEA9C441F6FA3D87EE30DB154DEEA60EE104ECB3.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1DCD0F2D456948FAE4A7ECFBD22BB4DB6AA3E65N.jpg"/>
   </programme>
-  <programme start="20240324224000 +0530" stop="20240325005200 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Forensic</title>
-    <desc lang="en">When a psychotic murderer sets out on a killing spree, Samuel, a medico-legal advisor, uses his forensic skills to unravel the truth behind the heinous deeds.</desc>
+  <programme start="20240325122500 +0530" stop="20240325144800 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Dream Girl</title>
+    <desc lang="en">Karamveer gets a job at a call centre due to his ability to talk in a woman's voice. He garners a big fan following but soon gets in trouble with his overzealous clients.</desc>
     <credits>
-      <actor>Tovino Thomas</actor>
-      <actor>Mamta Mohandas</actor>
-      <actor>Saiju Kurup</actor>
-      <actor>Giju John</actor>
-      <actor>Prathap Pothan</actor>
-      <actor>Reba Monica John</actor>
+      <actor>Ayushmann Khurrana</actor>
+      <actor>Nushrat Bharucha</actor>
+      <actor>Annu Kapoor</actor>
+      <actor>Manjot Singh</actor>
+      <actor>Vijay Raaz</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EEF624F92E15619B421589F9455CDE543ABE8753Q.jpg"/>
+  </programme>
+  <programme start="20240325144800 +0530" stop="20240325174900 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Vivah</title>
+    <desc lang="en">Poonam, an orphan, is engaged to Prem, who is from a wealthy family. However, two days before her wedding, she suffers from first degree burns after her house catches fire.</desc>
+    <credits>
+      <actor>Shahid Kapoor</actor>
+      <actor>Amrita Rao</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Alok Nath</actor>
+      <actor>Seema Biswas</actor>
+      <actor>Samir Soni</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D19AC63E088216D4D4CB4B5F5E5A18A349F3B8786.jpg"/>
+  </programme>
+  <programme start="20240325174900 +0530" stop="20240325200000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Thank God</title>
+    <desc lang="en">An egotistical real estate broker comes face-to-face with God after meeting with an accident. Soon, he is forced to play a game that will put him either in heaven or hell.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Sidharth Malhotra</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>Kiara Khanna</actor>
+      <actor>Seema Pahwa</actor>
+      <actor>Kanwaljit Singh</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F735FCEA82B554758A831AE95C9951B85E2F48BH.jpg"/>
+  </programme>
+  <programme start="20240325200000 +0530" stop="20240325224300 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Kisi Ka Bhai Kisi Ki Jaan</title>
+    <desc lang="en">Bhaijaan, the eldest brother of three siblings, refuses to get married to maintain harmony in his family. However, complications arise after his brothers conspire for him to fall in love.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Pooja Hegde</actor>
+      <actor>Venkatesh</actor>
+      <actor>Bhumika Chawla</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Raghav Juyal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4476C982C52A53C81C04ECDBDEB062B585447C14U.jpg"/>
+  </programme>
+  <programme start="20240325224300 +0530" stop="20240326003200 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Kaliveera</title>
+    <desc lang="en">Evil forces with differing interests plot to steal a Shiva linga for profit. However, a young tribal man rises up to protect it by any means necessary.</desc>
+    <credits>
+      <actor>Ekalavyaa</actor>
+      <actor>Chirashree Anchan</actor>
+      <actor>Paavana Gowda</actor>
+      <actor>Tabla Nani</actor>
+      <actor>T S Nagabharana</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C65DB868913DF269D65AFD81C3E6980A97DACCADZ.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1CAB4D5A750B38E466A50B9BC73B23FC8C37116CU.jpg"/>
   </programme>
-  <programme start="20240325030000 +0530" stop="20240325060000 +0530" channel="ZeeCinemaHD.in">
+  <programme start="20240326030000 +0530" stop="20240326060000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325060000 +0530" stop="20240325090000 +0530" channel="ZeeCinemaHD.in">
+  <programme start="20240326060000 +0530" stop="20240326090000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325090000 +0530" stop="20240325120000 +0530" channel="ZeeCinemaHD.in">
+  <programme start="20240326090000 +0530" stop="20240326120000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325120000 +0530" stop="20240325150000 +0530" channel="ZeeCinemaHD.in">
+  <programme start="20240326120000 +0530" stop="20240326150000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325150000 +0530" stop="20240325180000 +0530" channel="ZeeCinemaHD.in">
+  <programme start="20240326150000 +0530" stop="20240326180000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325180000 +0530" stop="20240325210000 +0530" channel="ZeeCinemaHD.in">
+  <programme start="20240326180000 +0530" stop="20240326210000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325210000 +0530" stop="20240326030000 +0530" channel="ZeeCinemaHD.in">
+  <programme start="20240326210000 +0530" stop="20240327030000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

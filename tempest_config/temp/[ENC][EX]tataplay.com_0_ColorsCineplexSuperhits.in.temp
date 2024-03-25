@@ -3,187 +3,278 @@
   <channel id="ColorsCineplexSuperhits.in">
     <display-name lang="en">Colors Cineplex Superhits</display-name>
   </channel>
-  <programme start="20240324001000 +0530" stop="20240324021000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Dum Man Of Power</title>
-    <desc lang="en">Tarak comes to India after his parents die in an accident and falls in love with Meera, who seeks others' happiness before hers. Soon, Tarak and Meera's relationship goes through a rough patch.</desc>
+  <programme start="20240325000200 +0530" stop="20240325015600 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Meri Zindagi Ek Agneepath</title>
+    <desc lang="en">Ramakrishna, a mechanic, is framed for the murder of his wife by his father-in-law who then takes his son away from him. Following his release, Ramakrishna sets out to find his child.</desc>
     <credits>
-      <actor>Darshan</actor>
-      <actor>Sruthi Hariharan</actor>
-      <actor>Shanvi Srivastava</actor>
-      <actor>Devaraj</actor>
-      <actor>Sumithra</actor>
+      <actor>Chiranjeevi</actor>
+      <actor>Soundarya</actor>
+      <actor>Anjala Zaveri</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Brahmanandam</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21AF3B313D6AC387747719C1E69B62401C0986CFN.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32ADCD644C0023CB36AC10ECB0E1CE9050D56E91F.jpg"/>
   </programme>
-  <programme start="20240324021000 +0530" stop="20240324042300 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">MLA Kattappa</title>
-    <desc lang="en">A man rises to the position of the chief minister of a state despite all the hurdles in his way. Once there, the road ahead seems no less difficult.</desc>
+  <programme start="20240325015600 +0530" stop="20240325042400 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Jaandaar</title>
+    <desc lang="en">Jai, an orphan, falls into bad company after Bhagwan, a gangster, gives him shelter and hope to live. However, Jai and Munna, Bhagwan's son, fight with each other after Munna kills an innocent woman.</desc>
     <credits>
-      <actor>Sathyaraj</actor>
-      <actor>Manivannan</actor>
-      <actor>Seeman</actor>
-      <actor>Raghuvannan</actor>
-      <actor>Mrudula Murali</actor>
-      <actor>Komal Sharma</actor>
+      <actor>Pawan Kalyan</actor>
+      <actor>Sarah-Jane Dias</actor>
+      <actor>Anjali Lavania</actor>
+      <actor>Jackie Shroff</actor>
+      <actor>Adivi Sesh</actor>
     </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/37ACEDF2D81A85BF162BDB19599A6BEBA4054176G.jpg"/>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E1F707889113EC9B60F8938EE6593FEBDCAF6C7Z.jpg"/>
   </programme>
-  <programme start="20240324042300 +0530" stop="20240324062500 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Qaidi The Jail Break</title>
-    <desc lang="en">While being taken as a prisoner of war at a jail in Rawalpindi by the Pakistani force, an Indian army pilot reminisces his romance with a beautiful doctor.</desc>
+  <programme start="20240325042400 +0530" stop="20240325064700 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Kirataka</title>
+    <desc lang="en">Nandisha, a gambler and drinker, falls in love with Nethra, who belongs to a rival village. He then decides to elope with her but has to deal with the rivalry between their communities.</desc>
     <credits>
-      <actor>Karthi</actor>
-      <actor>Aditi Rao Hydari</actor>
-      <actor>K P A C Lalitha</actor>
-      <actor>Rukmini Vijayakumar</actor>
-      <actor>Shraddha Srinath</actor>
+      <actor>Yash</actor>
+      <actor>Oviya Helen</actor>
+      <actor>T S Nagabharana</actor>
+      <actor>Thara</actor>
+      <actor>Sanketh Kashi</actor>
+      <actor>Daniel Balaji</actor>
     </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2A57282489AC9DCBF9BA927092140AB2EE7F546V.jpg"/>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/86FF796771EDFAFBC733E96139ADE5F0B482D37DM.jpg"/>
   </programme>
-  <programme start="20240324062500 +0530" stop="20240324082200 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Motu Patlu - King of Kings</title>
-    <desc lang="en">Motu and Patlu help Guddu, a circus lion, return to the jungle, which an evil poacher, Narsimha, dominates. The duo teams up with the animals to combat him and restore peace.</desc>
-    <credits>
-      <actor>Saurav Chakrabarty</actor>
-      <actor>Vinay Pathak</actor>
-    </credits>
+  <programme start="20240325064700 +0530" stop="20240325073300 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Shiva vs Rubber Man</title>
+    <desc lang="en">After the illegal cutting of trees in a thick forest, Rubber Man emerges to take on the human population. Later, Shiva and his friends try to stop Rubber Man from creating havoc.</desc>
     <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5CB1C257F477D4ABE47C133A3DFD0C6B145664C1O.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2A4D0B38935F6A6503EE2F1CA2AE63A79B420136.jpg"/>
   </programme>
-  <programme start="20240324082200 +0530" stop="20240324101500 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Motu Patlu Kung Fu Kings</title>
-    <desc lang="en">When renowned martial artist Tiger Chang comes to Furfuri Nagar and challenges everyone, Motu starts training to defeat him. Soon, Patlu and Motu find themselves facing an unexpected situation.</desc>
+  <programme start="20240325073300 +0530" stop="20240325091000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Motu Patlu In The Toy World</title>
+    <desc lang="en">When toys from the toy world take over the town, Motu and Patlu decide to stop them from causing havoc and protecting the town.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF989FFB0F4B212AEA0AA65C7C404E44B211EE4E2.jpg"/>
+  </programme>
+  <programme start="20240325091000 +0530" stop="20240325104000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Motu Patlu 36 Ghantey Race Against Time</title>
+    <desc lang="en">Motu and Patlu go on another adventure and they race against time as they have only thirty-six hours to solve the case of the theft of the Golden Car award.</desc>
     <credits>
       <actor>Saurav Chakraborty</actor>
     </credits>
     <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4003559A3FD6A9DCD41277BA65C2CC43D16CAA14K.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ED469CA97BC817C933D6FEA9EBF71D0907C73119X.jpg"/>
   </programme>
-  <programme start="20240324101500 +0530" stop="20240324122400 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Ek Aur Mrityu Pujan</title>
-    <desc lang="en">When the shadow of evil starts taking over the world, a warrior fights for good, as an avatar of Narasimha, a lion god, who is known for destroying evil.</desc>
+  <programme start="20240325104000 +0530" stop="20240325132200 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Big Brother</title>
+    <desc lang="en">Upon being released from prison, Sachi demands to lead a tranquil life with his family. However, fate has other plans for the ex-convict when he encounters a dangerous drug lord.</desc>
     <credits>
-      <actor>Aakash Kumar Sehdev</actor>
-      <actor>Mishti</actor>
-      <actor>Jaya Prada</actor>
-      <actor>Napolean</actor>
-      <actor>Nassar</actor>
-      <actor>Puneet Issar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EC9E7E77DC53F95D131924CD8526A60E85B127AH.jpg"/>
-  </programme>
-  <programme start="20240324122400 +0530" stop="20240324142500 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">The Return Of Lion</title>
-    <desc lang="en">When a social worker dies, his son must not only avenge his death but also prove his innocence when the welfare fund money accumulated by his family goes missing.</desc>
-    <credits>
-      <actor>Nandamuri Balakrishna</actor>
-      <actor>Isha Chawla</actor>
-      <actor>Parvati Melton</actor>
-      <actor>Suresh</actor>
-      <actor>Vinod Kumar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AC10C6839DE2873C8E785160B44C641EDFC6FB6FI.jpg"/>
-  </programme>
-  <programme start="20240324142500 +0530" stop="20240324165400 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Rider</title>
-    <desc lang="en">As love blossoms between orphans Chinnu and Kitty, fate separates them as children. They grow up yearning to find each other, despite many difficulties.</desc>
-    <credits>
-      <actor>Nikhil Gowda</actor>
-      <actor>Anusha Rai</actor>
-      <actor>Kashmira Pardeshi</actor>
-      <actor>Achyuth Kumar</actor>
-      <actor>Ramachandra Raju</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E2AFA2AB105703BA7B28052D4F79527FD03E27DQ.jpg"/>
-  </programme>
-  <programme start="20240324165400 +0530" stop="20240324185800 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Angel</title>
-    <desc lang="en">Nani discovers a rare antique idol from the excavation site at Amaravati. He wants to sell it and keep the money for himself, but before he can do that, the idol goes missing.</desc>
-    <credits>
-      <actor>Naga Anvesh</actor>
-      <actor>Hebah Patel</actor>
-      <actor>Suman</actor>
-      <actor>Sapthagiri</actor>
-      <actor>Kabir Duhan Singh</actor>
-      <actor>Sayaji Shinde</actor>
-    </credits>
-    <category lang="en">Fantasy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59627D3BEB81D03F2D7D9FF48A2DF8A33F63A720O.jpg"/>
-  </programme>
-  <programme start="20240324185800 +0530" stop="20240324212100 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Ugram</title>
-    <desc lang="en">When CI Shiva Kumar's family goes missing from a hospital following an accident, the police officer sets off to unveil an entangled mystery that takes an enigmatic turn.</desc>
-    <credits>
-      <actor>Allari Naresh</actor>
-      <actor>Mirnaa Menon</actor>
-      <actor>Indraja</actor>
-      <actor>Sharath Lohithaswa</actor>
-      <actor>Srikanth Iyengar</actor>
-      <actor>Shatru</actor>
+      <actor>Mohanlal</actor>
+      <actor>Arbaaz Khan</actor>
+      <actor>Anoop Menon</actor>
+      <actor>Vishnu Unnikrishnan</actor>
+      <actor>Siddique</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C05E8CDB553CD3542C968585AC3816789AF9F03E.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42CF7442C3EC1FB426CA9ABCC5F5AFFC672D8203R.jpg"/>
   </programme>
-  <programme start="20240324212100 +0530" stop="20240325000200 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Antim Faisla</title>
-    <desc lang="en">Five people from different walks of life face obstacles while being unaware of each other. Their struggles lead them to a night in a hospital that soon becomes dangerous.</desc>
+  <programme start="20240325132200 +0530" stop="20240325155200 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Gopichand Chanakya</title>
+    <desc lang="en">A highly sought-after RAW agent is known for his skills at catching some of the most hardened criminals. However, he falls in danger when he goes after a dangerous terrorist.</desc>
     <credits>
-      <actor>Allu Arjun</actor>
+      <actor>Gopichand</actor>
+      <actor>Zareen Khan</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Nassar</actor>
+      <actor>Rajesh Khattar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96137F8F9E9D8133EDA43A286D803AEAC850F639E.jpg"/>
+  </programme>
+  <programme start="20240325155200 +0530" stop="20240325185800 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Main Hoon Surya Singham 2</title>
+    <desc lang="en">An undercover police officer works in a school in Tamil Nadu and tries to put an end to the criminal activities of two criminals who rule the area.</desc>
+    <credits>
+      <actor>Suriya</actor>
       <actor>Anushka Shetty</actor>
-      <actor>Manoj Manchu</actor>
-      <actor>Manoj Bajpayee</actor>
-      <actor>Saranya Ponvannan</actor>
-      <actor>Nagayya</actor>
+      <actor>Hansika Motwani</actor>
+      <actor>Danny Sapani</actor>
+      <actor>Vivek</actor>
+      <actor>Santhanam</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD941693D06C877764855917744828FC9FA90822A.jpg"/>
+  </programme>
+  <programme start="20240325185800 +0530" stop="20240325212400 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">ACP Shiva</title>
+    <desc lang="en">Shivakumar, a dishonest cop, ensures that he is transferred to Chennai, where he exploits his position for financial gain. He also supports GK, a local MP, against the commissioner of Chennai.</desc>
+    <credits>
+      <actor>Raghava Lawrence</actor>
+      <actor>Nikki Galrani</actor>
+      <actor>Sathyaraj</actor>
+      <actor>Ashutosh Rana</actor>
+      <actor>Vamsi Krishna</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A9B75CC5F4D8B5D5D06363C0CF1E04BAAFB54D2A1.jpg"/>
+  </programme>
+  <programme start="20240325212400 +0530" stop="20240325235600 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Main Hoon Khuddar</title>
+    <desc lang="en">Ram, a servant, falls for the beautiful daughter of his mistress, Chamundeshwari, who is a business tycoon. After discovering Ram's feelings for her daughter, Chamundeshwari tries to separate them.</desc>
+    <credits>
+      <actor>Jr NTR</actor>
+      <actor>Nagma</actor>
+      <actor>Gajala</actor>
+      <actor>Arthi Agarwal</actor>
+      <actor>Naresh Vijay Krishna</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/274A961CC4E978386B776BC4254510578629DF5F1.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E13F478821E63A704F1AC376CCA2050E61D6BC93Z.jpg"/>
   </programme>
-  <programme start="20240325030000 +0530" stop="20240325060000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240325235600 +0530" stop="20240326022500 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Chakravarthy</title>
+    <desc lang="en">Shankar, a humble youth from Madikeri, heads out to Bengaluru in search of a job. His life changes drastically once he steps up to become an underworld gangster.</desc>
+    <credits>
+      <actor>Darshan</actor>
+      <actor>Deepa Sannidhi</actor>
+      <actor>Aditya</actor>
+      <actor>Kumar Bangarappa</actor>
+      <actor>Yashas Surya</actor>
+      <actor>Srujan Lokesh</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59A42FC35F4397A0145BD16A320BA777C23B877CT.jpg"/>
   </programme>
-  <programme start="20240325060000 +0530" stop="20240325090000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240326022500 +0530" stop="20240326044400 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Angry Sher</title>
+    <desc lang="en">A high-end car technician and a college student fall in love. However, their happiness is short-lived because they soon get involved in a series of conspiracies after the latter is kidnapped.</desc>
+    <credits>
+      <actor>Vikram Prabhu</actor>
+      <actor>Priya Anand</actor>
+      <actor>J D Chakravarthy</actor>
+      <actor>Arjunan</actor>
+      <actor>Yog Japee</actor>
+      <actor>M S Baskar</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93DF22BAE09C1F1CD21E3CE908409E8294B423F29.jpg"/>
   </programme>
-  <programme start="20240325090000 +0530" stop="20240325120000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240326044400 +0530" stop="20240326070500 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Weapon The Hathyar</title>
+    <desc lang="en">An athlete suffers from a rare health condition that prevents him from physical exertion. But he must play to his strengths when he comes across a gang that specialises in printing counterfeit money.</desc>
+    <credits>
+      <actor>Atharvaa</actor>
+      <actor>Sri Divya</actor>
+      <actor>Aadukalam Naren</actor>
+      <actor>Jayaprakash</actor>
+      <actor>Selva</actor>
+      <actor>Aadukalam Murugadoss</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4826EB7E2591229459834AEF1612CEC15BE9573FT.jpg"/>
   </programme>
-  <programme start="20240325120000 +0530" stop="20240325150000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240326070500 +0530" stop="20240326075600 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Shiva Vs Crime Time</title>
+    <desc lang="en">When an evil villain traps Shiva in a time box and tortures the citizens of Vedas City, the child superhero must find a way to rescue everyone.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/389B15C7E92A9B14AF2A31D74E49EB505A41E43F6.jpg"/>
   </programme>
-  <programme start="20240325150000 +0530" stop="20240325180000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240326075600 +0530" stop="20240326092900 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Motu Patlu The Superheroes Super Villians From Mars</title>
+    <desc lang="en">Motu and Patlu set out to save their town, Furfuri Nagar, after supervillains with cosmic powers from Mars attack the world to occupy it.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98714D80F3AA6523E42C32A7F5A7B4CD14D9BDC2X.jpg"/>
   </programme>
-  <programme start="20240325180000 +0530" stop="20240325210000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240326092900 +0530" stop="20240326110800 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Motu Patlu in the Game of Zones</title>
+    <desc lang="en">Two friends, Motu and Patlu, face several challenges after being transported into a board game. In order to escape, they must outwit various monsters and magicians.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Bharkha Saxena</actor>
+      <actor>Sonal Kaushal</actor>
+      <actor>Swapnil Kumari</actor>
+      <actor>Nandkishore Pandey</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF4EC18CB67847FFD82F1BAB589867097C1E0BC1Q.jpg"/>
   </programme>
-  <programme start="20240325210000 +0530" stop="20240326030000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240326110800 +0530" stop="20240326133000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Pogaru</title>
+    <desc lang="en">After discovering atrocities committed against the general public, a local thug sets out on a violent path in order to secure justice for their plight.</desc>
+    <credits>
+      <actor>Dhruva Sarja</actor>
+      <actor>Rashmika Mandanna</actor>
+      <actor>Sampath Raj</actor>
+      <actor>Dhananjay</actor>
+      <actor>Chikkanna</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E81B6A083227BACB08B748003FE7A66093CBF46M.jpg"/>
+  </programme>
+  <programme start="20240326133000 +0530" stop="20240326160000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Jeene Nahi Doonga</title>
+    <desc lang="en">After getting killed by his lady love's fiance, Bullet Raja travels to the underworld and begs Lord Yama for another chance at life. After Yama accepts, he is sent back to Earth as a minister.</desc>
+    <credits>
+      <actor>Ravi Teja</actor>
+      <actor>Taapsee Pannu</actor>
+      <actor>Satyanarayana</actor>
+      <actor>Prabhu</actor>
+      <actor>Bramhanandam</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE205337EEB963EF81F53F29C519EF2781E60F2CK.jpg"/>
+  </programme>
+  <programme start="20240326160000 +0530" stop="20240326185600 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Bharaate</title>
+    <desc lang="en">Jagan, a local travel guide, falls in love with Radha, a tourist who visits his city. Though she leaves without saying goodbye, fate conspires to being them together again.</desc>
+    <credits>
+      <actor>Sriimurali</actor>
+      <actor>Sree Leela</actor>
+      <actor>Tara</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Giri Shivanna</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DA95DE34A8B7024907DBC1D2CF7A26BE709253A4E.jpg"/>
+  </programme>
+  <programme start="20240326185600 +0530" stop="20240326213400 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Dangerous Khiladi 3</title>
+    <desc lang="en">Ravi aims to become a policeman like Devaraj, an encounter specialist. However, he finds himself on the other side of the law, when he helps out a friend.</desc>
+    <credits>
+      <actor>Vijay</actor>
+      <actor>Anushka Shetty</actor>
+      <actor>Srihari</actor>
+      <actor>Salim Ghouse</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Sanchita Padukone</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F44F0840B38CFEA8ADFAC8C7394E59CBAED34F1EZ.jpg"/>
+  </programme>
+  <programme start="20240326213400 +0530" stop="20240326235500 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Dackalti</title>
+    <desc lang="en">A fraudster is tasked with finding a girl and taking her to a womaniser. Though he accomplishes the mission, he has a change of heart when he realises his love for her.</desc>
+    <credits>
+      <actor>Santhanam</actor>
+      <actor>Rittika Sen</actor>
+      <actor>Radha Ravi</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Tarun Arora</actor>
+      <actor>Brahmanandam</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4880569918080686A3A27E543FA3363939842828W.jpg"/>
+  </programme>
+  <programme start="20240326235500 +0530" stop="20240327014300 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Aatank Ki Jung</title>
+    <desc lang="en">Meenakshi wants Zareen to help her take action against an ad agency owner, Gowtham. However, due to a turn of events, Meenakshi and Gowtham get intel on a terrorist attack and have to stop it.</desc>
+    <credits>
+      <actor>Sumanth</actor>
+      <actor>Vedika</actor>
+      <actor>Sindhu Tolani</actor>
+      <actor>Ranganath</actor>
+      <actor>Brahmanandam</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1A808E62DBBAC56EC796A038BF0E6A18404DB52C.jpg"/>
   </programme>
 </tv>

@@ -4,74 +4,6 @@
     <display-name lang="mg">CINEMAX 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png"/>
   </channel>
-  <programme start="20240323221500 +0530" stop="20240323234500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Jumper</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240323234500 +0530" stop="20240324001500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">BORED to DEATH</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324001500 +0530" stop="20240324015000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">THE LAIR</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324015000 +0530" stop="20240324032000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Hancock</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324032000 +0530" stop="20240324050000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">CHARLIE WILSON'S WAR</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324050000 +0530" stop="20240324053000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">BALLERS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324053000 +0530" stop="20240324060000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">BALLERS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324060000 +0530" stop="20240324073000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Jumper</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324073000 +0530" stop="20240324091000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">EASTER SUNDAY</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324091000 +0530" stop="20240324104500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Hancock</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324104500 +0530" stop="20240324122000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Another 48 Hrs.</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324122000 +0530" stop="20240324143000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">AMERICAN SNIPER</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324143000 +0530" stop="20240324161000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">The Gathering Storm</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324161000 +0530" stop="20240324164000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">HOLLYWOOD on SET</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324164000 +0530" stop="20240324184500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">61*</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324184500 +0530" stop="20240324203000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">The Tuskegee Airmen</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240324203000 +0530" stop="20240324222500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Lethal Weapon 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
   <programme start="20240324222500 +0530" stop="20240325002500 +0530" channel="CINEMAXHD.my">
     <title lang="mg">THE BROTHERS GRIMM</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
@@ -130,6 +62,74 @@
   </programme>
   <programme start="20240325203000 +0530" stop="20240325222500 +0530" channel="CINEMAXHD.my">
     <title lang="mg">Lethal Weapon 3</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240325222500 +0530" stop="20240326000500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">VACATION</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326000500 +0530" stop="20240326003500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">BALLERS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326003500 +0530" stop="20240326010500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">BALLERS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326010500 +0530" stop="20240326023500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">The Offering</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326023500 +0530" stop="20240326043000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">SWEENEY TODD</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326043000 +0530" stop="20240326061500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">BELOW</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326061500 +0530" stop="20240326075000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">SULLY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326075000 +0530" stop="20240326094000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">GHOST in the SHELL</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326094000 +0530" stop="20240326101000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">BALLERS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326101000 +0530" stop="20240326104000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">BALLERS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326104000 +0530" stop="20240326123000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">FALL</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326123000 +0530" stop="20240326143000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">DRAGON: THE BRUCE LEE STORY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326143000 +0530" stop="20240326162000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">IN PURSUIT of HONOR</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326162000 +0530" stop="20240326164500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">HOLLYWOOD on SET</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326164500 +0530" stop="20240326183500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">EL DIABLO</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326183500 +0530" stop="20240326203000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">Lethal Weapon 3</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
+  </programme>
+  <programme start="20240326203000 +0530" stop="20240326223500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">Lethal Weapon 4</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
   </programme>
 </tv>

@@ -3,174 +3,173 @@
   <channel id="STARGOLDHD.in">
     <display-name lang="en">STAR GOLD HD</display-name>
   </channel>
-  <programme start="20240324011300 +0530" stop="20240324025500 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Bal Ganesh</title>
-    <desc lang="en">Bal Ganesh, the mischievous son of Lord Shiva, embarks on several adventures with Mooshak the mouse, his friend and vehicle. Despite being young, he battles evil forces and protects the world.</desc>
+  <programme start="20240325012900 +0530" stop="20240325040400 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Dishoom</title>
+    <desc lang="en">Kabir and Junaid, two policemen at odds with each other, embark on a mission to the Middle East to rescue Viraj, a leading cricketer who has been kidnapped.</desc>
     <credits>
-      <actor>Ashar Shaikh</actor>
-      <actor>Adarsh Gautam</actor>
-      <actor>Namrata Sawhney</actor>
-      <actor>Jai Prakash Singh</actor>
-      <actor>Neshma Mantri</actor>
-      <actor>Dhananjay</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55E5D91C4F465369359B87C8BDB3658648A797082.jpg"/>
-  </programme>
-  <programme start="20240324025500 +0530" stop="20240324043900 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Monsoon Shootout: Life Is A Matter Of Choices</title>
-    <desc lang="en">Adi, a policeman, joins an anti-extortion unit of the Mumbai Police led by Khan. When an ambush goes wrong, Adi chases a wanted gangster, Shiva, and is unsure about killing him in an encounter.</desc>
-    <credits>
-      <actor>Nawazuddin Siddiqui</actor>
-      <actor>Vijay Varma</actor>
-      <actor>Tannishtha Chatterjee</actor>
-      <actor>Neeraj Kabi</actor>
-      <actor>Geetanjali Thapa</actor>
-      <actor>Sreejita De</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7619E851A4AFFBB159F181152E08C64512338E98Z.jpg"/>
-  </programme>
-  <programme start="20240324043900 +0530" stop="20240324064200 +0530" channel="STARGOLDHD.in">
-    <title lang="en">A Gentleman: Sundar, Susheel, Risky</title>
-    <desc lang="en">Gaurav, a young man living in Miami, USA, wishes to settle down and marry his girlfriend. However, his plans are put on hold when he travels to Mumbai and is mistaken for a spy.</desc>
-    <credits>
-      <actor>Siddharth Malhotra</actor>
+      <actor>John Abraham</actor>
+      <actor>Varun Dhawan</actor>
       <actor>Jacqueline Fernandez</actor>
-      <actor>Darshan Kumar</actor>
-      <actor>Suniel Shetty</actor>
-      <actor>Hussain Dalal</actor>
+      <actor>Akshaye Khanna</actor>
+      <actor>Rashmi Nigam</actor>
+      <actor>Saqib Saleem</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EB5EC8E844254B1672ECA79E1BCA7E5F2769690S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7EB4B02971EF3EF64A81B8454EFB815A448B933Z.jpg"/>
   </programme>
-  <programme start="20240324064200 +0530" stop="20240324082000 +0530" channel="STARGOLDHD.in">
-    <title lang="en">D-16</title>
-    <desc lang="en">Deepak, a retired police officer, meets an aspiring IPS officer and tells him about an unresolved case. Later, while telling the story, Deepak comes across his tainted past.</desc>
+  <programme start="20240325040400 +0530" stop="20240325052800 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Royal Queen</title>
+    <desc lang="en">A famous film actor is known for always treating his staff members badly. However, when he falls prey to a car accident, his whole perspective on life is changed for the better.</desc>
     <credits>
-      <actor>Rahman</actor>
-      <actor>Prakash Vijayaraghavan</actor>
-      <actor>Ashwin Kumar</actor>
-      <actor>Pradeep</actor>
-      <actor>Anjana Jayaprakash</actor>
-      <actor>Yashika Aannand</actor>
+      <actor>Nara Rohith</actor>
+      <actor>Namitha Pramod</actor>
+      <actor>Nandita Raj</actor>
+      <actor>Prabhas Sreenu</actor>
+      <actor>Surya</actor>
+      <actor>Ajay</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/92CFAD86745D8997397ADE9C37C8B45ECF7222FD2.jpg"/>
+  </programme>
+  <programme start="20240325052800 +0530" stop="20240325072300 +0530" channel="STARGOLDHD.in">
+    <title lang="en">The Fighter Man Singham 2</title>
+    <desc lang="en">A carefree and unenthusiastic police officer begins to reconsider his ways after a series of events forces him to hide from a notorious gangster.</desc>
+    <credits>
+      <actor>Vishnu Vishal</actor>
+      <actor>Regina Cassandra</actor>
+      <actor>P Ravi Shankar</actor>
+      <actor>Anandraj</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Karunakaran</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B92C0C2975D8ED21A60CC5399B5996FE9C88D5921.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E92E8042D355F6B8CC0198C1C0DC43FF4F475469.jpg"/>
   </programme>
-  <programme start="20240324082000 +0530" stop="20240324095700 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Little Krishna : The Legendary Warrior</title>
-    <desc lang="en">The kingdom of Vrindavan is threatened by the evil king Kamsa who is hell-bent on murdering Lord Krishna. However, little Krishna is equal to the task and sees off the challenges with valour.</desc>
+  <programme start="20240325072300 +0530" stop="20240325095200 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Chhichhore</title>
+    <desc lang="en">A tragic incident forces Anirudh, a middle-aged man, to take a trip down memory lane and reminisce his college days along with his friends, who were labelled as losers.</desc>
     <credits>
-      <actor>Cara Pereira</actor>
-      <actor>Rajeshrie Sharma</actor>
-      <actor>Vikrant Chaturvedi</actor>
-      <actor>Neil D'Monte</actor>
-      <actor>Francois Castellino</actor>
+      <actor>Sushant Singh Rajput</actor>
+      <actor>Shraddha Kapoor</actor>
+      <actor>Varun Sharma</actor>
+      <actor>Prateik</actor>
+      <actor>Tahir Raj Bhasin</actor>
+      <actor>Naveen Polishetty</actor>
     </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFCB0C215375207D36ADE13A26343190DE3EF7D69.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73779464D6DC1BBE533A2B321527A46806CD38F7H.jpg"/>
   </programme>
-  <programme start="20240324095700 +0530" stop="20240324114700 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Little Krishna 3: The Wondrous Feats</title>
-    <desc lang="en">Krishna, the mischievous avatar of Lord Vishnu, embarks on adventures with his friends and fights the asuras his evil uncle, King Kansa, sends to kill him.</desc>
+  <programme start="20240325095200 +0530" stop="20240325132500 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Sholay</title>
+    <desc lang="en">Jai and Veeru, two ex-convicts, are hired by Thakur Baldev Singh, a retired policeman, to help him nab Gabbar Singh, a notorious dacoit, who has spread havoc in the village of Ramgarh.</desc>
     <credits>
-      <actor>Cara Pereira</actor>
-      <actor>Rajeshrie Sharma</actor>
-      <actor>Vikrant Chaturvedi</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/49D1AD9BBD58D2826E94A8D28D7990AF7DDC39CC0.jpg"/>
-  </programme>
-  <programme start="20240324114700 +0530" stop="20240324145800 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Rajini the JAILER</title>
-    <desc lang="en">A retired jailer lives a peaceful life with his family. But when his son, who is a policeman, goes missing and is supposedly killed, he is forced to go back to his world of crime and find the killer.</desc>
-    <credits>
-      <actor>Rajinikanth</actor>
-      <actor>Vinayakan</actor>
-      <actor>Ramya Krishnan</actor>
-      <actor>Vasanth Ravi</actor>
-      <actor>Tamannaah</actor>
-      <actor>Sunil</actor>
+      <actor>Dharmendra</actor>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Sanjeev Kumar</actor>
+      <actor>Amjad Khan</actor>
+      <actor>Hema Malini</actor>
+      <actor>Jaya Bhaduri Bachchan</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF00CD8661143B3D7C6499929971E6418839E3BCW.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47ABDBEC199A81B331E2207F35F8697CEB153B8E9.jpg"/>
   </programme>
-  <programme start="20240324145800 +0530" stop="20240324152200 +0530" channel="STARGOLDHD.in">
+  <programme start="20240325132500 +0530" stop="20240325162400 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Brahmastra Part One: Shiva</title>
+    <desc lang="en">Shiva and Isha, a young couple, learn about the secrets of the Brahmastra. Together, they must stop the forces of evil from destroying the universe.</desc>
+    <credits>
+      <actor>Ranbir Kapoor</actor>
+      <actor>Alia Bhatt</actor>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Mouni Roy</actor>
+      <actor>Nagarjuna Akkineni</actor>
+      <actor>Stanzin Denek</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD0DF853521E311B2DE9533B1233A71668354694Y.jpg"/>
+  </programme>
+  <programme start="20240325162400 +0530" stop="20240325185800 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Hungama</title>
+    <desc lang="en">A millionaire businessman living in a village decides to move to the city with his wife. They soon get into a case of mistaken identity that results in comical situations.</desc>
+    <credits>
+      <actor>Akshaye Khanna</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Aftab Shivdasani</actor>
+      <actor>Rimi Sen</actor>
+      <actor>Shakti Kapoor</actor>
+      <actor>Shoma Anand</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5E75C2B8C5A722E3238FAD64C3466BDB00B41C1S.jpg"/>
+  </programme>
+  <programme start="20240325185800 +0530" stop="20240325192200 +0530" channel="STARGOLDHD.in">
     <title lang="en">Amul Cricket Live</title>
     <desc lang="en">Live analysis of the matches played during the 2024 Indian Premier League.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E8B00D1A1D63188BE7D78D34829AAE0A078B4761E.jpg"/>
   </programme>
-  <programme start="20240324152200 +0530" stop="20240324185800 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Live TATA IPL 2024 RR v LSG</title>
-    <desc lang="en">Rajasthan Royals vs. Lucknow Super Giants- Sawai Mansingh Stadium, Jaipur, India</desc>
+  <programme start="20240325192200 +0530" stop="20240325225800 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Live TATA IPL 2024 - RCB v PBKS</title>
+    <desc lang="en">Royal Challengers Bangalore vs. Punjab Kings- M Chinnaswamy Stadium, Bengaluru, India</desc>
     <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A1877A9D7EA9B1AFBAF949E2B38CEB4CE62C40C.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36FABCE1261797D9125FE454F4AC02203496065EE.jpg"/>
   </programme>
-  <programme start="20240324185800 +0530" stop="20240324192200 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Amul Cricket Live</title>
-    <desc lang="en">Live analysis of the matches played during the 2024 Indian Premier League.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E8B00D1A1D63188BE7D78D34829AAE0A078B4761E.jpg"/>
-  </programme>
-  <programme start="20240324192200 +0530" stop="20240324225800 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Live TATA IPL 2024 GT v MI</title>
-    <desc lang="en">Gujarat Titans vs. Mumbai Indians- Narendra Modi Stadium, Ahmedabad, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/474DD2E2AAC102CF2F792A33B61F45D0595A21BE3.jpg"/>
-  </programme>
-  <programme start="20240324225800 +0530" stop="20240325012900 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Vishal In Laththi Charge</title>
-    <desc lang="en">A police officer and his son get trapped in a dilapidated building while he attempts to fight a revenge-filled crime lord and his men.</desc>
+  <programme start="20240325225800 +0530" stop="20240326012100 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Singham Returns</title>
+    <desc lang="en">Bajirao Singham, an honest police officer, encounters Babaji, a god-man with connections to high profile politicians, when he investigates the death of an officer from his team.</desc>
     <credits>
-      <actor>Vishal</actor>
-      <actor>Prabhu</actor>
-      <actor>Lirish Raghav</actor>
-      <actor>Sunaina</actor>
-      <actor>Thalaivasal Vijay</actor>
-      <actor>Munishkanth</actor>
+      <actor>Ajay Devgn</actor>
+      <actor>Kareena Kapoor</actor>
+      <actor>Amol Gupte</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Vineet Sharma</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F34F8EE3EC9832D176DD731F49EEFB36289A0642E.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F7C73F74FF8BF9320D397FDA4127A6DE045EA2DL.jpg"/>
   </programme>
-  <programme start="20240325013100 +0530" stop="20240325060000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240326005500 +0530" stop="20240326031300 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325060000 +0530" stop="20240325090000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240326031300 +0530" stop="20240326060000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325090000 +0530" stop="20240325120000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240326060000 +0530" stop="20240326090000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325120000 +0530" stop="20240325150000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240326090000 +0530" stop="20240326120000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325150000 +0530" stop="20240325180000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240326120000 +0530" stop="20240326150000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325180000 +0530" stop="20240325210000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240326150000 +0530" stop="20240326180000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325210000 +0530" stop="20240326030000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240326180000 +0530" stop="20240326210000 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240326210000 +0530" stop="20240327030000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

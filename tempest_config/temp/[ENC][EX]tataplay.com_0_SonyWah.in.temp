@@ -3,108 +3,107 @@
   <channel id="SonyWah.in">
     <display-name lang="en">Sony Wah</display-name>
   </channel>
-  <programme start="20240324001400 +0530" stop="20240324021800 +0530" channel="SonyWah.in">
-    <title lang="en">Chhorii</title>
-    <desc lang="en">Hemant and Sakshi, a married couple, are forced to move out of their home and seek refuge in a remote house. However, she soon experiences supernatural events which threaten her life.</desc>
+  <programme start="20240325015500 +0530" stop="20240325035200 +0530" channel="SonyWah.in">
+    <title lang="en">Simran</title>
+    <desc lang="en">Praful, a divorcee, loses her savings in a gambling bout. She takes a loan in order to repair the damage but when she is unable to repay it, she finds herself drawn into a life of crime.</desc>
     <credits>
-      <actor>Nushrat Bharucha</actor>
-      <actor>Mita Vashisht</actor>
-      <actor>Rajesh Jais</actor>
-      <actor>Saurabh Goyal</actor>
-      <actor>Pallavi Ajay</actor>
-      <actor>Yaaneea Bharadwaj</actor>
+      <actor>Kangana Ranaut</actor>
+      <actor>Sohum Shah</actor>
+      <actor>Hiten Kumar</actor>
+      <actor>Kishori Shahane</actor>
+      <actor>Rupinder Nagra</actor>
+      <actor>Aneesha Joshi</actor>
     </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B91FE70C343D2683550505F302800CB183A312D4R.jpg"/>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B42BB5297406DF424FEB5D2C084B9FC8206BE0FFW.jpg"/>
   </programme>
-  <programme start="20240324021800 +0530" stop="20240324040000 +0530" channel="SonyWah.in">
-    <title lang="en">Titli</title>
-    <desc lang="en">Titli wants to break free from his gangster family and start his life afresh as a law abiding citizen. When his furious family gets him married to Neelu, he finds an unexpected confidant in his wife.</desc>
-    <credits>
-      <actor>Shashank Arora</actor>
-      <actor>Shivani Raghuvanshi</actor>
-      <actor>Ranvir Shorey</actor>
-      <actor>Amit Sial</actor>
-      <actor>Lalit Behl</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D8EAABBAFEEE00816EA354F46AE4C5CF12E0EBCD.jpg"/>
+  <programme start="20240325035200 +0530" stop="20240325040000 +0530" channel="SonyWah.in">
+    <title lang="en">Parde Ke Peeche Special</title>
+    <desc lang="en">Kantara: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
   </programme>
-  <programme start="20240324040000 +0530" stop="20240324040700 +0530" channel="SonyWah.in">
+  <programme start="20240325040000 +0530" stop="20240325042200 +0530" channel="SonyWah.in">
+    <title lang="en">Parde Ke Peeche Special</title>
+    <desc lang="en">ABCD 2: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
+  </programme>
+  <programme start="20240325042200 +0530" stop="20240325043800 +0530" channel="SonyWah.in">
+    <title lang="en">Parde Ke Peeche Special</title>
+    <desc lang="en">Kantara: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
+  </programme>
+  <programme start="20240325043800 +0530" stop="20240325050000 +0530" channel="SonyWah.in">
     <title lang="en">Parde Ke Peeche Special</title>
     <desc lang="en">Bewakoofiyaan: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
   </programme>
-  <programme start="20240324040700 +0530" stop="20240324055900 +0530" channel="SonyWah.in">
-    <title lang="en">Noor</title>
-    <desc lang="en">Noor is a journalist who works on feature stories but wishes to do serious reporting. Whilst she struggles with the demands of her career and her love life, she unearths an investigative news story.</desc>
+  <programme start="20240325050000 +0530" stop="20240325052500 +0530" channel="SonyWah.in">
+    <title lang="en">Parde Ke Peeche Special</title>
+    <desc lang="en">Daawat-e-Ishq: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
+  </programme>
+  <programme start="20240325052500 +0530" stop="20240325075100 +0530" channel="SonyWah.in">
+    <title lang="en">Sardar Ka Grandson</title>
+    <desc lang="en">When Amreek discovers that his grandmother, Sardar Kaur, is ill, he immediately comes home from Los Angeles. He then tries to help her reunite with her old home.</desc>
     <credits>
-      <actor>Sonakshi Sinha</actor>
-      <actor>Purab Kohli</actor>
-      <actor>Manish Chaudhary</actor>
-      <actor>Suchitra Pillai</actor>
-      <actor>Kanan Gill</actor>
-      <actor>Shibani Dandekar</actor>
+      <actor>Arjun Kapoor</actor>
+      <actor>Neena Gupta</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>John Abraham</actor>
+      <actor>Aditi Rao Hydari</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B14972867B077AE869600B45C8F28F3BEE23C26B.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A864606999A3BFDDBB080395A65E533EB0C214AAA.jpg"/>
   </programme>
-  <programme start="20240324055900 +0530" stop="20240324082500 +0530" channel="SonyWah.in">
-    <title lang="en">Colour Photo</title>
-    <desc lang="en">Jayakrishna and Deepthi are engineering students whose backgrounds differ greatly from each other. However, circumstances bring them together and make them fall in love.</desc>
+  <programme start="20240325075100 +0530" stop="20240325103700 +0530" channel="SonyWah.in">
+    <title lang="en">Gentleman</title>
+    <desc lang="en">Twins Hari and Om have different childhoods after they are separated at birth. However, their lives intersect when Hari is mistaken for his twin and thrown in jail.</desc>
     <credits>
-      <actor>Suhas</actor>
-      <actor>Chandini Chowdary</actor>
-      <actor>Sunil</actor>
-      <actor>Harsha Chemudu</actor>
-      <actor>Divya Sripada</actor>
-      <actor>Vidya Maharshi</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFD33753BD5844D3CE57A1474478B9D4ACBF2E4BP.jpg"/>
-  </programme>
-  <programme start="20240324082500 +0530" stop="20240324103500 +0530" channel="SonyWah.in">
-    <title lang="en">WWE Super Dhamaal</title>
-    <desc lang="en">Hosts Sharman Joshi and Shazahn Padamsee present weekly highlights of all the action from WWE, exclusive interviews, special features and more.</desc>
-    <credits>
-      <actor>Sharman Joshi</actor>
-      <actor>Shazahn Padamsee</actor>
-    </credits>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1739CB948433A7ADD9577087A0D04EDD8F17B4CDY.jpg"/>
-  </programme>
-  <programme start="20240324103500 +0530" stop="20240324130100 +0530" channel="SonyWah.in">
-    <title lang="en">Airaa</title>
-    <desc lang="en">Yamuna, a journalist, is haunted by a vengeful spirit when she visits her grandmother in a remote village. Meanwhile, Amudhan, mourning the loss of his lover, is also investigating similar hauntings.</desc>
-    <credits>
-      <actor>Nayanthara</actor>
-      <actor>Kalaiyarasan</actor>
-      <actor>Yogi Babu</actor>
-      <actor>Jayaprakash</actor>
-      <actor>Meera Krishnan</actor>
-      <actor>Kulapulli Leela</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E471D36AF4FF051FC349672BD584A226CFB4D76CT.jpg"/>
-  </programme>
-  <programme start="20240324130100 +0530" stop="20240324155300 +0530" channel="SonyWah.in">
-    <title lang="en">Maama Maschindra</title>
-    <desc lang="en">Following a traumatic childhood, Parasuram becomes cruel and selfish. However, when he fathers a daughter, he becomes determined to protect her due to his past.</desc>
-    <credits>
-      <actor>Sudheer Babu</actor>
-      <actor>Eesha Rebba</actor>
-      <actor>Mirnalini Ravi</actor>
-      <actor>Harsha Vardhan</actor>
-      <actor>Ali Reza</actor>
-      <actor>Rajeev Kanakala</actor>
+      <actor>Govinda</actor>
+      <actor>Anuradha Patel</actor>
+      <actor>Shakti Kapoor</actor>
+      <actor>Yashwant Dutt</actor>
+      <actor>Yunus Parvez</actor>
+      <actor>Ashalata Wabgaonkar</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C14D99DC1BE01C29471D142E11A46F4E83E1C3E50.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74C1EC9E836970948755A1079841901AB6B35124N.jpg"/>
   </programme>
-  <programme start="20240324155300 +0530" stop="20240324170100 +0530" channel="SonyWah.in">
+  <programme start="20240325103700 +0530" stop="20240325125900 +0530" channel="SonyWah.in">
+    <title lang="en">iSmart Shankar</title>
+    <desc lang="en">Shankar, an assassin, is on the run after murdering a politician. When a twist of fate gives him the memories of a slain police officer, he must help the authorities find a murderer.</desc>
+    <credits>
+      <actor>Ram Pothineni</actor>
+      <actor>Satyadev Kancharana</actor>
+      <actor>Nabha Natesh</actor>
+      <actor>Nidhhi Agerwal</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Ashish Vidyarthi</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2E744C13BDB2F2CA30D1F3E97FADE52E91CA97CC.jpg"/>
+  </programme>
+  <programme start="20240325125900 +0530" stop="20240325155300 +0530" channel="SonyWah.in">
+    <title lang="en">Meherbaan</title>
+    <desc lang="en">Ravi promises his dying father that he will take care of Churangilal and his family. However, Churangilal hatches a plan to steal Ravi's wealth and leave him bankrupt.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Ayesha Jhulka</actor>
+      <actor>Shantipriya</actor>
+      <actor>Sadashiv Amrapurkar</actor>
+      <actor>Anupam Kher</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2256454AFB4269819A90316F2B088DDC709E57DCR.jpg"/>
+  </programme>
+  <programme start="20240325155300 +0530" stop="20240325170000 +0530" channel="SonyWah.in">
     <title lang="en">CID</title>
-    <desc lang="en">A former make-up artist sneaks in wedding ceremonies in disguise and steals whatever he can take. Meanwhile, Team CID's only clue is a sari-clad woman seen escaping on a motorbike.</desc>
+    <desc lang="en">On the day of the launch of his new product, a mobile company's owner is stunned to see a woman claiming to be his wife. Later, the CID team is called to investigate the matter.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -115,11 +114,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1278.</episode-num>
+    <episode-num system="xmltv_ns">.1286.</episode-num>
   </programme>
-  <programme start="20240324170100 +0530" stop="20240324175300 +0530" channel="SonyWah.in">
+  <programme start="20240325170000 +0530" stop="20240325180700 +0530" channel="SonyWah.in">
     <title lang="en">CID</title>
-    <desc lang="en">A girl is kidnapped on the eve of Ganesh Chaturthi. The CID team investigates the matter and discovers that she was an integral part of a conspiracy.</desc>
+    <desc lang="en">A man purchases an antique wooden box to decorate his showroom but gets shocked to find a dead body inside. Soon, he calls the CID team to investigate the matter.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -130,11 +129,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1279.</episode-num>
+    <episode-num system="xmltv_ns">.1287.</episode-num>
   </programme>
-  <programme start="20240324175300 +0530" stop="20240324190100 +0530" channel="SonyWah.in">
+  <programme start="20240325180700 +0530" stop="20240325190000 +0530" channel="SonyWah.in">
     <title lang="en">CID</title>
-    <desc lang="en">A group of youngsters decide to party at a rented farmhouse. Their plans, however, go for a toss when they discover that the farmhouse is haunted.</desc>
+    <desc lang="en">Kaanchi, a sweet innocent girl, is suspected of murdering two of her family members. Soon, the CID team is called upon to investigate the truth of the matter.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -145,11 +144,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1280.</episode-num>
+    <episode-num system="xmltv_ns">.1288.</episode-num>
   </programme>
-  <programme start="20240324190100 +0530" stop="20240324195300 +0530" channel="SonyWah.in">
+  <programme start="20240325190000 +0530" stop="20240325200000 +0530" channel="SonyWah.in">
     <title lang="en">CID</title>
-    <desc lang="en">Two women who meet someone through a matrimonial website are found murdered in mysterious circumstances. Soon, the CID team is called upon to investigate the matter.</desc>
+    <desc lang="en">While heading towards Goa, Sneha takes a lift from four bikers. However, chaos ensues when two of the bikers are found dead when they take a halt at a food stall.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -160,11 +159,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1281.</episode-num>
+    <episode-num system="xmltv_ns">.1289.</episode-num>
   </programme>
-  <programme start="20240324195300 +0530" stop="20240324205300 +0530" channel="SonyWah.in">
+  <programme start="20240325200000 +0530" stop="20240325210000 +0530" channel="SonyWah.in">
     <title lang="en">CID</title>
-    <desc lang="en">A father looking for his daughter in different hotels gets into trouble when he finds a woman hanging to the ceiling fan in one of the hotel rooms. Soon, the CID team is called to investigate.</desc>
+    <desc lang="en">A woman notices her neighbour's daughter being kidnapped and informs Team CID. Meanwhile, during a movie shoot, an actor jumps into the water as part of a scene but he is later found dead.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -175,11 +174,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1282.</episode-num>
+    <episode-num system="xmltv_ns">.1290.</episode-num>
   </programme>
-  <programme start="20240324205300 +0530" stop="20240324213600 +0530" channel="SonyWah.in">
+  <programme start="20240325210000 +0530" stop="20240325215200 +0530" channel="SonyWah.in">
     <title lang="en">CID</title>
-    <desc lang="en">A popular theatre actor is found murdered after one of his plays completes 100 shows at a theatre. Soon, the CID team is called upon to investigate the matter.</desc>
+    <desc lang="en">Gaurav, a drunkard, is asked to deliver a box to a location in exchange for money. However, his wife finds a gun inside the box and takes it to the CID bureau.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -190,11 +189,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1283.</episode-num>
+    <episode-num system="xmltv_ns">.1291.</episode-num>
   </programme>
-  <programme start="20240324213600 +0530" stop="20240324225200 +0530" channel="SonyWah.in">
+  <programme start="20240325215200 +0530" stop="20240325225200 +0530" channel="SonyWah.in">
     <title lang="en">CID</title>
-    <desc lang="en">Teena and Akash mysteriously disappear in a dense forest. When their parents set out to find them, they are threatened to stop by a woman with a dagger.</desc>
+    <desc lang="en">A camping group goes to a fort where the ghost of a woman is reportedly seen haunting the place. Later, two girls from the camp disappear under mysterious circumstances.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -205,11 +204,11 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1284.</episode-num>
+    <episode-num system="xmltv_ns">.1292.</episode-num>
   </programme>
-  <programme start="20240324225200 +0530" stop="20240324235900 +0530" channel="SonyWah.in">
+  <programme start="20240325225200 +0530" stop="20240325235900 +0530" channel="SonyWah.in">
     <title lang="en">CID</title>
-    <desc lang="en">A few hours before Amisha is going to get married, her friend meets a tragic end, leaving her family shocked. Soon, the CID team is called to investigate the matter.</desc>
+    <desc lang="en">Famous actor Kushal protects a helpless girl from a few goons and drops her home. However, the next day, he is accused of misbehaving with a girl when she commits suicide.</desc>
     <credits>
       <actor>Shivaji Satam</actor>
       <actor>Aditya Shrivastava</actor>
@@ -220,58 +219,59 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1285.</episode-num>
+    <episode-num system="xmltv_ns">.1293.</episode-num>
   </programme>
-  <programme start="20240324235900 +0530" stop="20240325015500 +0530" channel="SonyWah.in">
-    <title lang="en">Brand Babu</title>
-    <desc lang="en">Diamond Babu, the son of a wealthy brand-obsessed man, is just like his father. He wants to marry the daughter of the home minister but unknowingly woos her maid, Radha.</desc>
+  <programme start="20240325235900 +0530" stop="20240326022600 +0530" channel="SonyWah.in">
+    <title lang="en">Pratigyabadh</title>
+    <desc lang="en">Shankar grows up to become the right hand man of a gangster. His goal in life is to take revenge on the moneylender who left his family homeless and a truck driver who molested and killed his mother.</desc>
     <credits>
-      <actor>Sumanth Shailendra</actor>
-      <actor>Eesha Rebba</actor>
-      <actor>Murli Sharma</actor>
-      <actor>Pujita Ponnada</actor>
-      <actor>Nalini</actor>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Kumar Gaurav</actor>
+      <actor>Neelam Kothari</actor>
+      <actor>Sunil Dutt</actor>
+      <actor>Beena Banerjee</actor>
+      <actor>Shafi Inamdar</actor>
     </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B13C54A2E5B9B747523F25E85F9B83EE85A1AF20.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22D834043B20165BA86822263222E881207F3291J.jpg"/>
   </programme>
-  <programme start="20240325030000 +0530" stop="20240325060000 +0530" channel="SonyWah.in">
+  <programme start="20240326030000 +0530" stop="20240326060000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325060000 +0530" stop="20240325090000 +0530" channel="SonyWah.in">
+  <programme start="20240326060000 +0530" stop="20240326090000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325090000 +0530" stop="20240325120000 +0530" channel="SonyWah.in">
+  <programme start="20240326090000 +0530" stop="20240326120000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325120000 +0530" stop="20240325150000 +0530" channel="SonyWah.in">
+  <programme start="20240326120000 +0530" stop="20240326150000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325150000 +0530" stop="20240325180000 +0530" channel="SonyWah.in">
+  <programme start="20240326150000 +0530" stop="20240326180000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325180000 +0530" stop="20240325210000 +0530" channel="SonyWah.in">
+  <programme start="20240326180000 +0530" stop="20240326210000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325210000 +0530" stop="20240326030000 +0530" channel="SonyWah.in">
+  <programme start="20240326210000 +0530" stop="20240327030000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
