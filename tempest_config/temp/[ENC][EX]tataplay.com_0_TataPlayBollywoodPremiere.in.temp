@@ -3,241 +3,6 @@
   <channel id="TataPlayBollywoodPremiere.in">
     <display-name lang="en">Tata Play Bollywood Premiere</display-name>
   </channel>
-  <programme start="20240325000000 +0530" stop="20240325021000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Ghoomer</title>
-    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
-    <credits>
-      <actor>Saiyami Kher</actor>
-      <actor>Abhishek Bachchan</actor>
-      <actor>Shabana Azmi</actor>
-      <actor>Angad Bedi</actor>
-      <actor>Shivendra Singh Dungarpur</actor>
-      <actor>Ivanka Das</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
-  </programme>
-  <programme start="20240325021000 +0530" stop="20240325022000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325022000 +0530" stop="20240325035600 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Moksh To Maya</title>
-    <desc lang="en">Moksh to Maya is a sinful journey of the character 'Maya' who is in love with four men at the same time. The movie depicts her life and her choices, some good and some bad. Is she a criminal or a revenge seeker?</desc>
-    <credits>
-      <actor>Bidita Bag</actor>
-      <actor>Neeraj Bhardwaj</actor>
-      <actor>Meghna Malik</actor>
-      <actor>Muni Jha</actor>
-      <actor>Yuvraaj Parashar</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F866AB9577A9CF4AC9241C92B8EA72D7F94A8DF6C.jpg"/>
-  </programme>
-  <programme start="20240325035600 +0530" stop="20240325040000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325040000 +0530" stop="20240325060500 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">The Slum Stars</title>
-    <desc lang="en">The film is about a gang of innocent abandoned kids named Kahaniya, Gudiya and Chandu who lead troubled lives in slums.</desc>
-    <credits>
-      <actor>Chiragdeep Gill</actor>
-      <actor>Ridhima Malhotra</actor>
-      <actor>Yashwan Chopra</actor>
-      <actor>Gurpreet Singh Tuti</actor>
-      <actor>Abhiraj Thakur</actor>
-      <actor>Balkar Singh Dhillon</actor>
-    </credits>
-    <category lang="en">Family</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52AB222A4B2BD589FAA62AD91D5CCA9561FAC3D1L.jpg"/>
-  </programme>
-  <programme start="20240325060500 +0530" stop="20240325061000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325061000 +0530" stop="20240325082000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Ghoomer</title>
-    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
-    <credits>
-      <actor>Saiyami Kher</actor>
-      <actor>Abhishek Bachchan</actor>
-      <actor>Shabana Azmi</actor>
-      <actor>Angad Bedi</actor>
-      <actor>Shivendra Singh Dungarpur</actor>
-      <actor>Ivanka Das</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
-  </programme>
-  <programme start="20240325082000 +0530" stop="20240325083000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325083000 +0530" stop="20240325102800 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Udanchhoo</title>
-    <desc lang="en">Guru G is running a black money operation through his ashram with help from his trusted devotee Billu and Julia. The film goes on to show how all the characters get involved in a huge con mystery resulting in a funny and dramatic climax</desc>
-    <credits>
-      <actor>Prem Chopra</actor>
-      <actor>Ashutosh Rana</actor>
-      <actor>Rajniesh Duggall</actor>
-      <actor>Bruna Abdullah</actor>
-      <actor>Saisha Sehgal</actor>
-      <actor>Lankesh Bhardwaj</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/518DDFF3582EB261DAD89F7B48050FA0DC80A3ACH.jpg"/>
-  </programme>
-  <programme start="20240325102800 +0530" stop="20240325103200 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325103200 +0530" stop="20240325122600 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Kedarnath</title>
-    <desc lang="en">Kedarnath - 2018 - Mansoor, a reserved and reticent Pithoo, helps pilgrims make an arduous journey upwards to the temple town. His world turns around when he meets the beautiful and rebellious Mukku who draws him into a whirlwind of intense love.</desc>
-    <credits>
-      <actor>Sushant Singh Rajput</actor>
-      <actor>Sara Ali Khan</actor>
-      <actor>Nitish Bharadwaj</actor>
-      <actor>Alka Amin</actor>
-      <actor>Sonali Sachdev</actor>
-      <actor>Pooja Gor</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21F2128A918894EADBD6EF3B159A32DAF34E64ADB.jpg"/>
-  </programme>
-  <programme start="20240325122600 +0530" stop="20240325123000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325123000 +0530" stop="20240325144000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Ghoomer</title>
-    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
-    <credits>
-      <actor>Saiyami Kher</actor>
-      <actor>Abhishek Bachchan</actor>
-      <actor>Shabana Azmi</actor>
-      <actor>Angad Bedi</actor>
-      <actor>Shivendra Singh Dungarpur</actor>
-      <actor>Ivanka Das</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
-  </programme>
-  <programme start="20240325144000 +0530" stop="20240325145000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325145000 +0530" stop="20240325163300 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Kuttey</title>
-    <desc lang="en">Kuttey - 2023 - A van carrying cash on a rainy night in the outskirts of Mumbai is the crosshairs of three separate gangs all with the same plan. Now that they've crossed paths who will survive?</desc>
-    <credits>
-      <actor>Tabu</actor>
-      <actor>Arjun Kapoor</actor>
-      <actor>Naseeruddin Shah</actor>
-      <actor>Konkona Sen Sharma</actor>
-      <actor>Radhika Madan</actor>
-      <actor>Kumud Mishra</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/366A4AF72F82F406BF6A43B7E405D6F7670DE4D7A.jpg"/>
-  </programme>
-  <programme start="20240325163300 +0530" stop="20240325164000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325164000 +0530" stop="20240325185000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Ghoomer</title>
-    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
-    <credits>
-      <actor>Saiyami Kher</actor>
-      <actor>Abhishek Bachchan</actor>
-      <actor>Shabana Azmi</actor>
-      <actor>Angad Bedi</actor>
-      <actor>Shivendra Singh Dungarpur</actor>
-      <actor>Ivanka Das</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
-  </programme>
-  <programme start="20240325185000 +0530" stop="20240325190000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325190000 +0530" stop="20240325210400 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Double XL</title>
-    <desc lang="en">Double XL - 2022 - The journey of two plus-size women Rajshree Trivedi from Meerut and Saira Khanna from New Delhi as they navigate society's beauty standards.</desc>
-    <credits>
-      <actor>Sonakshi Sinha</actor>
-      <actor>Huma Qureshi</actor>
-      <actor>Mahat Raghavendra</actor>
-      <actor>Zaheer Iqbal</actor>
-      <actor>Shobha Khote</actor>
-      <actor>Kanwaljeet Singh</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/58A3A9C6BE38084830FA24F5B9AF10F3118035296.jpg"/>
-  </programme>
-  <programme start="20240325210400 +0530" stop="20240325211000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325211000 +0530" stop="20240325232000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Ghoomer</title>
-    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
-    <credits>
-      <actor>Saiyami Kher</actor>
-      <actor>Abhishek Bachchan</actor>
-      <actor>Shabana Azmi</actor>
-      <actor>Angad Bedi</actor>
-      <actor>Shivendra Singh Dungarpur</actor>
-      <actor>Ivanka Das</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
-  </programme>
-  <programme start="20240325232000 +0530" stop="20240325232500 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240325232500 +0530" stop="20240325235900 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">The Bombay Journey With Rashmika Mandanna</title>
-    <desc lang="en">The "Bombay Journey" is a talk show centering around Mumbai and its Bollywood superstars and their journey in the city of dreams.</desc>
-    <credits>
-      <actor>Siddharth Aalambayan</actor>
-      <actor>Rashmika Mandanna</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59AE683F8765662D4C10F1E2F0683CE8337C1571X.jpg"/>
-  </programme>
-  <programme start="20240325235900 +0530" stop="20240326000000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
   <programme start="20240326000000 +0530" stop="20240326021000 +0530" channel="TataPlayBollywoodPremiere.in">
     <title lang="en">Ghoomer</title>
     <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
@@ -462,5 +227,239 @@
     <desc lang="en">Movies_And_More</desc>
     <category lang="en">Chat Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/820BA82E325E0949A7C49545158BC6144D079270V.jpg"/>
+  </programme>
+  <programme start="20240327000000 +0530" stop="20240327021000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Ghoomer</title>
+    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
+    <credits>
+      <actor>Saiyami Kher</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Shabana Azmi</actor>
+      <actor>Angad Bedi</actor>
+      <actor>Shivendra Singh Dungarpur</actor>
+      <actor>Ivanka Das</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
+  </programme>
+  <programme start="20240327021000 +0530" stop="20240327021700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327021700 +0530" stop="20240327035600 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Aye Zindagi</title>
+    <desc lang="en">Aye Zindagi - 2022 - A 28-year-old liver cirrhosis patient bonds with a hospital grief counselor who rekindles his hope and faith in life, making him believe in the power of humanity.</desc>
+    <credits>
+      <actor>Revathy</actor>
+      <actor>Satyajeet Dubey</actor>
+      <actor>Mrinmayee Godbole</actor>
+      <actor>Sawan Tank</actor>
+      <actor>Hemant Kher</actor>
+      <actor>Shrikant Verma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97B88C776A7FADC45FC12F39F1D78D1790115BB70.jpg"/>
+  </programme>
+  <programme start="20240327035600 +0530" stop="20240327035800 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327035800 +0530" stop="20240327053600 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Ashley</title>
+    <desc lang="en">When Ronit abandons his girlfriend Ashley, a drug dealer, and moves to Mumbai to chase his dreams, the latter frames him for a murder in order to seek revenge.</desc>
+    <credits>
+      <actor>Gurleen Chopra</actor>
+      <actor>Rishi Bhutani</actor>
+      <actor>Shakti Kapoor</actor>
+      <actor>Dinesh Hingoo</actor>
+      <actor>Mohit Bhagel</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2543EC0B2259D254F7AD1124A9C0E068AF182DB9O.jpg"/>
+  </programme>
+  <programme start="20240327053600 +0530" stop="20240327053800 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327053800 +0530" stop="20240327074800 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Ghoomer</title>
+    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
+    <credits>
+      <actor>Saiyami Kher</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Shabana Azmi</actor>
+      <actor>Angad Bedi</actor>
+      <actor>Shivendra Singh Dungarpur</actor>
+      <actor>Ivanka Das</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
+  </programme>
+  <programme start="20240327074800 +0530" stop="20240327075500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327075500 +0530" stop="20240327100000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">The Slum Stars</title>
+    <desc lang="en">The film is about a gang of innocent abandoned kids named Kahaniya, Gudiya and Chandu who lead troubled lives in slums.</desc>
+    <credits>
+      <actor>Chiragdeep Gill</actor>
+      <actor>Ridhima Malhotra</actor>
+      <actor>Yashwan Chopra</actor>
+      <actor>Gurpreet Singh Tuti</actor>
+      <actor>Abhiraj Thakur</actor>
+      <actor>Balkar Singh Dhillon</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52AB222A4B2BD589FAA62AD91D5CCA9561FAC3D1L.jpg"/>
+  </programme>
+  <programme start="20240327100000 +0530" stop="20240327100500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327100500 +0530" stop="20240327122500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Anek</title>
+    <desc lang="en">Anek -2022 - A socio political, action thriller set against the geopolitical backdrop of Northeast India.</desc>
+    <credits>
+      <actor>Ayushmann Khurrana</actor>
+      <actor>J D Chakravarthy</actor>
+      <actor>Andrea Kevichusa</actor>
+      <actor>Deeplina Deka</actor>
+      <actor>Manoj Pahwa</actor>
+      <actor>Kumud Mishra</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DFA88A76DD7F6782B09D27F7763CFB234C6367FX.jpg"/>
+  </programme>
+  <programme start="20240327122500 +0530" stop="20240327123000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327123000 +0530" stop="20240327144000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Ghoomer</title>
+    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
+    <credits>
+      <actor>Saiyami Kher</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Shabana Azmi</actor>
+      <actor>Angad Bedi</actor>
+      <actor>Shivendra Singh Dungarpur</actor>
+      <actor>Ivanka Das</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
+  </programme>
+  <programme start="20240327144000 +0530" stop="20240327145000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327145000 +0530" stop="20240327164500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Veere Di Wedding</title>
+    <desc lang="en">Kalindi's friends Avni, Sakshi and Meera come to meet her after they learn about her wedding with her boyfriend, Rishabh. Sakshi takes her girls to Thailand and they rediscover themselves.</desc>
+    <credits>
+      <actor>Kareena Kapoor</actor>
+      <actor>Sonam Kapoor</actor>
+      <actor>Swara Bhaskar</actor>
+      <actor>Shikha Talsania</actor>
+      <actor>Sumeet Vyas</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42D8388219042D2B10267AE30D04B532A9DB47492.jpg"/>
+  </programme>
+  <programme start="20240327164500 +0530" stop="20240327165000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327165000 +0530" stop="20240327190000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Ghoomer</title>
+    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
+    <credits>
+      <actor>Saiyami Kher</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Shabana Azmi</actor>
+      <actor>Angad Bedi</actor>
+      <actor>Shivendra Singh Dungarpur</actor>
+      <actor>Ivanka Das</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
+  </programme>
+  <programme start="20240327190000 +0530" stop="20240327191000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327191000 +0530" stop="20240327211200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Mili</title>
+    <desc lang="en">Mili - 2022 - Janhvi Kapoor as a woman stuck in a freezer fighting to stay alive. 'Mili' is the official Hindi remake of the Malayalam thriller 'Helen'.</desc>
+    <credits>
+      <actor>Janhvi Kapoor</actor>
+      <actor>Sunny Kaushal</actor>
+      <actor>Manoj Pahwa</actor>
+      <actor>Seema Pahwa</actor>
+      <actor>Hasleen Kaur</actor>
+      <actor>Rajesh Jais</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E491CBD2DE99ED5577DB9FFE9E01A2FCEA5D656J.jpg"/>
+  </programme>
+  <programme start="20240327211200 +0530" stop="20240327211500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327211500 +0530" stop="20240327232500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Ghoomer</title>
+    <desc lang="en">Ghoomer - 2023 - Anina, a young batting prodigy, loses her right hand in an accident. An unsympathetic, failed cricketer gives her new hope, trains her with unconventional techniques, to turn her fate around. Ghoomer is a new style of bowling they invent.</desc>
+    <credits>
+      <actor>Saiyami Kher</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Shabana Azmi</actor>
+      <actor>Angad Bedi</actor>
+      <actor>Shivendra Singh Dungarpur</actor>
+      <actor>Ivanka Das</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F18FD9FB1567393AE895C896F4B2133621D3314X.jpg"/>
+  </programme>
+  <programme start="20240327232500 +0530" stop="20240327233000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240327233000 +0530" stop="20240327235700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">The Bombay Journey With R Madhavan</title>
+    <desc lang="en">The "Bombay Journey" is a talk show centering around Mumbai and its Bollywood superstars and their journey in the city of dreams.</desc>
+    <credits>
+      <actor>Siddharth Aalambayan</actor>
+      <actor>R Madhavan</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E035F00C62C1CF8790296918B7C20608169E884DW.jpg"/>
+  </programme>
+  <programme start="20240327235700 +0530" stop="20240328000000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
   </programme>
 </tv>

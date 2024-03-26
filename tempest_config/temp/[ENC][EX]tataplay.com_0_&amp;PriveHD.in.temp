@@ -3,7 +3,21 @@
   <channel id="&amp;PriveHD.in">
     <display-name lang="en">&amp;Prive HD</display-name>
   </channel>
-  <programme start="20240325012000 +0530" stop="20240325034800 +0530" channel="&amp;PriveHD.in">
+  <programme start="20240326003700 +0530" stop="20240326024400 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">The Night Before</title>
+    <desc lang="en">Ethan, Isaac and Chris are best friends who have celebrated every Christmas Eve together. Things take a turn when Isaac and Chris decide to end their decade-long tradition.</desc>
+    <credits>
+      <actor>Seth Rogen</actor>
+      <actor>Joseph Gordon Levitt</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Lizzy Caplan</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>Jillian Bell</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81ED53659F3B7399E3A42F863FE633A1307D1B3FI.jpg"/>
+  </programme>
+  <programme start="20240326024400 +0530" stop="20240326045600 +0530" channel="&amp;PriveHD.in">
     <title lang="en">Eat Pray Love</title>
     <desc lang="en">Elizabeth Gilbert's perfect world comes shattering down when she gets divorced. She then embarks on a journey across the world in an attempt to rediscover her true self.</desc>
     <credits>
@@ -17,208 +31,236 @@
     <category lang="en">Biography</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7B731E5BA7408F36B1A53F1707DAA085A6237C8E.jpg"/>
   </programme>
-  <programme start="20240325034800 +0530" stop="20240325054800 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">All The Pretty Horses</title>
-    <desc lang="en">While travelling to Mexico to find work, John Grady Cole, a Texan cowboy, finds himself in trouble as he encounters love, corruption and passion.</desc>
-    <credits>
-      <actor>Matt Damon</actor>
-      <actor>Henry Thomas</actor>
-      <actor>Angelina C Torres</actor>
-      <actor>J D Young</actor>
-      <actor>Sam Shepard</actor>
-      <actor>Robert Patrick</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/910B68784B5A857AFAB9AB43BD0FAA663C9BF6CFF.jpg"/>
-  </programme>
-  <programme start="20240325054800 +0530" stop="20240325072100 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Flower Shop Mystery: Dearly Depotted</title>
-    <desc lang="en">Abby Knight, a flower shop owner, who happens to be an ex-attorney, investigates the murder of an unwanted wedding crasher.</desc>
+  <programme start="20240326045600 +0530" stop="20240326065300 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Flower Shop Mystery: Snipped In The Bud</title>
+    <desc lang="en">Abby happens to meet her old rival while delivering a bouquet of roses ordered by an anonymous person. However, things get worse when the man is later found dead and all evidence points to Abby.</desc>
     <credits>
       <actor>Brooke Shields</actor>
       <actor>Brennan Elliott</actor>
       <actor>Beau Bridges</actor>
-      <actor>Kate Drummond</actor>
+      <actor>Melissa Bolona</actor>
       <actor>Celeste Desjardins</actor>
-      <actor>Dru Viergever</actor>
+      <actor>Justin Dashnay</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9706C9A53051E305F7A3D827A8DE3D7385935C5U.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/345AED4BE0E9A19815C789E39AA9CD7FF374E5240.jpg"/>
   </programme>
-  <programme start="20240325072100 +0530" stop="20240325092200 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Hotel Mumbai</title>
-    <desc lang="en">A hotel staff risks everything to keep its patrons safe during a terror attack, especially a British heiress, her husband and her infant.</desc>
+  <programme start="20240326065300 +0530" stop="20240326083600 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Vanguard</title>
+    <desc lang="en">Qin, an accountant living in the UK, is targeted by the leader of a terrorist organisation. His only hope for survival is Vanguard, an elite security company.</desc>
     <credits>
-      <actor>Dev Patel</actor>
-      <actor>Armie Hammer</actor>
-      <actor>Nazanin Boniadi</actor>
-      <actor>Tilda Cobham Hervey</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Amandeep Singh</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C47F22AB1E69CA0036FFC10ADB86ECF8396A9F92.jpg"/>
-  </programme>
-  <programme start="20240325092200 +0530" stop="20240325110200 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">It Could Happen To You</title>
-    <desc lang="en">Charlie promises to offer his lottery prize to Yvonne, a waitress, in exchange of a tip. Fortunately, he wins the money and decides to fulfil his promise, which disgusts his wife Muriel.</desc>
-    <credits>
-      <actor>Nicolas Cage</actor>
-      <actor>Bridget Fonda</actor>
-      <actor>Rosie Perez</actor>
-      <actor>Wendell Pierce</actor>
-      <actor>Isaac Hayes</actor>
-      <actor>Seymour Cassel</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B51451F0A548C800E82674CFFDFFB500FCCC4030S.jpg"/>
-  </programme>
-  <programme start="20240325110200 +0530" stop="20240325123200 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Foxter &amp; Max</title>
-    <desc lang="en">An artist pre-teen finds a can of spray paint and uses it to create a dog out of graffiti. To his great surprise, his work of art comes to life in the form of an intelligent creature made of nanobots.</desc>
-    <credits>
-      <actor>Bohdan Kozii</actor>
-      <actor>Vitaliia Turchyn</actor>
-      <actor>Daria Polunina</actor>
-      <actor>Tomasz Oswiecinski</actor>
-      <actor>Maksym Samchyk</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6929F549CAF1A1346870FC6C032A26A90E272A1F7.jpg"/>
-  </programme>
-  <programme start="20240325123200 +0530" stop="20240325144500 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Pinocchio</title>
-    <desc lang="en">Geppetto, a poor carpenter, carves a wooden puppet named Pinocchio who comes to life. But when Pinocchio decides to skip school, he gets kidnapped, leading to a series of misadventures.</desc>
-    <credits>
-      <actor>Federico Ielapi</actor>
-      <actor>Roberto Benigni</actor>
-      <actor>Rocco Papaleo</actor>
-      <actor>Massimo Ceccherini</actor>
-      <actor>Marine Vacth</actor>
-      <actor>Gigi Proietti</actor>
-    </credits>
-    <category lang="en">Fantasy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F57DC5B21D68EC072205293A22E64CA3BBAEB362P.jpg"/>
-  </programme>
-  <programme start="20240325144500 +0530" stop="20240325161300 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Bingo</title>
-    <desc lang="en">Little Chuckie and Bingo form an instant bond after the dog saves the boy's life. However, when Chuckie's family moves across the country, Bingo sets off to reunite with his friend.</desc>
-    <credits>
-      <actor>Cindy Williams</actor>
-      <actor>David Rasche</actor>
-      <actor>Robert J Steinmiller Jr</actor>
-      <actor>David French</actor>
-      <actor>Kurt Fuller</actor>
-      <actor>Joe Guzaldo</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F541627D0F162A0A563CFDAEEEC39052DCD5DF3CH.jpg"/>
-  </programme>
-  <programme start="20240325161300 +0530" stop="20240325174200 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Hotel Transylvania</title>
-    <desc lang="en">Count Dracula runs a high-end resort for monsters and is overprotective of his daughter, Mavis. When a human named Johnny enters the hotel, Dracula tries to prevent Mavis from falling for him.</desc>
-    <credits>
-      <actor>Adam Sandler</actor>
-      <actor>Selena Gomez</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Kevin James</actor>
-      <actor>Steve Buscemi</actor>
-      <actor>CeeLo Green</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EDE0BBE0DC39DB2C709A8AE5847F5E221AA04CB1.jpg"/>
-  </programme>
-  <programme start="20240325174200 +0530" stop="20240325193000 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Lyle, Lyle, Crocodile</title>
-    <desc lang="en">Struggling to adapt to life in New York, a young boy befriends a singing crocodile who lives in his attic. However, their friendship is endangered by their evil neighbour.</desc>
-    <credits>
-      <actor>Javier Bardem</actor>
-      <actor>Constance Wu</actor>
-      <actor>Winslow Fegley</actor>
-      <actor>Scoot McNairy</actor>
-      <actor>Brett Gelman</actor>
-      <actor>Ego Nwodim</actor>
-    </credits>
-    <category lang="en">Musical</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5AFCA3E710BFB9534F4EF4E46ECC39BC424E6B6FR.jpg"/>
-  </programme>
-  <programme start="20240325193000 +0530" stop="20240325210000 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Fun With Dick And Jane</title>
-    <desc lang="en">When Dick's employer goes bankrupt, he and his wife, Jane, go broke and look for ways to make ends meet. Eventually, they resort to crime and decide to rob a crooked CEO to get their money back.</desc>
-    <credits>
-      <actor>Jim Carrey</actor>
-      <actor>Tea Leoni</actor>
-      <actor>Alec Baldwin</actor>
-      <actor>Richard Jenkins</actor>
-      <actor>Angie Harmon</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9F653D3193AFE178BCECECFF3794C7ECF0ABD9DM.jpg"/>
-  </programme>
-  <programme start="20240325210000 +0530" stop="20240325224600 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">My Girl</title>
-    <desc lang="en">Vada, a hypochondriac, becomes distraught when her father, a widower, begins dating Shelly, a makeup artist, and attempts to disrupt their relationship.</desc>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Jamie Lee Curtis</actor>
-      <actor>Macaulay Culkin</actor>
-      <actor>Anna Chlumsky</actor>
-      <actor>Richard Masur</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C373237F7D674B1017A059B7EA44F774C96386FCG.jpg"/>
-  </programme>
-  <programme start="20240325224600 +0530" stop="20240326003700 +0530" channel="&amp;PriveHD.in">
-    <title lang="en">Bad Country</title>
-    <desc lang="en">A detective who is determined on taking down a powerful illegal organisation, infiltrates it and brings down its top lieutenant and contract killer and makes them his informants.</desc>
-    <credits>
-      <actor>Matt Dillon</actor>
-      <actor>Willem Dafoe</actor>
-      <actor>Neal McDonough</actor>
-      <actor>Amy Smart</actor>
-      <actor>Tom Berenger</actor>
-      <actor>Bill Duke</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Yang Yang</actor>
+      <actor>Ai Lun</actor>
+      <actor>Miya Muqi</actor>
+      <actor>Zhu Zhengting</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB6CE2072EE8BC3FA9E597EA401BE8F2A0586844W.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C5039E4E7A3905686F806B6B116E082C462656CY.jpg"/>
   </programme>
-  <programme start="20240326030000 +0530" stop="20240326060000 +0530" channel="&amp;PriveHD.in">
+  <programme start="20240326083600 +0530" stop="20240326103600 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">The 6th Day</title>
+    <desc lang="en">In the distant future, human cloning technology falls into the destructive, corrupt hands of a multinational corporation. But one man refuses to be a pawn in this deadly conspiracy.</desc>
+    <credits>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Michael Rapaport</actor>
+      <actor>Michael Rooker</actor>
+      <actor>Sarah Wynter</actor>
+      <actor>Wendy Crewson</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/607B26298EAECC519B466D0F443CDC06A31F0CFDJ.jpg"/>
+  </programme>
+  <programme start="20240326103600 +0530" stop="20240326121400 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">The Wedding Ringer</title>
+    <desc lang="en">Doug Harris is getting married in two weeks and has no groomsmen because of his social awkwardness. He calls the owner of Best Man Inc for help and forms an unlikely bond with him.</desc>
+    <credits>
+      <actor>Kevin Hart</actor>
+      <actor>Josh Gad</actor>
+      <actor>Kaley Cuoco Sweeting</actor>
+      <actor>Alan Ritchson</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Mimi Rogers</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98FACC630A39AA9E093878AF622BD9B181780D72P.jpg"/>
+  </programme>
+  <programme start="20240326121400 +0530" stop="20240326141000 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">The Exorcism Of Emily Rose</title>
+    <desc lang="en">Reverend Moore performs an exorcism on a girl believed to be possessed by demons. The prosecutor argues that the girl suffered from schizophrenia, but Moore's defence lawyer has a different opinion.</desc>
+    <credits>
+      <actor>Laura Linney</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Campbell Scott</actor>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Colm Feore</actor>
+      <actor>Joshua Close</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3F30B69B525EE7D0DBBC09804FA6C50B8D662038D.jpg"/>
+  </programme>
+  <programme start="20240326141000 +0530" stop="20240326154900 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Zathura: A Space Adventure</title>
+    <desc lang="en">Two young brothers find themselves transported into the depths of space while playing a board game. They try their best to find their way back to Earth.</desc>
+    <credits>
+      <actor>Josh Hutcherson</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Jonah Bobo</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Tim Robbins</actor>
+      <actor>John Alexander</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/836220CB22A87C29737C19F10E1030750D07222DD.jpg"/>
+  </programme>
+  <programme start="20240326154900 +0530" stop="20240326175200 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Veteran</title>
+    <desc lang="en">A ruthless detective attempts to kill the heir to a powerful conglomerate family despite his lack of wealth and power.</desc>
+    <credits>
+      <actor>Hwang Jung min</actor>
+      <actor>Ah In Yoo</actor>
+      <actor>Dal Su Oh</actor>
+      <actor>Kim Shi-hoo</actor>
+      <actor>Hae jin Yoo</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A5A59DC3E11C2894CE54621CF0645DA92977248J.jpg"/>
+  </programme>
+  <programme start="20240326175200 +0530" stop="20240326191600 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Stuart Little 3: Call Of The Wild</title>
+    <desc lang="en">Stuart and his family set out to spend their vacation in a lakeside cabin. When Snowbell is taken captive by a beast in the forest, Stuart sets out to rescue him.</desc>
+    <credits>
+      <actor>Michael J Fox</actor>
+      <actor>Geena Davis</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Wayne Brady</actor>
+      <actor>Kevin Schon</actor>
+      <actor>Virginia Madsen</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/360EDF370EF39B410C920BFBFEA60E7E83014D6C3.jpg"/>
+  </programme>
+  <programme start="20240326191600 +0530" stop="20240326205900 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Matilda</title>
+    <desc lang="en">Matilda shares a home with her parents and brother, who do not appreciate her. When her principal tortures her and a kind-hearted teacher, she uses her telekinetic powers to settle scores.</desc>
+    <credits>
+      <actor>Mara Wilson</actor>
+      <actor>Danny DeVito</actor>
+      <actor>Rhea Perlman</actor>
+      <actor>Embeth Davidtz</actor>
+      <actor>Pam Ferris</actor>
+      <actor>Paul Reubens</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB58A50AD43F7C6A30F309214A9EEB77522BA4080.jpg"/>
+  </programme>
+  <programme start="20240326205900 +0530" stop="20240326225100 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Hanna</title>
+    <desc lang="en">Hanna, a 16-year-old who is raised by her father to be the perfect assassin, goes on a mission which takes her across Europe. However, she must avoid being captured by Marissa, a ruthless CIA agent.</desc>
+    <credits>
+      <actor>Saoirse Ronan</actor>
+      <actor>Eric Bana</actor>
+      <actor>Vicky Krieps</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>John Macmillan</actor>
+      <actor>Tim Beckmann</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81814E8E9902D4043162C1B73F3E34236F30F3F0M.jpg"/>
+  </programme>
+  <programme start="20240326225100 +0530" stop="20240327002200 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Hailey Dean Mystery: Dating Is Murder</title>
+    <desc lang="en">Hailey, a therapist and former prosecutor, investigates a series of unsolved missing persons cases linked to a dating app. Soon, she creates a fake profile on the app to track down the perpetrator.</desc>
+    <credits>
+      <actor>Kellie Martin</actor>
+      <actor>Jennifer Cheon</actor>
+      <actor>Giacomo Baessato</actor>
+      <actor>Viv Leacock</actor>
+      <actor>Emily Holmes</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5F06F89B75A257097E264F297B967B4FFFEA203T.jpg"/>
+  </programme>
+  <programme start="20240327003100 +0530" stop="20240327021300 +0530" channel="&amp;PriveHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240326060000 +0530" stop="20240326090000 +0530" channel="&amp;PriveHD.in">
+  <programme start="20240327021300 +0530" stop="20240327035200 +0530" channel="&amp;PriveHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240326090000 +0530" stop="20240326120000 +0530" channel="&amp;PriveHD.in">
+  <programme start="20240327035200 +0530" stop="20240327055000 +0530" channel="&amp;PriveHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240326120000 +0530" stop="20240326150000 +0530" channel="&amp;PriveHD.in">
+  <programme start="20240327055000 +0530" stop="20240327072200 +0530" channel="&amp;PriveHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240326150000 +0530" stop="20240326180000 +0530" channel="&amp;PriveHD.in">
+  <programme start="20240327072200 +0530" stop="20240327085000 +0530" channel="&amp;PriveHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240326180000 +0530" stop="20240326210000 +0530" channel="&amp;PriveHD.in">
+  <programme start="20240327085000 +0530" stop="20240327101700 +0530" channel="&amp;PriveHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240326210000 +0530" stop="20240327030000 +0530" channel="&amp;PriveHD.in">
+  <programme start="20240327101700 +0530" stop="20240327113400 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240327113400 +0530" stop="20240327134200 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240327134200 +0530" stop="20240327151400 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240327151400 +0530" stop="20240327164100 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240327164100 +0530" stop="20240327183700 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240327183700 +0530" stop="20240327210000 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240327210000 +0530" stop="20240327230200 +0530" channel="&amp;PriveHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240327230200 +0530" stop="20240328030000 +0530" channel="&amp;PriveHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
