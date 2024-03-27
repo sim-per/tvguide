@@ -4,279 +4,6 @@
     <display-name lang="en">SkySp Mix</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4090.png"/>
   </channel>
-  <programme start="20240326033000 +0530" stop="20240326043000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PGA Tour Golf Highlights</title>
-    <desc lang="en">Tournament highlights from the 2024 Valspar Championship, held at Innisbrook Resort in Palm Harbor, Florida. A year ago, Taylor Moore secured his first PGA Tour win here.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b2abd1a6-55a4-4482-a328-2564b9bc8285/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326043000 +0530" stop="20240326053000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Men's T20 WC 2022: ENG v AFG</title>
-    <desc lang="en">England's 2022 ICC Men's T20 World Cup campaigns begins in Perth as they face Afghanistan. England won by 15 runs in their meeting in the 2016 tournament. (22.10)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/89a21fea-f889-4303-b8e0-8b39e6c701fb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326053000 +0530" stop="20240326063000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Men's T20 WC 2022: ENG v IRE</title>
-    <desc lang="en">England face Ireland in the Super 12 stage of the 2022 ICC Men's T20 World Cup. Sam Curran's history-making performance was the catalyst for England's recent win over Afghanistan. (26.10)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/74252e75-dbf6-4a92-9eab-653272d79221/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326063000 +0530" stop="20240326083000 +0530" channel="SkySpMix.uk">
-    <title lang="en">How The 2010 ICC T20 WC Was Won</title>
-    <desc lang="en">As it happened, this was the story of the 2010 ICC World Twenty20 held in the West Indies - a tournament ultimately won by England.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1bf83a18-8342-46ff-ba85-5c33025cd072/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326083000 +0530" stop="20240326093000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Valspar Championship 2017</title>
-    <desc lang="en">The 2017 Valspar Championship from Innisbrook Resort in Palm Harbor, Florida. South Africa's Charl Schwartzel comes into the event as the tournament's defending champion.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0cdf468d-9d3b-4212-b377-fcc668e6de9d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326093000 +0530" stop="20240326103000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Men's T20 WC 2022: ENG v AFG</title>
-    <desc lang="en">England's 2022 ICC Men's T20 World Cup campaigns begins in Perth as they face Afghanistan. England won by 15 runs in their meeting in the 2016 tournament. (22.10)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/89a21fea-f889-4303-b8e0-8b39e6c701fb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326103000 +0530" stop="20240326113000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Men's T20 WC 2022: ENG v IRE</title>
-    <desc lang="en">England face Ireland in the Super 12 stage of the 2022 ICC Men's T20 World Cup. Sam Curran's history-making performance was the catalyst for England's recent win over Afghanistan. (26.10)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/74252e75-dbf6-4a92-9eab-653272d79221/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326113000 +0530" stop="20240326133000 +0530" channel="SkySpMix.uk">
-    <title lang="en">How The 2012 ICC T20 WC Was Won</title>
-    <desc lang="en">As it happened, this was the story of the 2012 ICC World Twenty20 held in Sri Lanka - a tournament ultimately won by the West Indies.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fdeb8f59-013a-4e5d-9ac8-7ac0597ce5b1/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326133000 +0530" stop="20240326143000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Men's T20 WC 2022: ENG v NZ</title>
-    <desc lang="en">England and New Zealand meet in Brisbane in one of the biggest games from the group stage of the 2022 ICC Men's T20 World Cup. The winner will be well on course for the semi-finals. (01.11)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/12bd6f38-ad5a-4280-9706-2202830b0758/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326143000 +0530" stop="20240326153000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Men's T20 WC 2022: ENG v SL</title>
-    <desc lang="en">The stage is set at the SCG for England to catapult themselves into the ICC Men's T20 World Cup semi-final. In their way stand Sri Lanka as Jos Buttler's men target a famous win. (05.11)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/563b2dc5-9612-40d7-af84-e4fe56b90b21/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326153000 +0530" stop="20240326163000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PGA Tour Golf Highlights</title>
-    <desc lang="en">Tournament highlights from the 2024 Valspar Championship, held at Innisbrook Resort in Palm Harbor, Florida. A year ago, Taylor Moore secured his first PGA Tour win here.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b2abd1a6-55a4-4482-a328-2564b9bc8285/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326163000 +0530" stop="20240326193000 +0530" channel="SkySpMix.uk">
-    <title lang="en">LPGA Tour Golf</title>
-    <desc lang="en">The FIR HILLS SERI PAK Championship concludes at Palos Verdes Golf Club with the fourth and final round. Jiyai Shin took an unlikely share of the lead at close of play yesterday. (24.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fb29671b-d984-330f-858c-1cdae05481cd/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326193000 +0530" stop="20240326233000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Premier League Darts:</title>
-    <desc lang="en">The BetMGM Premier League continues during 2024 with night eight in Dublin. Luke Humphries went back to back last week, adding to his Brighton win with another in Nottingham. (21.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-    <icon src="https://images.metadata.sky.com/pd-image/099d7afa-39cc-30bb-a830-99c97b33a2ed/16-9"/>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326233000 +0530" stop="20240327003000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PGA Tour Golf Highlights</title>
-    <desc lang="en">Tournament highlights from the 2024 Valspar Championship, held at Innisbrook Resort in Palm Harbor, Florida. A year ago, Taylor Moore secured his first PGA Tour win here.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b2abd1a6-55a4-4482-a328-2564b9bc8285/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240327003000 +0530" stop="20240327023000 +0530" channel="SkySpMix.uk">
-    <title lang="en">How The 2016 Ryder Cup Was Won</title>
-    <desc lang="en">As the dust settles on The 2016 Ryder Cup from Hazeltine National Golf Club in Minnesota, take a look back at a remarkable few days, and see how the prestigious trophy was won.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5ddbd753-3206-3bcf-b681-dc00d59d9251/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240327023000 +0530" stop="20240327033000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Indycar Highlights</title>
-    <desc lang="en">A brand-new event makes its debut on the NTT IndyCar Series calendar as the $1 Million Challenge gets underway from the Thermal Club just outside Palm Springs in California. (24.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1426e7ae-e02b-30fe-9fec-43a126811eed/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240327033000 +0530" stop="20240327043000 +0530" channel="SkySpMix.uk">
     <title lang="en">Australian F1 GP Highlights</title>
     <desc lang="en">The lights go out for the 2024 Australian Grand Prix. It will be Max Verstappen who starts from P1 on the grid with the returning Carlos Sainz set to apply pressure from second. (24.03)</desc>
@@ -301,7 +28,7 @@
     <desc lang="en">A brand-new event makes its debut on the NTT IndyCar Series calendar as the $1 Million Challenge gets underway from the Thermal Club just outside Palm Springs in California. (24.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1426e7ae-e02b-30fe-9fec-43a126811eed/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c7d86124-05d6-3dc9-906a-1a95f2d3d159/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
@@ -498,7 +225,7 @@
     <desc lang="en">A brand-new event makes its debut on the NTT IndyCar Series calendar as the $1 Million Challenge gets underway from the Thermal Club just outside Palm Springs in California. (24.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1426e7ae-e02b-30fe-9fec-43a126811eed/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c7d86124-05d6-3dc9-906a-1a95f2d3d159/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
@@ -603,7 +330,7 @@
     </rating>
   </programme>
   <programme start="20240328021500 +0530" stop="20240328023000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
+    <title lang="en">Best of NFL</title>
     <desc lang="en">Bitesize highlights from the final wild-card matchup during the 2023 NFL playoffs, as the Tampa Bay Buccaneers host the Philadelphia Eagles. (15.01)</desc>
     <category lang="en">Sports</category>
     <category lang="en">American Football</category>
@@ -632,8 +359,11 @@
       <quality>HDTV</quality>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240328033000 +0530" stop="20240328043000 +0530" channel="SkySpMix.uk">
     <title lang="en">PGA Tour Champions Highlights</title>
@@ -666,5 +396,546 @@
     <rating system="BBFC">
       <value>U</value>
     </rating>
+  </programme>
+  <programme start="20240328053000 +0530" stop="20240328060000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Wardley v Clarke: Behind The Ropes</title>
+    <desc lang="en">Go inside the training camps of Fabio Wardley and Frazer Clarke, as the two prepare to battle for the the British and Commonwealth titles on Sunday 31 March.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c6f431ba-ebbc-321b-8964-09a11711c820/16-9"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328060000 +0530" stop="20240328063000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Wardley v Clarke: Gloves Are Off</title>
+    <desc lang="en">British and Commonwealth champion Fabio Wardley comes face to face with his bitter rival, Olympic hero Frazer Clarke ahead of their heavyweight clash on March 31.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c93af9a-ee4e-311f-a87d-7db4caf75102/16-9"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328063000 +0530" stop="20240328073000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night Int: Stevenson v...</title>
+    <desc lang="en">Arguably boxing's next great superstar, Shakur Stevenson returns to his hometown of Newark to tackle Olympic gold medallist Robson Conceicao. (23.09)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4e9a4f60-f9ac-4db5-845d-eb2fb1831583/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328073000 +0530" stop="20240328093500 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: London v Warrington</title>
+    <desc lang="en">London Broncos host Warrington Wolves in the Betfred Super League. The Wolves made it three wins on the spin with a 20-22 victory over Hull KR during round four. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/82c1a3e8-d025-385d-a10c-e486a9a1f720/16-9"/>
+    <episode-num system="xmltv_ns">2023.81.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328093500 +0530" stop="20240328100500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Wardley v Clarke: Gloves Are Off</title>
+    <desc lang="en">British and Commonwealth champion Fabio Wardley comes face to face with his bitter rival, Olympic hero Frazer Clarke ahead of their heavyweight clash on March 31.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c93af9a-ee4e-311f-a87d-7db4caf75102/16-9"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328100500 +0530" stop="20240328110500 +0530" channel="SkySpMix.uk">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">Tournament highlights from the 2024 Valspar Championship, held at Innisbrook Resort in Palm Harbor, Florida. A year ago, Taylor Moore secured his first PGA Tour win here.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c1802e10-0c10-3513-8be2-16ece520f567/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328110500 +0530" stop="20240328111500 +0530" channel="SkySpMix.uk">
+    <title lang="en">My Icon: Shaun Gayle</title>
+    <desc lang="en">In the next episode of this special series, former Chicago Bears defensive back and Super Bowl winner Shaun Gayle discusses the individuals that have inspired him during his life.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ece16de8-a1f5-46e5-bc5a-3957487205e2/16-9"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328111500 +0530" stop="20240328113000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from a wild-card matchup during the 2023 NFL playoffs, as the NFC's number three-seeded Detroit Lions take on the number six seeds Los Angeles Rams. (14.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f58ea6dd-5a29-3162-ab4d-5adaa7350af7/16-9"/>
+    <episode-num system="xmltv_ns">2023.36.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328113000 +0530" stop="20240328123000 +0530" channel="SkySpMix.uk">
+    <title lang="en">DP World Tour Golf Highlights</title>
+    <desc lang="en">Day four of the 2024 Porsche Singapore Classic, held at Laguna National Golf Resort Club. This event marks the beginning of the DP World Tour's Asian swing. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/27765773-f155-32ee-b26d-abf9fd3de706/16-9"/>
+    <episode-num system="xmltv_ns">.58.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328123000 +0530" stop="20240328133000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Indian Open 2023 Highlights</title>
+    <desc lang="en">The fourth and final day of the 2023 Hero Indian Open at the DLF Golf and Country Club in New Delhi. The last staging of the competition in 2019 saw Stephen Gallacher win. (26.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b80836df-c113-4929-bbd6-6252856196fb/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328133000 +0530" stop="20240328143000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Fresh from sending the Bills home in the divisional round, Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0032abde-0687-3c21-88b9-5d8df409ad42/16-9"/>
+    <episode-num system="xmltv_ns">2023.59.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328143000 +0530" stop="20240328153000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">The San Francisco 49ers and the Detroit Lions advance to the NFC Championship game with a Super Bowl LVIII bid on the line. Can the Lions keep their storybook season going here? (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/07be4d31-d87d-3953-943d-ebb3da23f52e/16-9"/>
+    <episode-num system="xmltv_ns">2023.56.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328153000 +0530" stop="20240328163000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">The San Francisco 49ers and the Detroit Lions advance to the NFC Championship game with a Super Bowl LVIII bid on the line. Can the Lions keep their storybook season going here? (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/07be4d31-d87d-3953-943d-ebb3da23f52e/16-9"/>
+    <episode-num system="xmltv_ns">2023.56.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328163000 +0530" stop="20240328173000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: SRH v Mumbai I Highlights</title>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c28eb8c-1a9b-3708-92db-5a2d5fd5d9a8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240328173000 +0530" stop="20240328183000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success: Sir Ian McGeechan</title>
+    <desc lang="en">Nasser Hussain meets Sir Ian McGeechan to find out how he became the only person to have tasted series success with the British and Irish Lions as both a player and a coach.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f454aa8b-bacb-3dd2-b4fa-46940eb9b67d/16-9"/>
+    <episode-num system="xmltv_ns">2023.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328183000 +0530" stop="20240328203000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Nasser Hussain meets some of the most successful leaders in sport to find out how they inspire, motivate and manage their teams to succeed at the highest level.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6fc20626-aaa1-31b3-af7c-995c131b10b1/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Dolby Digital</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328203000 +0530" stop="20240328210000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Beginnings: As Nasser Hussain meets some of the most successful leaders in sport, find out how beginnings play a crucial part in building success. (1 of 5)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6e7e7f65-f829-39a3-8daf-918ccd1988c9/16-9"/>
+    <episode-num system="xmltv_ns">2022.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328210000 +0530" stop="20240328213000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Culture: As Nasser Hussain meets some of the most successful leaders in sport, learn how culture - both on and off the field - plays an integral role in breeding success. (2 of 5)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a735522-bcd5-360f-97b0-ba8e72b35bf7/16-9"/>
+    <episode-num system="xmltv_ns">2022.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328213000 +0530" stop="20240328220000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Mavericks: As Nasser Hussain meets some of the most successful leaders in sport, the importance of mavericks is revealed. (3 of 5)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5278473f-6318-329f-ae01-83abe3bb7c42/16-9"/>
+    <episode-num system="xmltv_ns">2022.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328220000 +0530" stop="20240328223000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Teams: As Nasser Hussain meets some of the most successful leaders in sport, the power of teamwork comes under the spotlight. (4 of 5)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9c398041-fe6b-3ce8-afaa-4e8ef4a349ba/16-9"/>
+    <episode-num system="xmltv_ns">2022.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328223000 +0530" stop="20240328230000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Legacy: Nasser Hussain meets some of the most successful leaders in sport to find out how they inspire, motivate and manage their teams to succeed at the highest level. (5 of 5)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cc948ce-19f1-3cf5-bf51-6f2a7946afa1/16-9"/>
+    <episode-num system="xmltv_ns">2022.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328230000 +0530" stop="20240328233000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Talking Cricket: Sachin Tendulkar</title>
+    <desc lang="en">A look at the career of the modern era's greatest batsman through the eyes of those that shared the pitch with him. Steve Waugh, Ravi Shastri and the 'Little Master' himself contribute.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d557c6e8-9c67-46d6-9b31-f9634bce3dc7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328233000 +0530" stop="20240329000000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Taylor v Mason 2002</title>
+    <desc lang="en">In a match that saw the first-ever televised nine-darter, revisit this classic contest between Phil Taylor and Chris Mason at the 2002 World Matchplay. Contains flashing images.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/40d74b68-9486-33c1-a7ae-90352a4fd02d/16-9"/>
+    <episode-num system="xmltv_ns">2022.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329000000 +0530" stop="20240329003000 +0530" channel="SkySpMix.uk">
+    <title lang="en">RVB v MVG 2016'</title>
+    <desc lang="en">In 2016, Michael Van Gerwen and Raymond Van Barneveld delivered a World Championship thriller on the Alexandra Palace stage. Revisit this epic encounter in London. Contains flashing images.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d2474b9f-b401-3288-98ff-57bc39d34c9d/16-9"/>
+    <episode-num system="xmltv_ns">2022.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329003000 +0530" stop="20240329024500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Australian F1 Grand Prix</title>
+    <desc lang="en">The lights go out for the 2024 Australian Grand Prix. It will be Max Verstappen who starts from P1 on the grid with the returning Carlos Sainz set to apply pressure from second. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d6e4a86-b6ac-3065-b210-50d45ea928e6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329024500 +0530" stop="20240329031500 +0530" channel="SkySpMix.uk">
+    <title lang="en">UNBEATABLE</title>
+    <desc lang="en">This weekly magazine show covers all the action of the British Basketball League including highlights of each week's games, original features, interviews, top plays and bloopers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/112c0ec7-9444-343f-b1ad-47a252c08366/16-9"/>
+    <episode-num system="xmltv_ns">2022.27.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329031500 +0530" stop="20240329034500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Taylor v Painter 2004</title>
+    <desc lang="en">Trailing Kevin Painter 4-1, a ninth World Championship title looked out of reach for Phil Taylor. Cue a miraculous recovery and a breathtaking sudden death leg. Contains flashing images.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd9e2755-a1b8-3acc-a01e-4640237b8990/16-9"/>
+    <episode-num system="xmltv_ns">2022.5.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329034500 +0530" stop="20240329040000 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: Leeds v St Helens Hlts</title>
+    <desc lang="en">Leeds Rhinos and St Helens meet in the Betfred Super League. Ash Handley was on hand again for the Rhinos previously, scoring the winner in a fiercely contested battle with Leigh. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99200853-8e3f-3673-b332-da8c15436bd3/16-9"/>
+    <episode-num system="xmltv_ns">2023.67.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329040000 +0530" stop="20240329043000 +0530" channel="SkySpMix.uk">
+    <title lang="en">One Championship Weekly Magazine</title>
+    <desc lang="en">The weekly show looking back at the best performances of ONE Championship's biggest stars ahead of highly anticipated upcoming bouts.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a99cad21-3349-36b6-8ba0-f5b154e8c672/16-9"/>
+    <episode-num system="xmltv_ns">2023.11.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20240329043000 +0530" stop="20240329063000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live NCAA Basketball March Madness</title>
+    <desc lang="en">An NCAA men's college basketball match-up. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9f2bcc81-09a7-3bb6-9a10-e397bf9187b6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
   </programme>
 </tv>

@@ -4,294 +4,9 @@
     <display-name lang="en">SkySp Cricket</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1302.png"/>
   </channel>
-  <programme start="20240326033000 +0530" stop="20240326043000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: RCB v Punjab K Highlights</title>
-    <desc lang="en">Off to a winning start thanks to the bat of Sam Curran, Punjab Kings travel to Bengaluru for an IPL match with RCB. Virat Kohli and the Challengers began the campaign with defeat. (25.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cf84c2ae-264f-370f-a568-ac78fa550d5c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326043000 +0530" stop="20240326053000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL Final Highlights</title>
-    <desc lang="en">The champions of the 2024 Pakistan Super League are crowned in Karachi. In the final, Multan Sultans face Islamabad United - who beat Peshawar Zalmi in the second Eliminator. (18.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b45f3b4e-0e7f-3a0c-b748-2fcce6fc2ad1/16-9"/>
-    <episode-num system="xmltv_ns">.33.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326053000 +0530" stop="20240326094000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: RCB v Punjab K</title>
-    <desc lang="en">Off to a winning start thanks to the bat of Sam Curran, Punjab Kings travel to Bengaluru for an IPL match with RCB. Virat Kohli and the Challengers began the campaign with defeat. (25.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d688ef12-66d1-3b21-8453-8eeb5d2d9667/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326094000 +0530" stop="20240326100500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Fletcher Years: The New Coach</title>
-    <desc lang="en">New &amp; Exclusive. The year is 1999, and a relatively-unknown Duncan Fletcher is appointed as England cricket coach, tasked with turning around the fortunes of a team in disarray. Ep 1 of 4.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/db77f774-2cda-4d73-9870-454c9274a76d/16-9"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326100500 +0530" stop="20240326103000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Pushing Boundaries: 11 Maids Bramley</title>
-    <desc lang="en">Chart the history of women's cricket, as Kate Cross explores the journey the women's game has made - beginning with the first recorded match in 1745.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cd0767d7-5006-394f-8507-09043dfc109b/16-9"/>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326103000 +0530" stop="20240326113000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: RCB v Punjab K Highlights</title>
-    <desc lang="en">Off to a winning start thanks to the bat of Sam Curran, Punjab Kings travel to Bengaluru for an IPL match with RCB. Virat Kohli and the Challengers began the campaign with defeat. (25.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cf84c2ae-264f-370f-a568-ac78fa550d5c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326113000 +0530" stop="20240326154000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: RCB v Punjab K</title>
-    <desc lang="en">Off to a winning start thanks to the bat of Sam Curran, Punjab Kings travel to Bengaluru for an IPL match with RCB. Virat Kohli and the Challengers began the campaign with defeat. (25.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d688ef12-66d1-3b21-8453-8eeb5d2d9667/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326154000 +0530" stop="20240326160500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Fletcher Years: The New Coach</title>
-    <desc lang="en">New &amp; Exclusive. The year is 1999, and a relatively-unknown Duncan Fletcher is appointed as England cricket coach, tasked with turning around the fortunes of a team in disarray. Ep 1 of 4.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/db77f774-2cda-4d73-9870-454c9274a76d/16-9"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326160500 +0530" stop="20240326163000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Pushing Boundaries: 11 Maids Bramley</title>
-    <desc lang="en">Chart the history of women's cricket, as Kate Cross explores the journey the women's game has made - beginning with the first recorded match in 1745.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cd0767d7-5006-394f-8507-09043dfc109b/16-9"/>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326163000 +0530" stop="20240326173000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: RCB v Punjab K Highlights</title>
-    <desc lang="en">Off to a winning start thanks to the bat of Sam Curran, Punjab Kings travel to Bengaluru for an IPL match with RCB. Virat Kohli and the Challengers began the campaign with defeat. (25.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cf84c2ae-264f-370f-a568-ac78fa550d5c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326173000 +0530" stop="20240326182500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Secrets of Success: Sir Dave Brailsford</title>
-    <desc lang="en">Nasser Hussain meets performance director Sir Dave Brailsford to find out how he helped mould British cycling into the success story it is today.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4342de3a-277e-35c9-98b1-5860008ad1f8/16-9"/>
-    <episode-num system="xmltv_ns">2023.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240326182500 +0530" stop="20240326192000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: RCB v Punjab K Highlights</title>
-    <desc lang="en">Off to a winning start thanks to the bat of Sam Curran, Punjab Kings travel to Bengaluru for an IPL match with RCB. Virat Kohli and the Challengers began the campaign with defeat. (25.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cf84c2ae-264f-370f-a568-ac78fa550d5c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240326192000 +0530" stop="20240326233000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Live IPL: CSK v Gujarat T</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8c9289e5-0b50-3f56-a716-21b5b73358af/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240326233000 +0530" stop="20240327000000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Fletcher Years: Seven Year Itch</title>
-    <desc lang="en">New &amp; Exclusive. After the 2005 Ashes, Fletcher's fortunes seemed to turn. With a 5-0 whitewash and another World Cup failure, where did it all go wrong? Ep 4 of 4.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/598d01dd-09fc-42b1-a84b-553ff67ddbb6/16-9"/>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240327000000 +0530" stop="20240327003000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Secrets of Success: Jurgen Klopp</title>
-    <desc lang="en">Nasser Hussain meets Liverpool manager Jurgen Klopp to find out how he restored the Merseyside club's standing among the Premier League and European elite.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b6c0466c-536f-3704-b74a-87ae8a6b219e/16-9"/>
-    <episode-num system="xmltv_ns">2023.2.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240327003000 +0530" stop="20240327013000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: Rajasthan R v Lucknow SG Hlts</title>
-    <desc lang="en">Attention turns to Jaipur as the opening weekend of IPL action continues. Here, home team Rajasthan Royals face the Lucknow Super Giants. (24.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d8f6f67e-6372-3e9e-820d-b824b58f4941/16-9"/>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240327013000 +0530" stop="20240327023000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: CSK v Gujarat T Highlights</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1ec02756-3886-380d-8c83-59f330cab2ec/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240327023000 +0530" stop="20240327033000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Secrets of Success: Sir Dave Brailsford</title>
-    <desc lang="en">Nasser Hussain meets performance director Sir Dave Brailsford to find out how he helped mould British cycling into the success story it is today.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4342de3a-277e-35c9-98b1-5860008ad1f8/16-9"/>
-    <episode-num system="xmltv_ns">2023.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240327033000 +0530" stop="20240327043000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: CSK v Gujarat T Highlights</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
+    <desc lang="en">The reigning IPL champions Chennai Super Kings host Gujarat Titans. Both teams registered wins on opening weekend, with Chennai beating RCB and Gujarat overcoming Mumbai. (26.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1ec02756-3886-380d-8c83-59f330cab2ec/16-9"/>
@@ -308,6 +23,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/cf84c2ae-264f-370f-a568-ac78fa550d5c/16-9"/>
+    <episode-num system="xmltv_ns">.5.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -318,7 +34,7 @@
   </programme>
   <programme start="20240327053000 +0530" stop="20240327094000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: CSK v Gujarat T</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
+    <desc lang="en">The reigning IPL champions Chennai Super Kings host Gujarat Titans. Both teams registered wins on opening weekend, with Chennai beating RCB and Gujarat overcoming Mumbai. (26.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/db24fa16-eb60-3bef-bd42-1928679a0bd7/16-9"/>
@@ -365,7 +81,7 @@
   </programme>
   <programme start="20240327103000 +0530" stop="20240327113000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: CSK v Gujarat T Highlights</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
+    <desc lang="en">The reigning IPL champions Chennai Super Kings host Gujarat Titans. Both teams registered wins on opening weekend, with Chennai beating RCB and Gujarat overcoming Mumbai. (26.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1ec02756-3886-380d-8c83-59f330cab2ec/16-9"/>
@@ -378,7 +94,7 @@
   </programme>
   <programme start="20240327113000 +0530" stop="20240327154000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: CSK v Gujarat T</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
+    <desc lang="en">The reigning IPL champions Chennai Super Kings host Gujarat Titans. Both teams registered wins on opening weekend, with Chennai beating RCB and Gujarat overcoming Mumbai. (26.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/db24fa16-eb60-3bef-bd42-1928679a0bd7/16-9"/>
@@ -425,7 +141,7 @@
   </programme>
   <programme start="20240327163000 +0530" stop="20240327173000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: CSK v Gujarat T Highlights</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
+    <desc lang="en">The reigning IPL champions Chennai Super Kings host Gujarat Titans. Both teams registered wins on opening weekend, with Chennai beating RCB and Gujarat overcoming Mumbai. (26.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1ec02756-3886-380d-8c83-59f330cab2ec/16-9"/>
@@ -456,7 +172,7 @@
   </programme>
   <programme start="20240327182500 +0530" stop="20240327192000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: CSK v Gujarat T Highlights</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
+    <desc lang="en">The reigning IPL champions Chennai Super Kings host Gujarat Titans. Both teams registered wins on opening weekend, with Chennai beating RCB and Gujarat overcoming Mumbai. (26.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1ec02756-3886-380d-8c83-59f330cab2ec/16-9"/>
@@ -469,7 +185,7 @@
   </programme>
   <programme start="20240327192000 +0530" stop="20240327233000 +0530" channel="SkySpCricket.uk">
     <title lang="en">Live IPL: SRH v Mumbai I</title>
-    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. (27.03)</desc>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/32788f62-f540-32df-80a7-dab2fb39dd63/16-9"/>
@@ -533,7 +249,7 @@
   </programme>
   <programme start="20240328003000 +0530" stop="20240328013000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: CSK v Gujarat T Highlights</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
+    <desc lang="en">The reigning IPL champions Chennai Super Kings host Gujarat Titans. Both teams registered wins on opening weekend, with Chennai beating RCB and Gujarat overcoming Mumbai. (26.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1ec02756-3886-380d-8c83-59f330cab2ec/16-9"/>
@@ -546,7 +262,7 @@
   </programme>
   <programme start="20240328013000 +0530" stop="20240328023000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: SRH v Mumbai I Highlights</title>
-    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. (27.03)</desc>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1c28eb8c-1a9b-3708-92db-5a2d5fd5d9a8/16-9"/>
@@ -577,7 +293,7 @@
   </programme>
   <programme start="20240328033000 +0530" stop="20240328043000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: SRH v Mumbai I Highlights</title>
-    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. (27.03)</desc>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1c28eb8c-1a9b-3708-92db-5a2d5fd5d9a8/16-9"/>
@@ -590,10 +306,282 @@
   </programme>
   <programme start="20240328043000 +0530" stop="20240328053000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: CSK v Gujarat T Highlights</title>
-    <desc lang="en">In the IPL, Chennai Super Kings face Gujarat Titans. (26.03)</desc>
+    <desc lang="en">The reigning IPL champions Chennai Super Kings host Gujarat Titans. Both teams registered wins on opening weekend, with Chennai beating RCB and Gujarat overcoming Mumbai. (26.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1ec02756-3886-380d-8c83-59f330cab2ec/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240328053000 +0530" stop="20240328094000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: SRH v Mumbai I</title>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c25d6c9-7048-3156-a8af-177726cb6717/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240328094000 +0530" stop="20240328100500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Fletcher Years: The Greatest Series</title>
+    <desc lang="en">New &amp; Exclusive. The 2005 Ashes was the series that sparked English Cricket into the limelight, but how did they do it? Was it as nervous in the camp as it was outside? Ep 3 of 4.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a3cd48bf-950e-4138-a387-3d4d5882105a/16-9"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328100500 +0530" stop="20240328103000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Pushing Boundaries: To The Hundred and Beyond</title>
+    <desc lang="en">Kate Cross charts the history of women's cricket via pioneers like Rachael Heyhoe-Flint and Charlotte Edwards, from the first match in 1745 to the Hundred.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/945fb5f1-b856-3d2e-aadb-f1a68129ea62/16-9"/>
+    <episode-num system="xmltv_ns">.110.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328103000 +0530" stop="20240328113000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: SRH v Mumbai I Highlights</title>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c28eb8c-1a9b-3708-92db-5a2d5fd5d9a8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240328113000 +0530" stop="20240328154000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: SRH v Mumbai I</title>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c25d6c9-7048-3156-a8af-177726cb6717/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240328154000 +0530" stop="20240328160500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Fletcher Years: The Greatest Series</title>
+    <desc lang="en">New &amp; Exclusive. The 2005 Ashes was the series that sparked English Cricket into the limelight, but how did they do it? Was it as nervous in the camp as it was outside? Ep 3 of 4.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a3cd48bf-950e-4138-a387-3d4d5882105a/16-9"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328160500 +0530" stop="20240328163000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Pushing Boundaries: To The Hundred and Beyond</title>
+    <desc lang="en">Kate Cross charts the history of women's cricket via pioneers like Rachael Heyhoe-Flint and Charlotte Edwards, from the first match in 1745 to the Hundred.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/945fb5f1-b856-3d2e-aadb-f1a68129ea62/16-9"/>
+    <episode-num system="xmltv_ns">.110.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328163000 +0530" stop="20240328173000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: SRH v Mumbai I Highlights</title>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c28eb8c-1a9b-3708-92db-5a2d5fd5d9a8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240328173000 +0530" stop="20240328182500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Secrets of Success: Sir Ian McGeechan</title>
+    <desc lang="en">Nasser Hussain meets Sir Ian McGeechan to find out how he became the only person to have tasted series success with the British and Irish Lions as both a player and a coach.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f454aa8b-bacb-3dd2-b4fa-46940eb9b67d/16-9"/>
+    <episode-num system="xmltv_ns">2023.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240328182500 +0530" stop="20240328192000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: SRH v Mumbai I Highlights</title>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c28eb8c-1a9b-3708-92db-5a2d5fd5d9a8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240328192000 +0530" stop="20240328233000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Live IPL: Rajasthan R v Delhi C</title>
+    <desc lang="en">Action from the IPL as Jos Buttler's Rajasthan Royals face Delhi Capitals. Sanju Samson produced an unbeaten 82-run stand to propel the Royals to victory last time out. (28.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e4eb3948-1d3c-3ffc-b2d6-7544ddfc71dc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240328233000 +0530" stop="20240329000000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Culture: As Nasser Hussain meets some of the most successful leaders in sport, learn how culture - both on and off the field - plays an integral role in breeding success. (2 of 5)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a735522-bcd5-360f-97b0-ba8e72b35bf7/16-9"/>
+    <episode-num system="xmltv_ns">2022.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329000000 +0530" stop="20240329003000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Talking Cricket: Sachin Tendulkar</title>
+    <desc lang="en">A look at the career of the modern era's greatest batsman through the eyes of those that shared the pitch with him. Steve Waugh, Ravi Shastri and the 'Little Master' himself contribute.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d557c6e8-9c67-46d6-9b31-f9634bce3dc7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329003000 +0530" stop="20240329013000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: SRH v Mumbai I Highlights</title>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c28eb8c-1a9b-3708-92db-5a2d5fd5d9a8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240329013000 +0530" stop="20240329023000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: Rajasthan R v Delhi C Hlts</title>
+    <desc lang="en">Action from the IPL as Jos Buttler's Rajasthan Royals face Delhi Capitals. Sanju Samson produced an unbeaten 82-run stand to propel the Royals to victory last time out. (28.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5c14dc97-2a22-35ae-946b-cd78d1023778/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240329023000 +0530" stop="20240329033000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Secrets of Success: Sir Ian McGeechan</title>
+    <desc lang="en">Nasser Hussain meets Sir Ian McGeechan to find out how he became the only person to have tasted series success with the British and Irish Lions as both a player and a coach.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f454aa8b-bacb-3dd2-b4fa-46940eb9b67d/16-9"/>
+    <episode-num system="xmltv_ns">2023.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240329033000 +0530" stop="20240329043000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: Rajasthan R v Delhi C Hlts</title>
+    <desc lang="en">Action from the IPL as Jos Buttler's Rajasthan Royals face Delhi Capitals. Sanju Samson produced an unbeaten 82-run stand to propel the Royals to victory last time out. (28.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5c14dc97-2a22-35ae-946b-cd78d1023778/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240329043000 +0530" stop="20240329053000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">IPL: SRH v Mumbai I Highlights</title>
+    <desc lang="en">In the IPL, Sunrisers Hyderabad face Mumbai Indians. Dealt defeat in their openers, Pat Cummins and Hardik Pandya attempt to steer their respective teams to victory here. (27.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c28eb8c-1a9b-3708-92db-5a2d5fd5d9a8/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>

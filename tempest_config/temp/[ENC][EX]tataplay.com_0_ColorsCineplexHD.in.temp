@@ -3,158 +3,6 @@
   <channel id="ColorsCineplexHD.in">
     <display-name lang="en">Colors Cineplex HD</display-name>
   </channel>
-  <programme start="20240326020600 +0530" stop="20240326044100 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Abhimanyu</title>
-    <desc lang="en">Abhimanyu, a professional computer engineer, puts his life at risk and fights for people from poverty-stricken areas so that they receive an education.</desc>
-    <credits>
-      <actor>Arjun Sarja</actor>
-      <actor>Surveen Chawla</actor>
-      <actor>Atul Mathur</actor>
-      <actor>Rahul Dev</actor>
-      <actor>Simran Kapoor</actor>
-      <actor>Shruti Reddy</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5AE9E0224805B1E41ABF4F5CC7020A09A87EE44E2.jpg"/>
-  </programme>
-  <programme start="20240326044100 +0530" stop="20240326070000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Prince</title>
-    <desc lang="en">A thief plans the robbery of a lifetime. However, he wakes up one morning to realise that he has lost his memory and his life is at stake.</desc>
-    <credits>
-      <actor>Vivek Oberoi</actor>
-      <actor>Aruna Shields</actor>
-      <actor>Nandana Sen</actor>
-      <actor>Neeru Bajwa</actor>
-      <actor>Isaiah</actor>
-      <actor>Sanjay Kapoor</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F41676B1A67100D5418D99D32C925FD0D6CA3F99.jpg"/>
-  </programme>
-  <programme start="20240326070000 +0530" stop="20240326090300 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Shimla Mirchi</title>
-    <desc lang="en">Avi writes an anonymous love letter to Naina, the love of his life. However, things go awry when it lands in her mother's hand and she thinks it is meant for her.</desc>
-    <credits>
-      <actor>Hema Malini</actor>
-      <actor>Rajkummar Rao</actor>
-      <actor>Rakul Preet Singh</actor>
-      <actor>Shakti Kapoor</actor>
-      <actor>Kiran Juneja</actor>
-      <actor>Kanwaljit Singh</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/315BA73ACE899E398C151AF0957261FF38B757BCZ.jpg"/>
-  </programme>
-  <programme start="20240326090300 +0530" stop="20240326111600 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">S.P. Chauhan</title>
-    <desc lang="en">Satpal Chauhan, a social worker from Haryana, works for women empowerment and also strives to create an alcohol-free society. However, while pursuing his goals, he faces several hardships.</desc>
-    <credits>
-      <actor>Jimmy Sheirgill</actor>
-      <actor>Yuvika Chaudhry</actor>
-      <actor>Yashpal Sharma</actor>
-      <actor>Deepak Mor</actor>
-      <actor>Vijay Kumar Dogra</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AD9E65AA0D353827AFFD49D2132CC2B4F5727562.jpg"/>
-  </programme>
-  <programme start="20240326111600 +0530" stop="20240326125800 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">The Body</title>
-    <desc lang="en">A police inspector is tasked with investigating the disappearance of a powerful businesswoman's corpse. After questioning her widower, he realises that there is more to the case than meets the eye.</desc>
-    <credits>
-      <actor>Emraan Hashmi</actor>
-      <actor>Rishi Kapoor</actor>
-      <actor>Sobhita Dhulipala</actor>
-      <actor>Vedhika</actor>
-      <actor>Rukhsar Rehman</actor>
-    </credits>
-    <category lang="en">Mystery</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16BB2D97240BE9BC59B426CA7516380D58A73407T.jpg"/>
-  </programme>
-  <programme start="20240326125800 +0530" stop="20240326152500 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Dashing CM Bharat</title>
-    <desc lang="en">Bharath, an NRI, returns to India and learns about the deteriorating political condition. He then decides to contest elections to transform the system, unaware of what awaits him.</desc>
-    <credits>
-      <actor>Mahesh Babu</actor>
-      <actor>Kiara Advani</actor>
-      <actor>Prakash Raj</actor>
-      <actor>R Sarathkumar</actor>
-      <actor>Devaraj</actor>
-      <actor>Aamani</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90365A52F818E20870A76FBA36E63C086746315DT.jpg"/>
-  </programme>
-  <programme start="20240326152500 +0530" stop="20240326175100 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Lucknow Central</title>
-    <desc lang="en">Kishen, an inmate in a Lucknow jail, yearns to be set free. When he learns that a few prisoners must form a band, he sees it as his ticket to freedom.</desc>
-    <credits>
-      <actor>Farhan Akhtar</actor>
-      <actor>Diana Penty</actor>
-      <actor>Ronit Roy</actor>
-      <actor>Gippy Grewal</actor>
-      <actor>Deepak Dobriyal</actor>
-      <actor>Rajesh Sharma</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/67673E0C9FD4490D7F03F876FEE37867FD0B745AY.jpg"/>
-  </programme>
-  <programme start="20240326175100 +0530" stop="20240326192900 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">I Love You</title>
-    <desc lang="en">A corporate woman and her fiance are set to embark on a new chapter in their lives. However, while boarding a flight to Delhi, she finds herself trapped in her office.</desc>
-    <credits>
-      <actor>Rakul Preet Singh</actor>
-      <actor>Elisha Jeetu Jawrani</actor>
-      <actor>Pavail Gulati</actor>
-      <actor>Akshay Oberoi</actor>
-      <actor>Kiran Kumar</actor>
-      <actor>Prateek Pachori</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/955F05CAC1483A7F8D3453EB97E519CE495638ABR.jpg"/>
-  </programme>
-  <programme start="20240326192900 +0530" stop="20240326214400 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">The Warriorr</title>
-    <desc lang="en">Satya, a doctor, is brutally beaten and driven out of his city by Guru, a ruthless gangster. However, Satya returns two years later as a police officer to exact revenge on Guru.</desc>
-    <credits>
-      <actor>Ram Pothineni</actor>
-      <actor>Aadhi Pinisetty</actor>
-      <actor>Krithi Shetty</actor>
-      <actor>Akshara Gowda</actor>
-      <actor>Nadhiya</actor>
-      <actor>Redin Kingsley</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1408F6E946389EE05E8A0585045D5CDCA98D64BU.jpg"/>
-  </programme>
-  <programme start="20240326214400 +0530" stop="20240326234200 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Tanu Weds Manu</title>
-    <desc lang="en">Manu, an NRI doctor, comes to India in search of a bride and falls in love with Tanu. Poles apart from her suitor, Tanu, a fun-loving girl, rather enlists his help in eloping with her lover.</desc>
-    <credits>
-      <actor>R Madhavan</actor>
-      <actor>Kangana Ranaut</actor>
-      <actor>Jimmy Shergill</actor>
-      <actor>Eijaz Khan</actor>
-      <actor>Swara Bhaskar</actor>
-      <actor>K K Raina</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DA9A860A1C1A119E83AFC8A43622E1EBB8921F3DF.jpg"/>
-  </programme>
-  <programme start="20240326234200 +0530" stop="20240327012300 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Tera Intezaar</title>
-    <desc lang="en">Rounak, an art gallery owner, who is in love with a painter, Veer, is left distraught when the latter mysteriously disappears. Unable to cope with the loss, she sets out to uncover the truth.</desc>
-    <credits>
-      <actor>Arbaaz Khan</actor>
-      <actor>Sunny Leone</actor>
-      <actor>Aarya Babbar</actor>
-      <actor>Hanif Noyda</actor>
-      <actor>Salil Ankola</actor>
-      <actor>Sudha Chandran</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3ABEC733CE3115B5BF0815B812E7685C07F5BD9FM.jpg"/>
-  </programme>
   <programme start="20240327012300 +0530" stop="20240327040900 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Mere Baap Pehle Aap</title>
     <desc lang="en">Gaurav treats his widowed father, Janardhan, with love and care for raising him and his brother single-handedly. When he learns about Janardhan's childhood love, he decides to reunite them.</desc>
@@ -169,7 +17,7 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51902BC684B4C552385E7743264F8D1B300F3CF09.jpg"/>
   </programme>
-  <programme start="20240327040900 +0530" stop="20240327060000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240327040900 +0530" stop="20240327063200 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Jaane Bhi Do Yaaro</title>
     <desc lang="en">Two photographers, who are employed by a newspaper editor to expose the scandalous activities of the rich, come across corruption by a builder and accidentally photograph a murder.</desc>
     <credits>
@@ -183,37 +31,168 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE3916496392F96CB881C7E9C7F92959BD9A3B88.jpg"/>
   </programme>
-  <programme start="20240327060000 +0530" stop="20240327090000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240327063200 +0530" stop="20240327080500 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Sivudu</title>
+    <desc lang="en">Long-standing rivalry between two villages turns ugly when a carefree man gets embroiled in a web of criminal racketeering. Sensing danger to his family, he decides to confront the hardened gangsters.</desc>
+    <credits>
+      <actor>Aadhi Pinisetty</actor>
+      <actor>Nikki Galrani</actor>
+      <actor>Akanksha Singh</actor>
+      <actor>Prince</actor>
+      <actor>Sunil</actor>
+      <actor>Sharath Lohithashwa</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F183F8348C6CAEE16E2F94FEBF94E21B3F567EB0X.jpg"/>
+  </programme>
+  <programme start="20240327080500 +0530" stop="20240327102700 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Boss</title>
+    <desc lang="en">After his father disowns him, a businessman raises Surya like his own son. Years later, Surya transforms himself into Boss and fights for the rights of the deprived sections of society.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Ronit Roy</actor>
+      <actor>Shiv Pandit</actor>
+      <actor>Aditi Rao Hydari</actor>
+      <actor>Shivansh Kotia</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BC016C081DCB0A93A870FC1F41F2288F7187F69U.jpg"/>
+  </programme>
+  <programme start="20240327102700 +0530" stop="20240327125800 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Policewala Gunda 2</title>
+    <desc lang="en">Sivan, a Madurai-based don, adopts Shakthi, his driver's son. After witnessing his father's murder at the hands of a police officer, Shakthi develops hate for all policemen.</desc>
+    <credits>
+      <actor>Mohanlal</actor>
+      <actor>Vijay</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Soori</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Sampath Raj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAA29B37675D51036F3C313E13AD13CC51252B57N.jpg"/>
+  </programme>
+  <programme start="20240327125800 +0530" stop="20240327151300 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Drishyam 2</title>
+    <desc lang="en">Seven years after facing traumatic events, the Salgaonkars have moved on with life. However, unforeseen circumstances threaten to bring dark truths to light.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Tabu</actor>
+      <actor>Ishita Dutta</actor>
+      <actor>Akshaye Khanna</actor>
+      <actor>Shriya Saran</actor>
+      <actor>Mrunal Jadhav</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/707725D39EE0DDC753DC575AEC0C6EFE32845115Z.jpg"/>
+  </programme>
+  <programme start="20240327151300 +0530" stop="20240327172800 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Ugram</title>
+    <desc lang="en">When CI Shiva Kumar's family goes missing from a hospital following an accident, the police officer sets off to unveil an entangled mystery that takes an enigmatic turn.</desc>
+    <credits>
+      <actor>Allari Naresh</actor>
+      <actor>Mirnaa Menon</actor>
+      <actor>Indraja</actor>
+      <actor>Sharath Lohithaswa</actor>
+      <actor>Srikanth Iyengar</actor>
+      <actor>Shatru</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C05E8CDB553CD3542C968585AC3816789AF9F03E.jpg"/>
+  </programme>
+  <programme start="20240327172800 +0530" stop="20240327191600 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Sergeant</title>
+    <desc lang="en">A diligent police officer who loses his leg during a dangerous mission risks his life to solve a critical unresolved murder case.</desc>
+    <credits>
+      <actor>Randeep Hooda</actor>
+      <actor>Adil Hussain</actor>
+      <actor>Arun Govil</actor>
+      <actor>Daphne Alexander</actor>
+      <actor>Sapna Pabbi</actor>
+      <actor>Clive Coen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EB8F7882F3678B45A814F185C63EBBC71BF63E5O.jpg"/>
+  </programme>
+  <programme start="20240327191600 +0530" stop="20240327211900 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Inspector Vijay</title>
+    <desc lang="en">Vijay, an honest police officer, meets Samyukta at a cafe and falls in love with her. However, his life changes when he witnesses a kidnapping and ends up helping a lonely woman, Lavanya.</desc>
+    <credits>
+      <actor>Bellamkonda Sreenivas</actor>
+      <actor>Neil Nitin Mukesh</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Harshvardhan Rane</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/369EE7A65DA8719A1450802407DDE0932628A9A9L.jpg"/>
+  </programme>
+  <programme start="20240327211900 +0530" stop="20240327232200 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Thugs</title>
+    <desc lang="en">Caught in the turmoil of prison life, a determined man forges alliances with fellow inmates, plotting a daring plan to escape and regain their freedom.</desc>
+    <credits>
+      <actor>Hridhu Haroon</actor>
+      <actor>Anaswara Rajan</actor>
+      <actor>Bobby Simha</actor>
+      <actor>Munishkanth</actor>
+      <actor>R K Suresh</actor>
+      <actor>Appani Sarath</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C0CAB28C24060D478B6D6A6D6641401D75DF44F4H.jpg"/>
+  </programme>
+  <programme start="20240327232200 +0530" stop="20240328015200 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Dilwale</title>
+    <desc lang="en">Raj and Meera fall in love, but are forced to stay away from each other as they belong to rival mafia families. Years later, they get a second chance when their siblings fall for each other.</desc>
+    <credits>
+      <actor>Shah Rukh Khan</actor>
+      <actor>Varun Dhawan</actor>
+      <actor>Kajol</actor>
+      <actor>Kriti Sanon</actor>
+      <actor>Vinod Khanna</actor>
+      <actor>Kabir Bedi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D52DC4EEEEF3C0EA5BE6923BDE4C00DFBE3FB3D9Y.jpg"/>
+  </programme>
+  <programme start="20240328030000 +0530" stop="20240328060000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240327090000 +0530" stop="20240327120000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240328060000 +0530" stop="20240328090000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240327120000 +0530" stop="20240327150000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240328090000 +0530" stop="20240328120000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240327150000 +0530" stop="20240327180000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240328120000 +0530" stop="20240328150000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240327180000 +0530" stop="20240327210000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240328150000 +0530" stop="20240328180000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240327210000 +0530" stop="20240328030000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240328180000 +0530" stop="20240328210000 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240328210000 +0530" stop="20240329030000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
