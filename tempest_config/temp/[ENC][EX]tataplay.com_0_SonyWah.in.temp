@@ -3,264 +3,269 @@
   <channel id="SonyWah.in">
     <display-name lang="en">Sony Wah</display-name>
   </channel>
-  <programme start="20240327014000 +0530" stop="20240327040000 +0530" channel="SonyWah.in">
-    <title lang="en">Taaqat</title>
-    <desc lang="en">A man's life turns into chaos when he learns that he is adopted and sets out to find the truth about his past. However, on his quest, he discovers dark secrets which must be dealt with.</desc>
+  <programme start="20240328021900 +0530" stop="20240328040000 +0530" channel="SonyWah.in">
+    <title lang="en">Titli</title>
+    <desc lang="en">Titli wants to break free from his gangster family and start his life afresh as a law abiding citizen. When his furious family gets him married to Neelu, he finds an unexpected confidant in his wife.</desc>
     <credits>
-      <actor>Prashanth</actor>
-      <actor>Nila</actor>
-      <actor>Meghna Naidu</actor>
-      <actor>Vijayan</actor>
-      <actor>Vijayakumar</actor>
+      <actor>Shashank Arora</actor>
+      <actor>Shivani Raghuvanshi</actor>
+      <actor>Ranvir Shorey</actor>
+      <actor>Amit Sial</actor>
+      <actor>Lalit Behl</actor>
     </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0934BEA6E89CD101F6C62EAC057DDED3A153BC759.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D8EAABBAFEEE00816EA354F46AE4C5CF12E0EBCD.jpg"/>
   </programme>
-  <programme start="20240327040000 +0530" stop="20240327042200 +0530" channel="SonyWah.in">
-    <title lang="en">Parde Ke Peeche Special</title>
-    <desc lang="en">ABCD 2: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
-  </programme>
-  <programme start="20240327042200 +0530" stop="20240327044400 +0530" channel="SonyWah.in">
-    <title lang="en">Parde Ke Peeche Special</title>
-    <desc lang="en">Bewakoofiyaan: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
-  </programme>
-  <programme start="20240327044400 +0530" stop="20240327050700 +0530" channel="SonyWah.in">
+  <programme start="20240328040000 +0530" stop="20240328042200 +0530" channel="SonyWah.in">
     <title lang="en">Parde Ke Peeche Special</title>
     <desc lang="en">Daawat-e-Ishq: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
   </programme>
-  <programme start="20240327050700 +0530" stop="20240327071000 +0530" channel="SonyWah.in">
-    <title lang="en">Ishaqzaade</title>
-    <desc lang="en">Parma Chauhan and Zoya Qureshi are two rebellious individuals who belong to two rival political families. When they fall in love, their families set out to kill them.</desc>
-    <credits>
-      <actor>Parineeti Chopra</actor>
-      <actor>Arjun Kapoor</actor>
-      <actor>Gauhar Khan</actor>
-      <actor>Natasha Rastogi</actor>
-      <actor>Aradhana Dhawan</actor>
-      <actor>Akash Bathija</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5481440EE1F5101FEAFC704565918D4F5DB892FDF.jpg"/>
+  <programme start="20240328042200 +0530" stop="20240328043800 +0530" channel="SonyWah.in">
+    <title lang="en">Parde Ke Peeche Special</title>
+    <desc lang="en">Kantara: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
   </programme>
-  <programme start="20240327071000 +0530" stop="20240327103400 +0530" channel="SonyWah.in">
-    <title lang="en">Nishchaiy</title>
-    <desc lang="en">When Ravi is falsely accused of a crime and sentenced to jail, his boss's wife, Renuka, promises to take care of his younger brother. However, Ravi is unable to find his brother after he is released.</desc>
-    <credits>
-      <actor>Vinod Khanna</actor>
-      <actor>Salman Khan</actor>
-      <actor>Karisma Kapoor</actor>
-      <actor>Moushmi Chatterjee</actor>
-      <actor>Rajeev Verma</actor>
-      <actor>Saeed Jaffrey</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01F2ECAFBCDFA92D605A5F64CEB6E09E4F6E1332F.jpg"/>
+  <programme start="20240328043800 +0530" stop="20240328050100 +0530" channel="SonyWah.in">
+    <title lang="en">Parde Ke Peeche Special</title>
+    <desc lang="en">ABCD 2: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
   </programme>
-  <programme start="20240327103400 +0530" stop="20240327130800 +0530" channel="SonyWah.in">
-    <title lang="en">U Turn</title>
-    <desc lang="en">Rachana, an intern at a leading newspaper, investigates accidents occurring on a flyover with the help of a crime reporter. However, the situation changes when she is accused of killing a motorist.</desc>
+  <programme start="20240328050100 +0530" stop="20240328051800 +0530" channel="SonyWah.in">
+    <title lang="en">Parde Ke Peeche Special</title>
+    <desc lang="en">Bewakoofiyaan: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
+  </programme>
+  <programme start="20240328051800 +0530" stop="20240328074200 +0530" channel="SonyWah.in">
+    <title lang="en">Dedh Ishqiya</title>
+    <desc lang="en">Khalujan and Babban seek refuge at the Majidabad palace as they run from the law. While Khalujan tries to woo a wealthy widow with poetry, Babban and the widow's assistant plan a kidnapping.</desc>
     <credits>
-      <actor>Samantha Akkineni</actor>
-      <actor>Aadhi Pinisetty</actor>
-      <actor>Bhumika Chawla</actor>
-      <actor>Rahul Ravindran</actor>
-      <actor>Narain</actor>
+      <actor>Arshad Warsi</actor>
+      <actor>Naseeruddin Shah</actor>
+      <actor>Madhuri Dixit Nene</actor>
+      <actor>Huma Qureshi</actor>
+      <actor>Vijay Raaz</actor>
+      <actor>Manoj Pahwa</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFC5F4C8F243BB4D21CD69A82B7BAD3CE82AFC84M.jpg"/>
+  </programme>
+  <programme start="20240328074200 +0530" stop="20240328103400 +0530" channel="SonyWah.in">
+    <title lang="en">Aulad</title>
+    <desc lang="en">A poor couple gets separated from both their sons, when one of them is given up for adoption, and the other one gets into trouble and runs away.</desc>
+    <credits>
+      <actor>Jeetendra</actor>
+      <actor>Babita Kapoor</actor>
+      <actor>Sujit Kumar</actor>
+      <actor>Manmohan Krishna</actor>
+      <actor>Nasir Husain</actor>
+      <actor>Mehmood</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5AE7EDB9088D7C050E525FD8D782A2D206254296Y.jpg"/>
+  </programme>
+  <programme start="20240328103400 +0530" stop="20240328130900 +0530" channel="SonyWah.in">
+    <title lang="en">Ghajinikanth</title>
+    <desc lang="en">Rajinikanth, a young man with selective amnesia, is a constant source of embarrassment to his parents. However, when he falls in love with Vandhana, he tries to hide his condition from her.</desc>
+    <credits>
+      <actor>Arya</actor>
+      <actor>Sayyeshaa Saigal</actor>
       <actor>Aadukalam Naren</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6BE594E14487E5990BFC4F8AE162DE857BC6568O.jpg"/>
-  </programme>
-  <programme start="20240327130800 +0530" stop="20240327153600 +0530" channel="SonyWah.in">
-    <title lang="en">Mr. Majnu</title>
-    <desc lang="en">A charming flirt who has never been in a serious relationship with anyone finds himself in unfamiliar territory when he finally falls in love with a woman.</desc>
-    <credits>
-      <actor>Akhil Akkineni</actor>
-      <actor>Nidhhi Agerwal</actor>
-      <actor>Izabelle Leite</actor>
-      <actor>Kailash Reddy</actor>
-      <actor>Naga Babu</actor>
-      <actor>Subbaraju</actor>
+      <actor>Uma Padmanabhan</actor>
+      <actor>Sampath Raj</actor>
+      <actor>Lijeesh</actor>
     </credits>
     <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BDD7C5C540072737152846F35C377EF3248B0FB6G.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B49F27C59C754DB50722A80FE4C9A42837C2ABDX.jpg"/>
   </programme>
-  <programme start="20240327153600 +0530" stop="20240327163600 +0530" channel="SonyWah.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Shobha's lack of social skills and bad temperament causes the people in her society to despise her. However, when Shobha is found dead in her house, the CID team is called to investigate the matter.</desc>
+  <programme start="20240328130900 +0530" stop="20240328153300 +0530" channel="SonyWah.in">
+    <title lang="en">Purani Haveli</title>
+    <desc lang="en">Anita arrives at a haunted mansion along with Sunil and a group of friends. After a series of deaths, Sunil discovers the monster and finds out a way to kill him and save Anita.</desc>
     <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1302.</episode-num>
-  </programme>
-  <programme start="20240327163600 +0530" stop="20240327175200 +0530" channel="SonyWah.in">
-    <title lang="en">CID</title>
-    <desc lang="en">The dead body is found inside the stuffed mascot of a bustling fast food joint called Romeo. Soon, the CID team is called to investigate the matter.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1303.</episode-num>
-  </programme>
-  <programme start="20240327175200 +0530" stop="20240327190000 +0530" channel="SonyWah.in">
-    <title lang="en">CID</title>
-    <desc lang="en">When two bodies are found, the CID team finds distinct traces of blood and sends the samples to the forensic lab. Soon, Dr Salunkhe tests the blood and finds that the samples are different.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1304.</episode-num>
-  </programme>
-  <programme start="20240327190000 +0530" stop="20240327200000 +0530" channel="SonyWah.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Arvind learns about a genie who lives in a magical vase at an abandoned mansion. Along with his two friends, he goes to the mansion and manages to find the vase.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1305.</episode-num>
-  </programme>
-  <programme start="20240327200000 +0530" stop="20240327205900 +0530" channel="SonyWah.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Aditya and Alisha receive threats from an unknown person who asks them to withhold Kavish from participating in a skating competition. A few days later, when Aditya is found dead, Team CID is called.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1306.</episode-num>
-  </programme>
-  <programme start="20240327205900 +0530" stop="20240327215100 +0530" channel="SonyWah.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Team CID investigate when a corpse arriving from London is replaced with the dead man's son. After finding pollen traces from the corpse's nasal passages, they use forensic palynology for more clues.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1307.</episode-num>
-  </programme>
-  <programme start="20240327215100 +0530" stop="20240327225100 +0530" channel="SonyWah.in">
-    <title lang="en">CID</title>
-    <desc lang="en">A woman attempts to disclose that her brother-in-law is committing murders in a supposedly haunted bungalow. Soon, the CID team is informed and they investigate the matter.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1308.</episode-num>
-  </programme>
-  <programme start="20240327225100 +0530" stop="20240327235900 +0530" channel="SonyWah.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Sunil is tasked with the assignment of killing a woman named Ankita while she is at a party on a boat. Later, when the CID team interrogates Sunil, they learn that he was compelled to kill Ankita.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1309.</episode-num>
-  </programme>
-  <programme start="20240327235900 +0530" stop="20240328021900 +0530" channel="SonyWah.in">
-    <title lang="en">Dushman</title>
-    <desc lang="en">Sonia is raped and murdered by Gokul. To avenge her death, her twin sister, Naina, takes help from a retired Major Suraj Singh Rathod, a man with visual impairment, and plans to teach Gokul a lesson.</desc>
-    <credits>
-      <actor>Sanjay Dutt</actor>
-      <actor>Kajol</actor>
-      <actor>Ashutosh Rana</actor>
-      <actor>Jas Arora</actor>
-      <actor>Tanvi Azmi</actor>
-      <actor>Kunal Khemu</actor>
+      <actor>Deepak Parashar</actor>
+      <actor>Amita Nangia</actor>
+      <actor>Tej Sapru</actor>
+      <actor>Shubha</actor>
+      <actor>Neelam Mehra</actor>
     </credits>
     <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9FAD128ABF405A16F59063D6EEC4600BBECEB1EDL.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C52312F003D5F13473A7F7DE9282BFE7BCC586597.jpg"/>
   </programme>
-  <programme start="20240328030000 +0530" stop="20240328060000 +0530" channel="SonyWah.in">
+  <programme start="20240328153300 +0530" stop="20240328163300 +0530" channel="SonyWah.in">
+    <title lang="en">CID</title>
+    <desc lang="en">When a dead body is found in Harish's car, the CID team attempts to interrogate and find some clues. Meanwhile, Dr Salunkhe uses his forensic expertise to find unravel the murder mystery.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1310.</episode-num>
+  </programme>
+  <programme start="20240328163300 +0530" stop="20240328174900 +0530" channel="SonyWah.in">
+    <title lang="en">CID</title>
+    <desc lang="en">A motorbike race turns into a sour rivalry between two riders even in real life which results in unpleasant consequences. Later, the CID team is called in to investigate the matter.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1311.</episode-num>
+  </programme>
+  <programme start="20240328174900 +0530" stop="20240328185600 +0530" channel="SonyWah.in">
+    <title lang="en">CID</title>
+    <desc lang="en">The wife and daughter of a man get worried when he does not return home for two long days. Later, they get petrified on seeing a decapitated head inside their refrigerator.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1312.</episode-num>
+  </programme>
+  <programme start="20240328185600 +0530" stop="20240328195600 +0530" channel="SonyWah.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Ajeet and Priya decide to get married at Ajeet's grandfather's farmhouse that has been shut for the last 40 years. Soon, paranormal activities take place in the farmhouse leaving everyone worried.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1313.</episode-num>
+  </programme>
+  <programme start="20240328195600 +0530" stop="20240328205600 +0530" channel="SonyWah.in">
+    <title lang="en">CID</title>
+    <desc lang="en">When a young man is murdered in a hospital, the CID team is unable to find any leads while investigating. Later, they learn about a boy getting killed in a swimming pool.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1314.</episode-num>
+  </programme>
+  <programme start="20240328205600 +0530" stop="20240328213900 +0530" channel="SonyWah.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Shera, a criminal, feels intense pain in his head and collapses just before revealing secrets about the underworld and an assault. Soon, the CID team is called in to investigate the matter.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1315.</episode-num>
+  </programme>
+  <programme start="20240328213900 +0530" stop="20240328224800 +0530" channel="SonyWah.in">
+    <title lang="en">CID</title>
+    <desc lang="en">When a dead body is found in a dustbin of a restaurant, the CID team is informed about it. Soon, the team begin their investigation and find some interesting clues.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1316.</episode-num>
+  </programme>
+  <programme start="20240328224800 +0530" stop="20240328235500 +0530" channel="SonyWah.in">
+    <title lang="en">CID</title>
+    <desc lang="en">On finding a skeleton in a jungle, the children inform the CID team about it. Later, Abjieet notices a yellow colour sap and finds a mosquito that has been fossilised in it.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1317.</episode-num>
+  </programme>
+  <programme start="20240328235500 +0530" stop="20240329015900 +0530" channel="SonyWah.in">
+    <title lang="en">Poster Boys</title>
+    <desc lang="en">Three men land in a mess when their pictures get published in a vasectomy advertisement. They rebel against the system after their friends and relatives humiliate them.</desc>
+    <credits>
+      <actor>Sunny Deol</actor>
+      <actor>Bobby Deol</actor>
+      <actor>Shreyas Talpade</actor>
+      <actor>Sonali Kulkarni</actor>
+      <actor>Samiksha Bhatnagar</actor>
+      <actor>Tripti Dimri</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/680697DFAF157D30B6B8BB2DFB0F9D5924E80460X.jpg"/>
+  </programme>
+  <programme start="20240329030000 +0530" stop="20240329060000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328060000 +0530" stop="20240328090000 +0530" channel="SonyWah.in">
+  <programme start="20240329060000 +0530" stop="20240329090000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328090000 +0530" stop="20240328120000 +0530" channel="SonyWah.in">
+  <programme start="20240329090000 +0530" stop="20240329120000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328120000 +0530" stop="20240328150000 +0530" channel="SonyWah.in">
+  <programme start="20240329120000 +0530" stop="20240329150000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328150000 +0530" stop="20240328180000 +0530" channel="SonyWah.in">
+  <programme start="20240329150000 +0530" stop="20240329180000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328180000 +0530" stop="20240328210000 +0530" channel="SonyWah.in">
+  <programme start="20240329180000 +0530" stop="20240329210000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328210000 +0530" stop="20240329030000 +0530" channel="SonyWah.in">
+  <programme start="20240329210000 +0530" stop="20240330030000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

@@ -3,158 +3,166 @@
   <channel id="SONYMAX2.in">
     <display-name lang="en">SONY MAX 2</display-name>
   </channel>
-  <programme start="20240327014900 +0530" stop="20240327040000 +0530" channel="SONYMAX2.in">
-    <title lang="en">Soch</title>
-    <desc lang="en">Raj, a famous actor, has a wife, Madhurika, who is insecure and overly possessive of him. Later, Madhurika's insecurity knows no bounds as a co-star starts showing interest in Raj.</desc>
+  <programme start="20240328015900 +0530" stop="20240328035000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Ab Tak Chhappan</title>
+    <desc lang="en">Sadhu, an encounter specialist, is armed with a personal vendetta to find and kill the gangsters responsible for his wife's death.</desc>
     <credits>
-      <actor>Sanjay Kapoor</actor>
-      <actor>Raveena Tandon</actor>
-      <actor>Aditi Gowitrikar</actor>
-      <actor>Arbaaz Khan</actor>
-      <actor>Danny Denzongpa</actor>
+      <actor>Nana Patekar</actor>
+      <actor>Yashpal Sharma</actor>
+      <actor>Prasad Purandhare</actor>
+      <actor>Nakul Vaid</actor>
+      <actor>Kunal Vijaykar</actor>
+      <actor>Jeeva</actor>
     </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA5694807932CEC2678EDF3D091230045EA4490EY.jpg"/>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2E58F4DD5F185A501D1CE13A2AF6BB22A85D908Q.jpg"/>
   </programme>
-  <programme start="20240327040000 +0530" stop="20240327045300 +0530" channel="SONYMAX2.in">
+  <programme start="20240328035000 +0530" stop="20240328040000 +0530" channel="SONYMAX2.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
-  <programme start="20240327045300 +0530" stop="20240327074300 +0530" channel="SONYMAX2.in">
-    <title lang="en">Main Awara Hoon</title>
-    <desc lang="en">Two brothers, Sanjeev, a vagabond, and Rajeev, an educated man, cannot get along and finally sever ties. However, their paths cross again when they both fall in love with Archana.</desc>
+  <programme start="20240328040000 +0530" stop="20240328044500 +0530" channel="SONYMAX2.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240328044500 +0530" stop="20240328072200 +0530" channel="SONYMAX2.in">
+    <title lang="en">Josh</title>
+    <desc lang="en">Max, who lives with his twin sister Shirley in Goa, is enraged when he finds out that she has fallen in love with Rahul, his bitter rival Prakash's younger brother.</desc>
     <credits>
-      <actor>Sanjay Dutt</actor>
-      <actor>Raj Babbar</actor>
-      <actor>Jaya Prada</actor>
-      <actor>Rati Agnihotri</actor>
-      <actor>Shubha Khote</actor>
-      <actor>Shakti Kapoor</actor>
+      <actor>Shah Rukh Khan</actor>
+      <actor>Aishwarya Rai Bachchan</actor>
+      <actor>Chandrachur Singh</actor>
+      <actor>Sharad Kapoor</actor>
+      <actor>Priya Gill</actor>
+      <actor>Sharat Saxena</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6D86BE1BC63C0C3BB460C8DB62B5875A655C7C05.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB3C5B18529FA0807A8FA6522AA94523F98DD00CH.jpg"/>
   </programme>
-  <programme start="20240327074300 +0530" stop="20240327112300 +0530" channel="SONYMAX2.in">
-    <title lang="en">Ek Duuje Ke Liye</title>
-    <desc lang="en">Vasu and Sapna are madly in love but their parents oppose the idea due to cultural differences. Later, they separate the lovers and also create misunderstandings so that the two may never unite.</desc>
+  <programme start="20240328072200 +0530" stop="20240328100100 +0530" channel="SONYMAX2.in">
+    <title lang="en">Saajan Chale Sasural</title>
+    <desc lang="en">After Shyamsunder presumes that his first wife Pooja died in a flood, he marries Divya. When he learns that Pooja is alive, he has to juggle between his wives, keeping both his marriages a secret.</desc>
     <credits>
-      <actor>Kamal Haasan</actor>
-      <actor>Rati Agnihotri</actor>
-      <actor>Madhavi</actor>
-      <actor>Rakesh Bedi</actor>
-      <actor>Poornam Vishwanathan</actor>
-      <actor>Shubha Khote</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF8B6DF8B76B9EF862D958D8F19839452F45D7C3X.jpg"/>
-  </programme>
-  <programme start="20240327112300 +0530" stop="20240327141400 +0530" channel="SONYMAX2.in">
-    <title lang="en">Heyy Babyy</title>
-    <desc lang="en">Three compulsive womanisers find a baby left at their doorstep. However, chaos ensues as they try to contact their former girlfriends to determine who is the father amongst them.</desc>
-    <credits>
-      <actor>Akshay Kumar</actor>
-      <actor>Fardeen Khan</actor>
-      <actor>Riteish Deshmukh</actor>
-      <actor>Vidya Balan</actor>
-      <actor>Boman Irani</actor>
-      <actor>Kim Sharma</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C660D0989B5C5B2C1A6B825215E3AB425A90F27AU.jpg"/>
-  </programme>
-  <programme start="20240327141400 +0530" stop="20240327165300 +0530" channel="SONYMAX2.in">
-    <title lang="en">Hichki</title>
-    <desc lang="en">When a woman with Tourette syndrome lands a teaching job in an elite school, she turns her weakness into her biggest strength.</desc>
-    <credits>
-      <actor>Rani Mukerji</actor>
-      <actor>Shivkumar Subramaniam</actor>
-      <actor>Neeraj Kabi</actor>
-      <actor>Supriya Pilgaonkar</actor>
-      <actor>Sachin Pilgaonkar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C5F2C5B0286BF9518D988F897624D5E7BE359CD6.jpg"/>
-  </programme>
-  <programme start="20240327165300 +0530" stop="20240327195400 +0530" channel="SONYMAX2.in">
-    <title lang="en">Andaz</title>
-    <desc lang="en">Jaya has a crush on her married teacher and befriends his wife. When Jaya's father dies, the teacher's wife asks her to live with them.</desc>
-    <credits>
-      <actor>Anil Kapoor</actor>
-      <actor>Juhi Chawla</actor>
+      <actor>Govinda</actor>
       <actor>Karisma Kapoor</actor>
-      <actor>Raj Babbar</actor>
+      <actor>Tabu</actor>
       <actor>Kader Khan</actor>
       <actor>Shakti Kapoor</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/348250E4E6BE46104FE01B4F21AB0D125FA04A68X.jpg"/>
+  </programme>
+  <programme start="20240328100100 +0530" stop="20240328125300 +0530" channel="SONYMAX2.in">
+    <title lang="en">Sui Dhaaga: Made in India</title>
+    <desc lang="en">Mauji, along with his wife, Mamta, decides to start his own garment business. To make a name for himself, he enlists the help of various artisans and participates in a renowned fashion competition.</desc>
+    <credits>
+      <actor>Varun Dhawan</actor>
+      <actor>Anushka Sharma</actor>
+      <actor>Raghubir Yadav</actor>
+      <actor>Yamini Das</actor>
+      <actor>Sawan Tank</actor>
     </credits>
     <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50C903F358313027C90082E7660F54470C4C2CD34.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B1A5D56AA457DF589CEE408C8933FF1B55B781B2.jpg"/>
   </programme>
-  <programme start="20240327195400 +0530" stop="20240327233400 +0530" channel="SONYMAX2.in">
-    <title lang="en">3 Idiots</title>
-    <desc lang="en">In college, Farhan and Raju form a great bond with Rancho due to his refreshing outlook. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive.</desc>
+  <programme start="20240328125300 +0530" stop="20240328152700 +0530" channel="SONYMAX2.in">
+    <title lang="en">Rang</title>
+    <desc lang="en">A father of two girls finds himself in a difficult situation when he finds out that the man Pooja admires is in love with his other daughter, Kajol.</desc>
     <credits>
-      <actor>Aamir Khan</actor>
-      <actor>R Madhavan</actor>
-      <actor>Sharman Joshi</actor>
-      <actor>Kareena Kapoor</actor>
-      <actor>Boman Irani</actor>
-      <actor>Omi Vaidya</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E5B8267AFB0C6636504EE9C6F4F42612D5B41DCFE.jpg"/>
-  </programme>
-  <programme start="20240327233400 +0530" stop="20240328015900 +0530" channel="SONYMAX2.in">
-    <title lang="en">Chauraha</title>
-    <desc lang="en">A young orphan is wrongly accused of murdering his teacher and jailed for the act. Years later, when he is released, he spots his teacher's actual murderer and decides to teach him a harsh lesson.</desc>
-    <credits>
+      <actor>Kamal Sadanah</actor>
+      <actor>Divya Bharti</actor>
+      <actor>Ayesha Jhulka</actor>
       <actor>Jeetendra</actor>
-      <actor>Jackie Shroff</actor>
-      <actor>Jaya Prada</actor>
-      <actor>Ashwini Bhave</actor>
-      <actor>Shakti Kapoor</actor>
+      <actor>Amrita Singh</actor>
+      <actor>Bindu</actor>
     </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8F7D1D72DBA089AF6343660B3F04CA116CA907EAU.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69FE86437D5FF97F2EEE6B4402017F20756F0BF6K.jpg"/>
   </programme>
-  <programme start="20240328030000 +0530" stop="20240328060000 +0530" channel="SONYMAX2.in">
+  <programme start="20240328152700 +0530" stop="20240328185600 +0530" channel="SONYMAX2.in">
+    <title lang="en">ABCD 2</title>
+    <desc lang="en">Suresh and Vinnie are childhood friends who are passionate about dancing. They form a dance group but face many hurdles to participate in the Las Vegas dancing competition.</desc>
+    <credits>
+      <actor>Prabhu Deva</actor>
+      <actor>Varun Dhawan</actor>
+      <actor>Shraddha Kapoor</actor>
+      <actor>Sushant Pujari</actor>
+      <actor>Lauren Gottlieb</actor>
+      <actor>Raghav Juyal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85CE31A50FA5802381B9FDAD56DA1DB52B5E0B2BA.jpg"/>
+  </programme>
+  <programme start="20240328185600 +0530" stop="20240328222500 +0530" channel="SONYMAX2.in">
+    <title lang="en">Panipat</title>
+    <desc lang="en">When Ahmad Shah Abdali, the king of Afghanistan, announces war, the army chief of the Marathas, Sadashivrao Bhau, gets ready for the battle by overcoming several obstacles.</desc>
+    <credits>
+      <actor>Arjun Kapoor</actor>
+      <actor>Sanjay Dutt</actor>
+      <actor>Kriti Sanon</actor>
+      <actor>Mantra</actor>
+      <actor>Mohnish Bahl</actor>
+      <actor>Padmini Kolhapure</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6965EA6B900B5C8D5A59315939A2AA42D4D1A1ED2.jpg"/>
+  </programme>
+  <programme start="20240328222500 +0530" stop="20240329005300 +0530" channel="SONYMAX2.in">
+    <title lang="en">Izzat Ki Roti</title>
+    <desc lang="en">Vijay, the owner of a trucking service, finds out that Veeru, a truck driver, is doing illegal smuggling. Veeru is sent to jail but returns to exact his revenge on Vijay's sons.</desc>
+    <credits>
+      <actor>Sunny Deol</actor>
+      <actor>Rishi Kapoor</actor>
+      <actor>Juhi Chawla</actor>
+      <actor>Farha Naaz</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Kulbhushan Kharbanda</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DCF6FBE4E6572B2C13C479D32A4731CAE97661AC7.jpg"/>
+  </programme>
+  <programme start="20240329030000 +0530" stop="20240329060000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328060000 +0530" stop="20240328090000 +0530" channel="SONYMAX2.in">
+  <programme start="20240329060000 +0530" stop="20240329090000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328090000 +0530" stop="20240328120000 +0530" channel="SONYMAX2.in">
+  <programme start="20240329090000 +0530" stop="20240329120000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328120000 +0530" stop="20240328150000 +0530" channel="SONYMAX2.in">
+  <programme start="20240329120000 +0530" stop="20240329150000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328150000 +0530" stop="20240328180000 +0530" channel="SONYMAX2.in">
+  <programme start="20240329150000 +0530" stop="20240329180000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328180000 +0530" stop="20240328210000 +0530" channel="SONYMAX2.in">
+  <programme start="20240329180000 +0530" stop="20240329210000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328210000 +0530" stop="20240329030000 +0530" channel="SONYMAX2.in">
+  <programme start="20240329210000 +0530" stop="20240330030000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

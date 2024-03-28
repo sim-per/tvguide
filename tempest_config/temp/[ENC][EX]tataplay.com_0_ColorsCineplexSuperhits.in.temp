@@ -3,154 +3,35 @@
   <channel id="ColorsCineplexSuperhits.in">
     <display-name lang="en">Colors Cineplex Superhits</display-name>
   </channel>
-  <programme start="20240327014500 +0530" stop="20240327040800 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Jung Ka Elaan</title>
-    <desc lang="en">Eshwar, an urban dweller, returns to his village only to face the wrath of a group of ruthless goons. He is determined to fight against those criminals and reinstate the peace in his village.</desc>
+  <programme start="20240328013800 +0530" stop="20240328042700 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Mamangam</title>
+    <desc lang="en">During the Mamangam fair, a new legend is born when a 12-year-old boy, Chandroth Valiya Panikkar, survives a battle with the mighty army of Zamorin.</desc>
     <credits>
-      <actor>Darshan</actor>
-      <actor>Rakshitha</actor>
-      <actor>Radhika</actor>
-      <actor>Diganth Manchale</actor>
-      <actor>Sadhu Kokila</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/71E70338A80C9B4800923D0470D6D7E52B43F296T.jpg"/>
-  </programme>
-  <programme start="20240327040800 +0530" stop="20240327070000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Zindagi Ek Sangharsh</title>
-    <desc lang="en">When the lives of five individuals living in different places intersect, it results in the transformation of their persona and purpose.</desc>
-    <credits>
-      <actor>Silambarasan</actor>
-      <actor>Bharath</actor>
-      <actor>Anushka Shetty</actor>
-      <actor>Prakash Raj</actor>
-      <actor>Saranya</actor>
-      <actor>Sonia Agarwal</actor>
+      <actor>Mammootty</actor>
+      <actor>Unni Mukundan</actor>
+      <actor>Achuthan B Nair</actor>
+      <actor>Siddique</actor>
+      <actor>Prachi Tehlan</actor>
+      <actor>Suresh Krishna</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5C7CA234C4034FDE90C9BA2D710EF15642454A6M.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A563DFE1851B4D7EE7B9D8943B99E642B39230D0Y.jpg"/>
   </programme>
-  <programme start="20240327070000 +0530" stop="20240327075000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Shiva - Safari Through Stormy Jungle</title>
-    <desc lang="en">While on a safari trip, Udi accidentally awakens a monster who was on a destruction spree before he was subdued. Shiva and the team must pacify the monster to stop him from creating havoc again.</desc>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/362EFEFEAB204C339BB5909BCBF7146CF61E68AAT.jpg"/>
-  </programme>
-  <programme start="20240327075000 +0530" stop="20240327094800 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Motu Patlu VS Robo Kids</title>
-    <desc lang="en">Two friends, Motu and Patlu, face a new hurdle after being bested by three precocious children. However, Motu vows to avenge his pride.</desc>
+  <programme start="20240328042700 +0530" stop="20240328060800 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Edakkad Battalion 06</title>
+    <desc lang="en">Captain Shafeek Mohammed heads to his hometown, Edakkad, on a holiday. However, he is confronted by a group of drug dealers and peddlers who pose a serious threat to the ones close to him.</desc>
     <credits>
-      <actor>Saurav Chakraborty</actor>
-      <actor>Bharkha Saxena</actor>
-      <actor>Anil Dutt</actor>
-      <actor>Sonal Kaushal</actor>
-      <actor>Swapnil Kumari</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D32B234710DDD3D8289D1EF91F73A6F57DE3D4AN.jpg"/>
-  </programme>
-  <programme start="20240327094800 +0530" stop="20240327111600 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Motu Patlu Aur Khazaane Ki Race</title>
-    <desc lang="en">Motu and Patlu embark on an adventurous journey to Christmas Mountain to retrieve a hidden treasure that an evil villain has begun to covet.</desc>
-    <credits>
-      <actor>Saurav Chakraborty</actor>
-      <actor>Aditya Raj</actor>
-      <actor>Manish Bhuvan</actor>
-      <actor>Tanmay Ranjan</actor>
-      <actor>Mahendra Bhatnagar</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB67BD1F90317D8C6E98D98E53090D33FFE07F86Q.jpg"/>
-  </programme>
-  <programme start="20240327111600 +0530" stop="20240327135700 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">LIE</title>
-    <desc lang="en">Sathyam and Chaitra meet unexpectedly and decide to only lie to each other. Soon, after they fall in love, Sathyam encounters Padmanabham, a criminal on the run from the Indian police.</desc>
-    <credits>
-      <actor>Nithiin</actor>
-      <actor>Megha Akash</actor>
-      <actor>Arjun Sarja</actor>
-      <actor>Sriram</actor>
-      <actor>Ravi Kishan</actor>
-      <actor>Ajay</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A570C7BFD49C1C759D34C3DFB07520A7A5C7FD44C.jpg"/>
-  </programme>
-  <programme start="20240327135700 +0530" stop="20240327162200 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Seetharama Kalyana</title>
-    <desc lang="en">Arya, a righteous man, falls in love with a small-town woman named Geetha, unaware of the obstacles that lie ahead for both of them.</desc>
-    <credits>
-      <actor>Nikhil Kumar</actor>
-      <actor>Rachita Ram</actor>
-      <actor>R Sarathkumar</actor>
-      <actor>P Ravishankar</actor>
-      <actor>Madhoo</actor>
-      <actor>Sanjay Kapoor</actor>
+      <actor>Tovino Thomas</actor>
+      <actor>Samyuktha Menon</actor>
+      <actor>Rekha</actor>
+      <actor>Shalu Rahim</actor>
+      <actor>Shankar Induchoodan</actor>
+      <actor>Vishnu Purushan</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/971A4620D35D276E1B03C5DE454E9A5788196FDF0.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E62A2B81D76794AD4825EA72464F01F7FDE04386A.jpg"/>
   </programme>
-  <programme start="20240327162200 +0530" stop="20240327185200 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Madhagaja</title>
-    <desc lang="en">The wife of one of two rival dons sends her son away to a safe land in order to protect him from their conflict. However, much to her disappointment, her child returns to the world of violence.</desc>
-    <credits>
-      <actor>Srimurali</actor>
-      <actor>Ashika Ranganath</actor>
-      <actor>Jagapathi Babu</actor>
-      <actor>Devayani</actor>
-      <actor>Chikkanna</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EEC0F72E250B90178B84E9027A804339722B4A5X.jpg"/>
-  </programme>
-  <programme start="20240327185200 +0530" stop="20240327205700 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Power Unlimited 2</title>
-    <desc lang="en">A businessman devoted to his family decides to take matters into his own hands after his sister witnesses a murder. Soon, secrets involving his past life come to light.</desc>
-    <credits>
-      <actor>Ravi Teja</actor>
-      <actor>Raashi Khanna</actor>
-      <actor>Seerat Kapoor</actor>
-      <actor>Freddy Daruwala</actor>
-      <actor>Murali Sharma</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D60A701622DECD0447381DDF454A8ABEAD51DCE76.jpg"/>
-  </programme>
-  <programme start="20240327205700 +0530" stop="20240327232900 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">America VS India</title>
-    <desc lang="en">A selfish businessman is forced to visit his grandfather in India for monetary help. After he lies about being married, he lands in trouble when his grandfather insists on seeing his wife.</desc>
-    <credits>
-      <actor>Nagarjuna Akkineni</actor>
-      <actor>Nayanthara</actor>
-      <actor>Meera Chopra</actor>
-      <actor>K Viswanath</actor>
-      <actor>Ashish Vidyarthi</actor>
-      <actor>Brahmanandam</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44BBF5478124568895917A51C23798062AD204A3L.jpg"/>
-  </programme>
-  <programme start="20240327232900 +0530" stop="20240328013800 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Super Ranga</title>
-    <desc lang="en">Ranga, a young boy seeks thrills in life. He falls in love with Swathi but still misses the thrill he wants; Swathi then marries a police officer and he takes on a secret avatar to deal with it.</desc>
-    <credits>
-      <actor>Upendra Rao</actor>
-      <actor>Kriti Kharbanda</actor>
-      <actor>Sadhu Kokila</actor>
-      <actor>Priyanka Rao</actor>
-      <actor>Raghu Mukherjee</actor>
-      <actor>Hema Chaudhary</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B90E3B87837B09563C5C64019C3A9B9550A7FB2F4.jpg"/>
-  </programme>
-  <programme start="20240328030000 +0530" stop="20240328060000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240328060000 +0530" stop="20240328090000 +0530" channel="ColorsCineplexSuperhits.in">
+  <programme start="20240328060800 +0530" stop="20240328090000 +0530" channel="ColorsCineplexSuperhits.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
@@ -181,6 +62,48 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
   <programme start="20240328210000 +0530" stop="20240329030000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240329030000 +0530" stop="20240329060000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240329060000 +0530" stop="20240329090000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240329090000 +0530" stop="20240329120000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240329120000 +0530" stop="20240329150000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240329150000 +0530" stop="20240329180000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240329180000 +0530" stop="20240329210000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240329210000 +0530" stop="20240330030000 +0530" channel="ColorsCineplexSuperhits.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

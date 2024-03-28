@@ -3,153 +3,167 @@
   <channel id="ColorsCineplexBollywood.in">
     <display-name lang="en">Colors Cineplex Bollywood</display-name>
   </channel>
-  <programme start="20240327015800 +0530" stop="20240327042000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Kidnap</title>
-    <desc lang="en">Out to seek revenge against a businessman named Raina for falsely accusing him and getting him arrested, Kabir kidnaps his daughter Sonia.</desc>
+  <programme start="20240328003500 +0530" stop="20240328030500 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Judaai</title>
+    <desc lang="en">To honour his late father's will, Shashikant and Gauri get married and soon have a son. However, marital problems arise when she starts suspecting him of having an affair with his ex-girlfriend.</desc>
     <credits>
-      <actor>Sanjay Dutt</actor>
-      <actor>Minissha Lamba</actor>
-      <actor>Imran Khan</actor>
-      <actor>Vidya Malvade</actor>
-      <actor>Rahul Dev</actor>
+      <actor>Jeetendra</actor>
+      <actor>Rekha</actor>
+      <actor>Sachin</actor>
+      <actor>Arun Govil</actor>
+      <actor>Ashok Kumar</actor>
+      <actor>Deven Varma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2826C05F24277FCBC123D008FDE171BB3B187454B.jpg"/>
+  </programme>
+  <programme start="20240328030500 +0530" stop="20240328054800 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Julie</title>
+    <desc lang="en">A girl becomes pregnant with the child of her best friend's brother. Years later, when he meets her and their baby, he decides to marry her despite objections from his family.</desc>
+    <credits>
+      <actor>Laxmi Narayan</actor>
+      <actor>Vikram</actor>
+      <actor>Nadira</actor>
+      <actor>Om Prakash</actor>
+      <actor>Rita Bhaduri</actor>
+      <actor>Utpal Dutt</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95325F8FC45CADCD0523E6643B7A57B8C1345F58X.jpg"/>
+  </programme>
+  <programme start="20240328054800 +0530" stop="20240328081000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Jai Kishen</title>
+    <desc lang="en">Jai, a man who is visually impaired, discovers that he has a twin brother, Kishen, who was separated from him on the day his father was murdered. Thus, begins his quest for revenge with his sibling.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Ayesha Jhulka</actor>
+      <actor>Chandni</actor>
       <actor>Reema Lagoo</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1CF30BD12446D069FAA80FFA8032329F059DB2A98.jpg"/>
-  </programme>
-  <programme start="20240327042000 +0530" stop="20240327061500 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Vaada Raha.. I Promise</title>
-    <desc lang="en">Duke Chawla leads a perfect life with a good job and a beautiful girlfriend. However, when he meets with an accident, his life changes forever.</desc>
-    <credits>
-      <actor>Bobby Deol</actor>
-      <actor>Kangana Ranaut</actor>
-      <actor>Dwij Yadav</actor>
-      <actor>Mohnish Behl</actor>
-      <actor>Atul Agnihotri</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/415830CC95717598D8AAAAF0E309423C94C3772BF.jpg"/>
-  </programme>
-  <programme start="20240327061500 +0530" stop="20240327090300 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Bade Dilwala</title>
-    <desc lang="en">A police officer promises to split his lottery winnings with a waitress in place of a tip. However, his greedy wife tries to claim the entire reward for herself.</desc>
-    <credits>
-      <actor>Sunil Shetty</actor>
-      <actor>Priya Gill</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Archana Puran Singh</actor>
-      <actor>Satish Kaushik</actor>
-      <actor>Ranjeet</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3EAD34BAEC2F9D7A002AE3A052E1CBD129268B8B.jpg"/>
-  </programme>
-  <programme start="20240327090300 +0530" stop="20240327122600 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Kya Kehna</title>
-    <desc lang="en">Priya falls in love with Rahul, a womaniser, who jilts her after she gets pregnant. However, when she is ostracised by everyone, Ajay, her best friend, supports and helps her.</desc>
-    <credits>
-      <actor>Preity Zinta</actor>
-      <actor>Saif Ali Khan</actor>
-      <actor>Chandrachur Singh</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Farida Jalal</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4654406C6217F87153E091451CB586063A22303.jpg"/>
-  </programme>
-  <programme start="20240327122600 +0530" stop="20240327154000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Chennai Express</title>
-    <desc lang="en">Rahul, a young man, sets out to immerse his late grandfather's ashes at Rameshwaram. However, when he helps Meena, a runaway bride, board a train, he has to face the ire of her criminal family.</desc>
-    <credits>
-      <actor>Deepika Padukone</actor>
-      <actor>Shah Rukh Khan</actor>
-      <actor>Nikitin Dheer</actor>
-      <actor>Satyaraj</actor>
-      <actor>Mukesh Tiwari</actor>
-      <actor>Kamini Kaushal</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EC9A7DBFD2E76258B7144CB86B26659C6067A042.jpg"/>
-  </programme>
-  <programme start="20240327154000 +0530" stop="20240327185100 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Gumrah</title>
-    <desc lang="en">Seeing Roshni's talent for singing, Rahul gives her a break and they eventually fall in love. On a foreign trip, she is arrested for possession of cocaine, not knowing that it is all Rahul's doing.</desc>
-    <credits>
-      <actor>Sridevi</actor>
-      <actor>Sanjay Dutt</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Rahul Roy</actor>
-      <actor>Soni Razdan</actor>
-      <actor>Reema Lagoo</actor>
+      <actor>Arun Bakshi</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF40D8DC6FF88DE8E7C3BD21CF8B450B14BCF7336.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/360E95CB11CA6BA67452FCA2B6F03E4EB7B2EA37U.jpg"/>
   </programme>
-  <programme start="20240327185100 +0530" stop="20240327214000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Golmaal 3</title>
-    <desc lang="en">Cupid strikes when Pritam, a single father, comes across his college sweetheart, Geeta, in Goa. However, when their respective children go at war with each other, the two find it difficult to reunite.</desc>
+  <programme start="20240328081000 +0530" stop="20240328114100 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Shikari: The Hunter</title>
+    <desc lang="en">Shankar dreams of working with Natasha in a circus. His life takes a turn when he receives an offer from a circus in Russia where Natasha is also employed.</desc>
     <credits>
-      <actor>Mithun Chakraborty</actor>
-      <actor>Ajay Devgn</actor>
-      <actor>Arshad Warsi</actor>
-      <actor>Tusshar Kapoor</actor>
-      <actor>Kunal Khemu</actor>
-      <actor>Shreyas Talpade</actor>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Naseeruddin Shah</actor>
+      <actor>Irina Kushnareva</actor>
+      <actor>Varsha Usgaonkar</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Anjana Mumtaz</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2035307961DF63713B861B66FC76CB40F3D19EA5.jpg"/>
+  </programme>
+  <programme start="20240328114100 +0530" stop="20240328155000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Jai Vikraanta</title>
+    <desc lang="en">When a poor, honest farmer from rural India is killed by a greedy landlord, his son, Vikraanta, takes a vow to avenge his murder.</desc>
+    <credits>
+      <actor>Sanjay Dutt</actor>
+      <actor>Reema Laagu</actor>
+      <actor>Zeba Bakhtiar</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Mukesh Khanna</actor>
+      <actor>Shahbaaz Khan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3CC6C552A9DA70494649E93E715CAC9EABF50507.jpg"/>
+  </programme>
+  <programme start="20240328155000 +0530" stop="20240328185900 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Balwaan</title>
+    <desc lang="en">Arjun, an honest officer, crosses paths with Bhaiji, a gangster. Bhaiji frames him for murder and kills his family, but Arjun escapes from jail to avenge his family's death and settle scores with him.</desc>
+    <credits>
+      <actor>Sunil Shetty</actor>
+      <actor>Divya Bharti</actor>
+      <actor>Shraddha Verma</actor>
+      <actor>Anjana Mumtaz</actor>
+      <actor>Danny Denzongpa</actor>
+      <actor>Ishrat Ali</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0BE3894097D86EABF63E5E3C5FF87585CAB138881.jpg"/>
+  </programme>
+  <programme start="20240328185900 +0530" stop="20240328213700 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Hello Brother</title>
+    <desc lang="en">Vishal, a policeman shot by tycoon Khanna, is saved by a heart transplant. He finds himself working with the spirit of his donor, Hero, to investigate the businessman's drug racket and seek revenge.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Arbaaz Khan</actor>
+      <actor>Rani Mukerji</actor>
+      <actor>Shakti Kapoor</actor>
+      <actor>Johnny Lever</actor>
+      <actor>Razak Khan</actor>
     </credits>
     <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63F7BF96C3A127DE04179A0DA287F50A050A7BDAF.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9C51C04D24A79DC5FF3E515045E4F34A5D0A792.jpg"/>
   </programme>
-  <programme start="20240327214000 +0530" stop="20240328003500 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Mohabbat</title>
-    <desc lang="en">When Shekhar falls for Roopa, he approaches her father with his parents. However, when his stepmother asks Roopa's father for dowry, he vows to marry his daughter elsewhere.</desc>
+  <programme start="20240328213700 +0530" stop="20240328234800 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Raghuveer</title>
+    <desc lang="en">Ravi, an honest poilceman, leads the bodyguard team of the chief minister. When his college-going brother, Raghuveer, is arrested and jailed, Ravi breaks all ties with him out of embarrassment.</desc>
     <credits>
-      <actor>Anil Kapoor</actor>
-      <actor>Vijayta Pandit</actor>
-      <actor>Amrish Puri</actor>
-      <actor>Amjad Khan</actor>
-      <actor>Shakti Kapoor</actor>
-      <actor>Shubha Khote</actor>
+      <actor>Sunil Shetty</actor>
+      <actor>Shilpa Shirodkar</actor>
+      <actor>Suresh Oberoi</actor>
+      <actor>Sudha Chandran</actor>
+      <actor>Mohnish Bahl</actor>
+      <actor>Aruna Irani</actor>
     </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D94B510FE658646DC820DFDF6B3073F98E4F321BE.jpg"/>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54E9FEF41DC72EF28FB8B02ED06BA5BE676CDFDAQ.jpg"/>
   </programme>
-  <programme start="20240328030000 +0530" stop="20240328060000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240328234800 +0530" stop="20240329022600 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Duplicate</title>
+    <desc lang="en">Manu, a criminal, finds his doppelganger in a budding chef, Bablu, and uses this fact to his advantage. Later, Manu tries to kill the chef so that he can take over his life and escape the law.</desc>
+    <credits>
+      <actor>Shah Rukh Khan</actor>
+      <actor>Juhi Chawla</actor>
+      <actor>Mohnish Behl</actor>
+      <actor>Sonali Bendre</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A58695ADD4426A6DF2D59B774A8D54E736A968EB1.jpg"/>
+  </programme>
+  <programme start="20240329030000 +0530" stop="20240329060000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328060000 +0530" stop="20240328090000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240329060000 +0530" stop="20240329090000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328090000 +0530" stop="20240328120000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240329090000 +0530" stop="20240329120000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328120000 +0530" stop="20240328150000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240329120000 +0530" stop="20240329150000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328150000 +0530" stop="20240328180000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240329150000 +0530" stop="20240329180000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328180000 +0530" stop="20240328210000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240329180000 +0530" stop="20240329210000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328210000 +0530" stop="20240329030000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240329210000 +0530" stop="20240330030000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

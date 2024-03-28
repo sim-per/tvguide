@@ -4,226 +4,6 @@
     <display-name lang="en">TNT Sports 3</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb5032.png"/>
   </channel>
-  <programme start="20240327023000 +0530" stop="20240327050000 +0530" channel="TNTSports3.uk">
-    <title lang="en">WWE Monday Night Raw</title>
-    <desc lang="en">CM Punk returns to WWE Raw at the Allstate Arena in his hometown of Chicago. And, Jey Uso takes on Shinsuke Nakamura in the main event.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8b33b127-6544-334c-9781-0d4988f550a2/16-9"/>
-    <episode-num system="xmltv_ns">31.12.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240327050000 +0530" stop="20240327051500 +0530" channel="TNTSports3.uk">
-    <title lang="en">MotoGP Rewind: Portugal 2024</title>
-    <desc lang="en">A look back at the best of the action from the MotoGP Grand Prix of Portugal.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cc5465af-ae90-39b4-aa10-df6737673abe/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327051500 +0530" stop="20240327081500 +0530" channel="TNTSports3.uk">
-    <title lang="en">UFC Fight Night: Ribas v Namajunas</title>
-    <desc lang="en">Action from UFC Fight Night in Las Vegas as flyweights Amanda Ribas and Rose Namajunas face-off in the main event.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b456d913-614a-33e4-81e6-31e6d3866a0e/16-9"/>
-    <episode-num system="xmltv_ns">2023.17.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327081500 +0530" stop="20240327091500 +0530" channel="TNTSports3.uk">
-    <title lang="en">EuroCup Basketball</title>
-    <desc lang="en">Action from game one of the EuroCup Basketball semi-finals as Paris Basketball face London Lions.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/495b1731-5a97-315e-8db8-4a208e80f509/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240327091500 +0530" stop="20240327101500 +0530" channel="TNTSports3.uk">
-    <title lang="en">Fishing: On The Bank - 2024</title>
-    <desc lang="en">Fishing guide Julian Chidgey and Rob Hughes try to catch pike on the Royalty Fishery. And, match angler Nick Speed gives his expert tips on how to fish with bread.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Fishing</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c1dde707-311a-35f9-b152-e44b19d9d7c5/16-9"/>
-    <episode-num system="xmltv_ns">23.4.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327101500 +0530" stop="20240327103000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Badminton Weekly</title>
-    <desc lang="en">The latest episode of Badminton Weekly.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e2cee926-fd2e-38d9-ac60-8edf6411ba9f/16-9"/>
-    <episode-num system="xmltv_ns">2023.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327103000 +0530" stop="20240327113000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Down The Clubhouse: Heartbreak</title>
-    <desc lang="en">The Socially Distant Sports Bar podcast hosts Mike Bubbins, Elis James and Steffan Garrero go Down The Clubhouse to look at some of the most crushing moments in sport.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a34b3529-454e-4db4-a11c-95081ef47b26/16-9"/>
-    <episode-num system="xmltv_ns">2021.7.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327113000 +0530" stop="20240327123000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Champions League Goals Show Retro</title>
-    <desc lang="en">The UEFA Champions League Goals Show Retro looks back at the 2004/05 meeting between Chelsea and Barcelona.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3ad5d8df-e452-4fb4-97df-7ad1d0210ac1/16-9"/>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327123000 +0530" stop="20240327143000 +0530" channel="TNTSports3.uk">
-    <title lang="en">AFL: Adelaide Crows v Geelong Cats</title>
-    <desc lang="en">Action from the Australian Football League as Adelaide Crows take on Geelong Cats at Adelaide Oval.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/56926934-8ef8-3cf5-90ea-03a7313718ae/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327143000 +0530" stop="20240327163000 +0530" channel="TNTSports3.uk">
-    <title lang="en">AFL: North Melbourne v Fremantle</title>
-    <desc lang="en">Action from the Australian Football League as North Melbourne meet Fremantle at Marvel Stadium.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6d054bfa-3fa5-3857-a949-f5d55adaa3d1/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327163000 +0530" stop="20240327183000 +0530" channel="TNTSports3.uk">
-    <title lang="en">AFL: Hawthorn v Melbourne</title>
-    <desc lang="en">Action from the Australian Football League as Hawthorn face-off against Melbourne at Melbourne Cricket Ground.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/33d4af2b-710a-3531-b289-9897c53fb2de/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327183000 +0530" stop="20240327203000 +0530" channel="TNTSports3.uk">
-    <title lang="en">AFL: Sydney Swans v Essendon</title>
-    <desc lang="en">Action from the Australian Football League as Sydney Swans face Essendon at Sydney Cricket Ground.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9218bb60-491c-3018-820d-308a0d602fa8/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327203000 +0530" stop="20240327223000 +0530" channel="TNTSports3.uk">
-    <title lang="en">AFL: W Bulldogs v Gold Coast Suns</title>
-    <desc lang="en">Action from the Australian Football League as Western Bulldogs meet Gold Coast Suns at Mars Stadium.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7b15f0fa-2d06-3df9-86fb-3d475070b48b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240327223000 +0530" stop="20240328003000 +0530" channel="TNTSports3.uk">
-    <title lang="en">AFL: Richmond v Port Adelaide</title>
-    <desc lang="en">Action from the Australian Football League as Richmond face Port Adelaide at Melbourne Cricket Ground.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/21b5023b-d166-38a6-b627-956df98110db/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240328003000 +0530" stop="20240328023000 +0530" channel="TNTSports3.uk">
-    <title lang="en">AFL: WC Eagles v GWS Giants</title>
-    <desc lang="en">Action from the Australian Football League as West Coast Eagles and GWS Giants face-off at Optus Stadium.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2533ffae-e143-3bea-8b13-3db8246443cb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240328023000 +0530" stop="20240328040000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Ultimate Pool</title>
-    <desc lang="en">Action from Ultimate Pool and the Champions League Group 12, featuring Craig Waddingham, Scott Gillespie, Cole Bedford and Matt Cooke.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-    <icon src="https://images.metadata.sky.com/pd-image/148259c7-ddc7-3158-bc63-dfa0f94bb58d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240328040000 +0530" stop="20240328050000 +0530" channel="TNTSports3.uk">
     <title lang="en">Fishing: On The Bank - 2024</title>
     <desc lang="en">Fishing guide Julian Chidgey and Rob Hughes try to catch pike on the Royalty Fishery. And, match angler Nick Speed gives his expert tips on how to fish with bread.</desc>
@@ -266,7 +46,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240328063000 +0530" stop="20240328073000 +0530" channel="TNTSports3.uk">
     <title lang="en">Chelsea W v Ajax W</title>
@@ -280,7 +59,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240328073000 +0530" stop="20240328080000 +0530" channel="TNTSports3.uk">
     <title lang="en">The WRC Magazine</title>
@@ -504,6 +282,306 @@
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <icon src="https://images.metadata.sky.com/pd-image/08869c20-c041-332c-977a-1a50ad540f28/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329081500 +0530" stop="20240329101500 +0530" channel="TNTSports3.uk">
+    <title lang="en">AFL: Brisbane Lions v Collingwood</title>
+    <desc lang="en">Action from the Australian Football League as Brisbane Lions face Collingwood at the Gabba.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97f57c8b-23bd-3bd9-97c5-c25c28abd37d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329101500 +0530" stop="20240329103000 +0530" channel="TNTSports3.uk">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <desc lang="en">We revisit the best bowling action from the first Test between Bangladesh and Sri Lanka, including a five-wicket haul by fast bowler Kasun Rajitha.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/19a1f163-4122-324f-964d-00e7482f1fe9/16-9"/>
+    <episode-num system="xmltv_ns">1.32.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329103000 +0530" stop="20240329114500 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live WRC: Safari Rally Kenya</title>
+    <desc lang="en">Action from Special Stage 2 of Safari Rally Kenya, part of the World Rally Championship season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/47f3d29a-13e6-3cde-a402-015379466871/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329114500 +0530" stop="20240329120000 +0530" channel="TNTSports3.uk">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/22a173f7-8db1-32c0-a75c-7c57d69791cc/16-9"/>
+    <episode-num system="xmltv_ns">23.12.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329120000 +0530" stop="20240329140000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live WRC: Safari Rally Kenya</title>
+    <desc lang="en">Action from Special Stages 3 and 4 of Safari Rally Kenya, part of the World Rally Championship season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9ab5f064-dba5-3326-8512-89ad8baca68b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329140000 +0530" stop="20240329141500 +0530" channel="TNTSports3.uk">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/22a173f7-8db1-32c0-a75c-7c57d69791cc/16-9"/>
+    <episode-num system="xmltv_ns">23.12.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329141500 +0530" stop="20240329161500 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live: Adelaide United v Western U</title>
+    <desc lang="en">Action from the Isuzu UTE A-League as Adelaide United and Western United go head-to-head at Coopers Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/19b69f81-9f21-3745-80a0-39f9b5feec6a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329161500 +0530" stop="20240329171500 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live WRC: Safari Rally Kenya</title>
+    <desc lang="en">Action from Special Stage 5 of Safari Rally Kenya, part of the World Rally Championship season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/69a1aa3d-5a76-3fbf-bcc0-d737ee1579ad/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329171500 +0530" stop="20240329173000 +0530" channel="TNTSports3.uk">
+    <title lang="en">MotoGP Rewind: Portugal 2024</title>
+    <desc lang="en">A look back at the best of the action from the MotoGP Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cc5465af-ae90-39b4-aa10-df6737673abe/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329173000 +0530" stop="20240329200000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live WRC: Safari Rally Kenya</title>
+    <desc lang="en">Action from Special Stages 6 and 7 of Safari Rally Kenya, part of the World Rally Championship season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/acefa2bc-c5af-3d6c-b3d5-ecadcbfd21b9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329200000 +0530" stop="20240329203000 +0530" channel="TNTSports3.uk">
+    <title lang="en">MotoE Highlights: Portugal 2024</title>
+    <desc lang="en">All the best action from the 2024 Grand Prix of Portugal, part of the MotoE season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34a0bf9e-356c-3459-b816-0827cac9d60f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329203000 +0530" stop="20240329213000 +0530" channel="TNTSports3.uk">
+    <title lang="en">MotoGP Highlights: Portugal 2024</title>
+    <desc lang="en">MotoGP highlights from the Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/406194cc-e767-32af-a39d-f61591550f7e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329213000 +0530" stop="20240329214500 +0530" channel="TNTSports3.uk">
+    <title lang="en">Badminton Weekly</title>
+    <desc lang="en">The latest episode of Badminton Weekly.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e2cee926-fd2e-38d9-ac60-8edf6411ba9f/16-9"/>
+    <episode-num system="xmltv_ns">2023.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329214500 +0530" stop="20240329221500 +0530" channel="TNTSports3.uk">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95fb1ed5-bb57-3308-9f5e-7ba8667b88c5/16-9"/>
+    <episode-num system="xmltv_ns">22.22.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329221500 +0530" stop="20240329234500 +0530" channel="TNTSports3.uk">
+    <title lang="en">NBA: Bucks @ Pelicans</title>
+    <desc lang="en">Action from the NBA as Milwaukee Bucks face New Orleans Pelicans at Smoothie King Center.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e867dd99-6384-359d-9d22-b2a870aa8648/16-9"/>
+    <episode-num system="xmltv_ns">2023.147.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240329234500 +0530" stop="20240330004500 +0530" channel="TNTSports3.uk">
+    <title lang="en">EuroCup Basketball</title>
+    <desc lang="en">Action from game one of the EuroCup Basketball semi-finals as Paris Basketball face London Lions.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/495b1731-5a97-315e-8db8-4a208e80f509/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240330004500 +0530" stop="20240330030000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live: EuroCup Basketball</title>
+    <desc lang="en">Action from game two of the EuroCup Basketball semi-finals between London Lions and Paris Basketball.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0bf3b4f9-3831-3957-89a9-7069c8e567b0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240330030000 +0530" stop="20240330033000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e708e59c-4c09-37eb-a3ed-2f339bd8e661/16-9"/>
+    <episode-num system="xmltv_ns">2022.29.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240330033000 +0530" stop="20240330040000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League, including Man City v Arsenal, Chelsea v Burnley and Liverpool v Brighton.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aacda1c3-d524-356b-a07f-fd1d8b55be95/16-9"/>
+    <episode-num system="xmltv_ns">22.29.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240330040000 +0530" stop="20240330043000 +0530" channel="TNTSports3.uk">
+    <title lang="en">The Fantasy Show</title>
+    <desc lang="en">Join the Fantasy Premier League experts for insight and tips ahead of gameweek 30 in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/090c755e-4679-3482-81f5-e3404c2db57f/16-9"/>
+    <episode-num system="xmltv_ns">22.29.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240330043000 +0530" stop="20240330053000 +0530" channel="TNTSports3.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">WWE Universal Champion Roman Reigns and his WrestleMania opponent Cody Rhodes come face to face. Rey Mysterio faces Santos Escobar, while Naomi takes on Iyo Sky.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c0d5cfa6-9ce5-3b41-943c-63034fd5ec92/16-9"/>
+    <episode-num system="xmltv_ns">25.11.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>

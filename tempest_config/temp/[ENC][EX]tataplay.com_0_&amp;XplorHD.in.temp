@@ -3,169 +3,7 @@
   <channel id="&amp;XplorHD.in">
     <display-name lang="en">&amp;Xplor HD</display-name>
   </channel>
-  <programme start="20240327005900 +0530" stop="20240327030300 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">CityLights</title>
-    <desc lang="en">Deepak, an ex-army person from Rajasthan, moves to Mumbai and gets involved in crime.</desc>
-    <credits>
-      <actor>Rajkummar Rao</actor>
-      <actor>Patralekha</actor>
-      <actor>Manav Kaul</actor>
-      <actor>Sadiya Siddiqui</actor>
-      <actor>Pramod Pathak</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF684E19D1A5CE3F4EC1709A9B1CC96BEF028607D.jpg"/>
-  </programme>
-  <programme start="20240327030300 +0530" stop="20240327054100 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Love Breakups Zindagi</title>
-    <desc lang="en">Two strangers and their friends find their lives changing after attending a wedding.</desc>
-    <credits>
-      <actor>Zayed Khan</actor>
-      <actor>Diya Mirza</actor>
-      <actor>Cyrus Sahukar</actor>
-      <actor>Tisca Chopra</actor>
-      <actor>Satyadeep Misra</actor>
-      <actor>Vaibhav Talwar</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CCBFC0BAD46FBB1DDAF8B952E2B4D0DB8DE87A01.jpg"/>
-  </programme>
-  <programme start="20240327054100 +0530" stop="20240327072700 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Kaun Kitney Paani Mein</title>
-    <desc lang="en">Two rivals try to reconcile their conflicts after a water crisis hits their villages.</desc>
-    <credits>
-      <actor>Kunal Kapoor</actor>
-      <actor>Radhika Apte</actor>
-      <actor>Saurabh Shukla</actor>
-      <actor>Gulshan Grover</actor>
-      <actor>Ekavali Khanna</actor>
-      <actor>Robin Das</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DB89E685BF88B3ACD85D994D1F132D8EEB69161AE.jpg"/>
-  </programme>
-  <programme start="20240327072700 +0530" stop="20240327094500 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Half Girlfriend</title>
-    <desc lang="en">Madhav coaxes Riya to be his girlfriend, but she is not really interested in him.</desc>
-    <credits>
-      <actor>Arjun Kapoor</actor>
-      <actor>Shraddha Kapoor</actor>
-      <actor>Vikrant Massey</actor>
-      <actor>Rhea Chakraborty</actor>
-      <actor>Seema Biswas</actor>
-      <actor>Anisa Butt</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16F289B2427CFDF4E20962C325D218F68A5977133.jpg"/>
-  </programme>
-  <programme start="20240327094500 +0530" stop="20240327121700 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Rustom</title>
-    <desc lang="en">Rustom, a naval officer, is accused of murdering Vikram, the lover of his wife.</desc>
-    <credits>
-      <actor>Akshay Kumar</actor>
-      <actor>Ileana D Cruz</actor>
-      <actor>Arjan Bajwa</actor>
-      <actor>Esha Gupta</actor>
-      <actor>Pavan Malhotra</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B219117804B4C795419CE2DC5D010F917395F3E8.jpg"/>
-  </programme>
-  <programme start="20240327121700 +0530" stop="20240327142500 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Kahaani 2: Durga Rani Singh</title>
-    <desc lang="en">A woman tries to rescue a girl with paralysis after someone kidnaps her.</desc>
-    <credits>
-      <actor>Vidya Balan</actor>
-      <actor>Arjun Rampal</actor>
-      <actor>Tunisha Sharma</actor>
-      <actor>Naisha Khanna</actor>
-      <actor>Jugal Hansraj</actor>
-      <actor>Amba Sanyal</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D6B878EB6B120BB18A8CBFBD6F172F269C971C5K.jpg"/>
-  </programme>
-  <programme start="20240327142500 +0530" stop="20240327165100 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Chup</title>
-    <desc lang="en">An inspector general investigates the grisly deaths of multiple film critics in Mumbai.</desc>
-    <credits>
-      <actor>Sunny Deol</actor>
-      <actor>Dulquer Salmaan</actor>
-      <actor>Shreya Dhanwanthary</actor>
-      <actor>Saranya Ponvannan</actor>
-      <actor>Pooja Bhatt</actor>
-      <actor>Rajeev Ravindranathan</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05E45EE33CEE200CF97D1588B07C1FDD3A18DD92B.jpg"/>
-  </programme>
-  <programme start="20240327165100 +0530" stop="20240327183700 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Trapped</title>
-    <desc lang="en">Shaurya must survive after he locks himself in a house that has absolutely nothing.</desc>
-    <credits>
-      <actor>Rajkummar Rao</actor>
-      <actor>Geetanjali Thapa</actor>
-      <actor>Yogendra Vikram Singh</actor>
-      <actor>Patrick Graham</actor>
-      <actor>Rahul Dutta</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/423A627F7DC9320A10263A8327CADBB69FCA9AF0Z.jpg"/>
-  </programme>
-  <programme start="20240327183700 +0530" stop="20240327210000 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Udta Punjab</title>
-    <desc lang="en">The lives of four individuals intertwine during an era of drug abuse in Punjab, India.</desc>
-    <credits>
-      <actor>Shahid Kapoor</actor>
-      <actor>Kareena Kapoor</actor>
-      <actor>Alia Bhatt</actor>
-      <actor>Diljit Dosanjh</actor>
-      <actor>Satish Kaushik</actor>
-      <actor>Suhail Nayyar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F78EE750DBEC068A4D2FC7F40569AC04993FA3438.jpg"/>
-  </programme>
-  <programme start="20240327210000 +0530" stop="20240327225500 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Gunjan Saxena: The Kargil Girl</title>
-    <desc lang="en">Gunjan Saxena breaks barriers to fulfil her dream and serve India in the Kargil War.</desc>
-    <credits>
-      <actor>Janhvi Kapoor</actor>
-      <actor>Riva Arora</actor>
-      <actor>Pankaj Tripathi</actor>
-      <actor>Angad Bedi</actor>
-      <actor>Aaryan Arora</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AFB94E62CAF9D4A6612BBC05DBEED0DA078ADCCDU.jpg"/>
-  </programme>
-  <programme start="20240327225500 +0530" stop="20240328012900 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Zero</title>
-    <desc lang="en">Bauua's life changes after he meets Aafia, a scientist suffering from cerebral palsy.</desc>
-    <credits>
-      <actor>Shah Rukh Khan</actor>
-      <actor>Anushka Sharma</actor>
-      <actor>Katrina Kaif</actor>
-      <actor>Mohammed Zeeshan Ayyub</actor>
-      <actor>Sheeba Chaddha</actor>
-      <actor>Abhay Deol</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4047040B8EDA984F2791F84AD13986784BE9F40N.jpg"/>
-  </programme>
-  <programme start="20240328013600 +0530" stop="20240328024700 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240328024700 +0530" stop="20240328044400 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240328044400 +0530" stop="20240328070300 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240328012900 +0530" stop="20240328035800 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Chale Chalo: The Lunacy Of Film Making</title>
     <desc lang="en">The filmmaker captures behind-the-scenes moments of the film 'Lagaan'.</desc>
     <credits>
@@ -176,49 +14,172 @@
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/49E8B24F9B59FD8E429AA8B2360BEADCF225D36FU.jpg"/>
   </programme>
-  <programme start="20240328070300 +0530" stop="20240328090800 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240328035800 +0530" stop="20240328062000 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Bangistan</title>
+    <desc lang="en">Two terrorists embark on a bombing mission but a series of events changes their heart.</desc>
+    <credits>
+      <actor>Riteish Deshmukh</actor>
+      <actor>Pulkit Samrat</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Kumud Mishra</actor>
+      <actor>Chandan Roy Sanyal</actor>
+      <actor>Arya Babbar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE8EAB3584FE5C0C11476071DB17AAC9FFF53B0C.jpg"/>
+  </programme>
+  <programme start="20240328062000 +0530" stop="20240328085000 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Happy Phirr Bhag Jayegi</title>
+    <desc lang="en">A woman named Harpreet Kaur is kidnapped in China due to a case of mistaken identity.</desc>
+    <credits>
+      <actor>Sonakshi Sinha</actor>
+      <actor>Diana Penty</actor>
+      <actor>Jimmy Sheirgill</actor>
+      <actor>Ali Fazal</actor>
+      <actor>Jassi Gill</actor>
+      <actor>Piyush Mishra</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D31A8A1D7E11D6B6B46E3E14F41D5403ADB60B60.jpg"/>
+  </programme>
+  <programme start="20240328085000 +0530" stop="20240328113300 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Gold</title>
+    <desc lang="en">Tapan Das strives to overcome many obstacles to earn a gold medal in the Olympics.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Mouni Roy</actor>
+      <actor>Kunal Kapoor</actor>
+      <actor>Amit Sadh</actor>
+      <actor>Vineet Kumar Singh</actor>
+      <actor>Sunny Kaushal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9140EF057FA3408A46F6DB7E502462285D5C7E68V.jpg"/>
+  </programme>
+  <programme start="20240328113300 +0530" stop="20240328135000 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Karthik Calling Karthik</title>
+    <desc lang="en">Karthik is an introvert whose life changes drastically after a phone call from a stranger.</desc>
+    <credits>
+      <actor>Farhan Akhtar</actor>
+      <actor>Deepika Padukone</actor>
+      <actor>Ram Kapoor</actor>
+      <actor>Shefali Shah</actor>
+      <actor>Vivan Bhatena</actor>
+      <actor>Vipin Sharma</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/699F925C71A48E3290B275C23F7F97010D168B3B8.jpg"/>
+  </programme>
+  <programme start="20240328135000 +0530" stop="20240328161200 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Shamitabh</title>
+    <desc lang="en">Danish's acting and Amitabh's voice soar in the film industry before their ego steps in.</desc>
+    <credits>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Dhanush</actor>
+      <actor>Akshara Haasan</actor>
+      <actor>Ivan Rodrigues</actor>
+      <actor>Rukmini Vijayakumar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169152D2C9AC4EBD321AD643E728D0E46B3492EEC.jpg"/>
+  </programme>
+  <programme start="20240328161200 +0530" stop="20240328184000 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Jab Harry Met Sejal</title>
+    <desc lang="en">Trouble ensues when Sejal enlists Harry's help to retrieve her lost engagement ring.</desc>
+    <credits>
+      <actor>Shah Rukh Khan</actor>
+      <actor>Anushka Sharma</actor>
+      <actor>Aru Krishansh Verma</actor>
+      <actor>Chandan Roy Sanyal</actor>
+      <actor>Evelyn Sharma</actor>
+      <actor>Kavi Shastri</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7AB683B03C9487A5640BF74C0C1C3832B1D0E208.jpg"/>
+  </programme>
+  <programme start="20240328184000 +0530" stop="20240328210000 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Mard Ko Dard Nahin Hota</title>
+    <desc lang="en">A young man who is insensitive to pain uses his abilities to help his biggest idol.</desc>
+    <credits>
+      <actor>Abhimanyu Dassani</actor>
+      <actor>Radhika Madan</actor>
+      <actor>Gulshan Devaiah</actor>
+      <actor>Mahesh Manjrekar</actor>
+      <actor>Jimit Trivedi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/056214F99E3507DAEE4A0A44000CF76DBB70B8F9A.jpg"/>
+  </programme>
+  <programme start="20240328210000 +0530" stop="20240328231700 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Dhadak</title>
+    <desc lang="en">Madhu and Parthavi fall in love but face opposition due to their differing social status.</desc>
+    <credits>
+      <actor>Ishaan Khatter</actor>
+      <actor>Janhvi Kapoor</actor>
+      <actor>Ashutosh Rana</actor>
+      <actor>Ankit Bisht</actor>
+      <actor>Shridhar Watsar</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F69139A817DD839818ABBCBF9EFEDC3B91BB0900V.jpg"/>
+  </programme>
+  <programme start="20240328231700 +0530" stop="20240329000000 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Operation Romeo</title>
+    <desc lang="en">A young man seeks revenge after being tortured by a supposed police officer.</desc>
+    <credits>
+      <actor>Sidhant Gupta</actor>
+      <actor>Vedika Pinto</actor>
+      <actor>Bhumika Chawla</actor>
+      <actor>Sharad Kelkar</actor>
+      <actor>Kishor Kadam</actor>
+      <actor>Neha Khan</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10C6E79ED9E24989950C51175CE06ACA810D8E20A.jpg"/>
+  </programme>
+  <programme start="20240329022100 +0530" stop="20240329040000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328090800 +0530" stop="20240328111900 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240329040000 +0530" stop="20240329060000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328111900 +0530" stop="20240328140300 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240329060000 +0530" stop="20240329090000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328140300 +0530" stop="20240328161700 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240329090000 +0530" stop="20240329120000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328161700 +0530" stop="20240328185200 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240329120000 +0530" stop="20240329150000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328185200 +0530" stop="20240328210000 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240329150000 +0530" stop="20240329180000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328210000 +0530" stop="20240328233100 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240329180000 +0530" stop="20240329210000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240328233100 +0530" stop="20240329022100 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240329210000 +0530" stop="20240330030000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
